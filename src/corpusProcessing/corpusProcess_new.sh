@@ -27,18 +27,21 @@ HIGHLIGHT_SINGLE=${HIGHLIGHT_SINGLE:- 0.9}
 
 echo ${green}===Running AutoPhrase===${reset}
 cd ../tools/AutoPhrase
-make
 echo ${green}==='RAW_TRAIN:' $RAW_TRAIN===${reset}
+
 echo "auto_phrase.sh parameters:" $DATA $RAW_TRAIN $MIN_SUP $QUALITY_WIKI_ENTITIES $THREAD
-chmod +x ./auto_phrase.sh
-./auto_phrase.sh $DATA $RAW_TRAIN $MIN_SUP $QUALITY_WIKI_ENTITIES $THREAD
+docker run -v $PWD/data:/autophrase/data -v $PWD/results:/autophrase/results \
+    remenberl/autophrase bash ./autophrase.sh $DATA $RAW_TRAIN $MIN_SUP $QUALITY_WIKI_ENTITIES $THREAD
+
+echo ${green}===Running AutoPhrase Segmentation===${reset}
 echo "phrasal_segmentation.sh parameters:" $DATA $RAW_TRAIN $HIGHLIGHT_MULTI $HIGHLIGHT_SINGLE $THREAD
-chmod +x ./phrasal_segmentation.sh
-./phrasal_segmentation.sh $DATA $RAW_TRAIN $HIGHLIGHT_MULTI $HIGHLIGHT_SINGLE $THREAD
+docker run -v $PWD/data:/autophrase/data -v $PWD/results:/autophrase/results \
+    remenberl/autophrase bash -c "./phrasal_segmentation.sh $DATA $RAW_TRAIN $HIGHLIGHT_MULTI $HIGHLIGHT_SINGLE $THREAD && ls -la results/ && ls -la models/"
 
 if [ ! -d ../../../data/$DATA/intermediate ]; then
   mkdir ../../../data/$DATA/intermediate
 fi
+
 
 mv models/$DATA/segmentation.txt ../../../data/$DATA/intermediate/segmentation.txt
 mv models/$DATA/AutoPhrase_multi-words.txt ../../../data/$DATA/intermediate/AutoPhrase_multi-words.txt
