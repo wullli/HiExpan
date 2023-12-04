@@ -1,0 +1,1808 @@
+34 fat Quark	1183
+5 Grain Flakes	1392
+6 Grain Grits	1202
+Acacia	783
+Acacia Honey	782
+Agar	112
+Agar Agar	111
+Agave	1638
+Agave syrup	1637
+Aids	1483
+Ajvar	360
+Ajvar Falafel	407
+Alcoholic beverages	225
+Allium	818
+Almond	91
+Almond cookies	90
+Almond drink	388
+Almond liqueur	971
+Almond mush	134
+Amaranth	1675
+Amaretti	801
+Anglique	1698
+Animal	1709
+Animal fats	1708
+Anise	1514
+Anise Liqueur	1729
+Aonori	812
+Appenzeller	1782
+Appenzeller Siedwurst	1389
+Apple	183
+Apple Spritzer	986
+Apple cider vinegar	766
+Apple wine	182
+Apple_cider	767
+Applesauce	690
+Apricot	33
+Apricot Brandy	32
+Apricot Mustard	1476
+Apricot jam	349
+Aronia Berry Powder	314
+Artichoke bottom	378
+Arugula Sprout	113
+Asiago	1545
+Asian	287
+Asian Pasta	286
+Asparagus	432
+Asparagus bean	431
+Avocado	759
+BBQ Coffee Cocoa Rub	1726
+Baby Potato	835
+Baby corn	129
+Bagel	730
+Bagel dough	1176
+Baguette	1779
+Baking Decorations	1570
+Baking Marzipan	1678
+Baking Soda	1631
+Baking acids	1032
+Baking mix	932
+Baking powder	1067
+Baking_Soda	1632
+Baking_powder	1068
+Balsamic Cream	933
+Balsamic Vinegar Pearls	1589
+Balsamic Vinegar With Fig Flavor	548
+Balsamic vinegar	1598
+Balsamic_Vinegar	94
+Balsamic_vinegar	549
+Bamboo Shoot	1499
+Bamboo_Shoot	1500
+Banana	566
+Banana Mango Quark	565
+Banana flour	1342
+Barbecue Sauce	760
+Barbecue_Sauce	761
+Basic	638
+Basic Sauces	637
+Batavia	264
+Batavia lettuce	263
+Bay_Leaf	368
+Bean	1037
+Bear Cheese Happily	590
+Beaver	1561
+Beef	110
+Beef Ribeye	218
+Beef bouillon cubes	1116
+Beef cheeks	1490
+Beef escalopes	1588
+Beef liver	1417
+Beef marrow bones	364
+Beef rump	1156
+Beef sausage	1300
+Beef sirloin	291
+Beef sirloin steak	1372
+Beef stew	109
+Beer	283
+Beer Apple Wine	1409
+Beer sausage	1799
+Beetroot	1079
+Beetroot juice	1078
+Beetroot salad	1243
+Beetroot sprouts	901
+Bell Bernerli	1075
+Bell Chiporosa	1764
+Bell Pepper Chips	1249
+Bell_Pepper	1250
+Bell_Peppers	1419
+Bell_pepper	1100
+Beluga	1640
+Beluga Lentil	1639
+Berries	1122
+Berry Juice	1734
+Betty Bossi Baking Flour	331
+Betty Bossi Chocolate Shavings	1401
+Betty Bossi Lets Cook Market Vegetables	1470
+Betty Bossi Risotto Milanese	632
+Betty Bossi Vanilla Paste	1635
+Biscuit	764
+Bitter liqueur	411
+Black	8
+Black Mustard Seed	1628
+Black Nut	7
+Black Olive	1520
+Black Pepper	771
+Black Sesame	1086
+Black Truffle in Oil	1285
+Black Trumpet	1538
+Black Venere Rice	1672
+Black_Tea	1180
+Blackberry	128
+Blackberry Jam	127
+Blackberry Jelly	489
+Blackberry Sorbet	593
+Blackcurrant	1431
+Blackcurrant Jelly	1430
+Blackcurrant syrup	823
+Blanc battu	762
+Blini	836
+Bloderchs	235
+Blood	1226
+Blood Orange Juice	1225
+Blood Orange Yogurt Ice Cream	1488
+Blood orange	1595
+Blood sausage	712
+Blood_Orange	1489
+Blue	1
+Blue Chips	1257
+Blue Curaao	0
+Blue Grape	1352
+Blue cheese	1610
+Blue mussel	1540
+Blue_chip	1258
+Blueberry	310
+Blueberry jam	309
+Bndner Rteli	97
+Bndnerfleisch	66
+Boiled Potatoes	307
+Boiled wine	1620
+Bolognese	964
+Bolognese Sauce	963
+Bone	1492
+Bonito	1422
+Bonito Flakes	1421
+Bouillon	1102
+Braided flour	806
+Branchli	1679
+Brandy	34
+Bratwurst	1786
+Bread	441
+Bread Baked Goods	658
+Bread roll	44
+Bread spreads	909
+Bread_roll	45
+Breakfast flakes	419
+Breast	399
+Bresaola	626
+Brie	744
+Brioche	609
+Brli	765
+Broad Beans	1583
+Broad bean	177
+Broth	403
+Broth Powder Cubes	402
+Broths	1738
+Brown Mushroom	496
+Brown rock sugar	871
+Brownie	1406
+Brownie Baking Mix	714
+Brussels sprouts	752
+Buckwheat flour	482
+Buckwheat wholemeal flour	1777
+Buffalo	1071
+Buffalo Mozzarella	1070
+Bulgur	887
+Buttenmost	1579
+Butter	24
+Butter Mailnderli Dough	864
+Butter Margarine	23
+Butter cookies	560
+Buttermilk	498
+Butternut Squash	1172
+Button flour	1191
+Cabbage	1284
+Cacao	968
+Cacao Nibs	967
+Cachaa	992
+Cailler Branches Crmant	506
+Cailler Cuisine Chocolate Powder	1695
+Cailler Cuisine Milk	322
+Cailler Cuisine Noir 64	1680
+Cailler Frigor Milk Squares	1442
+Cake	329
+Cakes	47
+Calvados	599
+Camembert	1231
+Candied Cherry	210
+Candied Citrus Peel	976
+Candied Fruits	1806
+Candied Ginger	721
+Candied Nuts	542
+Candied Orange Slice	1109
+Candied Pineapple	769
+Candied peel	1237
+Candied sugar	946
+Canned Borlotti Beans	1074
+Canned Vegetables	1098
+Canned White Soisson Beans	1329
+Canned adzuki beans	1699
+Canned chickpeas	1308
+Canned compote pears	545
+Canned fruit	1369
+Canned mushrooms marinated in oil	926
+Canned pearl onions	1380
+Canned soybean	860
+Cantucci	1103
+Caramel	564
+Caramel Cookies	606
+Caramel Liqueur	1278
+Caramel Popcorn	1395
+Caramel Spread	200
+Caraway	100
+Caraway powder	99
+Cardamom	1093
+Cardamom pod	238
+Cardamom powder	768
+Carob	60
+Carob gum	59
+Carrot	1089
+Carrot juice	1088
+Carrots	451
+Cashew	252
+Cashew Drink	251
+Cashew Mues	1120
+Cashew Nut	87
+Cashew_Nut	88
+Catalogna	1413
+Caul	858
+Caul fat	857
+Cauliflower	659
+Cauliflower rice	928
+Caviar	1494
+Cayenne Pepper	416
+Cayenne_Pepper	417
+Celery stalk leaf	1577
+Cereal	1174
+Champagne	741
+Champagne Demi Sec	1524
+Chard	817
+Cheese	1001
+Cheesecake mix	1410
+Cherry	49
+Cherry Jam	1065
+Cherry Tomato	1146
+Chicken	398
+Chicken leg	1206
+Chicken liver	1377
+Chicken meat	1330
+Chickpea	1716
+Chickpea flour	1715
+Chicory	1609
+Childrens Schoko Bons	802
+Chili	912
+Chili Oil	1271
+Chili Raclette Cheese	1621
+Chili Veal Sausage	911
+Chili paste	1351
+Chili peppers	1222
+Chili_sauce	877
+China	1459
+Chinese cabbage	1661
+Chips	724
+Chocolate	781
+Chocolate Biscuit	1484
+Chocolate Chip Cookie	1433
+Chocolate Drops	597
+Chocolate covered coffee bean	1615
+Chocolate decoration	780
+Chocolate discs with peppermint cream filling	1594
+Chocolate sprinkles	1544
+Chocolate waffles	1668
+Chocolate_Chip_Cookie	1434
+Chocolates	610
+Chorizo	895
+Ciabatta	192
+Cicorino Rosso	1684
+Cicorino verde	108
+Cima di rapa	1530
+Cinnamon	325
+Cinnamon sugar	324
+Citric Acid	1359
+Citric_Acid	1360
+Citron	1064
+Citron Lemon	1063
+Citrus	977
+Citrus fruit peels	436
+Citrus fruits	664
+Citrus_fruit	437
+Clam	1307
+Clear Gloss Jelly	1175
+Clementine	1084
+Clementine Juice	1083
+Clove	1045
+Coarse grained salt	427
+Coarse oat flakes	167
+Cocktail	1210
+Cocktail Cherry	1209
+Coconut	474
+Coconut Calamansi Syrup	1548
+Coconut Thyme	1311
+Coconut Yogurt	1622
+Coconut blossom sugar	1059
+Coconut chip	473
+Coconut cream	1128
+Coconut flour	1517
+Coconut liqueur	1807
+Coconut oil	502
+Coconut_cream	1129
+Coconut_oil	503
+Cod	1211
+Cod Similar	1626
+Cod fillet	1361
+Coffee	312
+Coffee Liqueur	311
+Coffee cream	302
+Cola drink	1341
+Cold cuts	1754
+Colored Hard Candy	1711
+Colored Marzipan	17
+Colored Modeling Marzipan	1655
+Colored Pasta	1451
+Condensed milk	627
+Confectionery	1438
+Confectionery powder	61
+Confi Vite	840
+Cooked Giant Shrimp	1023
+Cooked Ham	1528
+Cooked Rice	246
+Cooked Yellow Lentil	197
+Cooked beetroot	19
+Cooked vegetables	1440
+Cookies	1504
+Cooking	159
+Cooking Baking Aids	1482
+Cooking chocolate	158
+Coop Jam Sugar	1507
+Coquelet	79
+Coriander	243
+Coriander seeds	1505
+Corn	268
+Corn Germ Oil	573
+Corn Tortilla Wrap	267
+Corn fed Chicken Breast	397
+Corn wafer	376
+Cornelian cherry	538
+Cornichon	516
+Cornmeal	514
+Cottage cheese	56
+Cotton Candy	409
+Cotton_candy	410
+Couscous	1591
+Couverture Drops	1336
+Cracker	1521
+Cranberry	1051
+Cream	934
+Cream Cheese	256
+Cream Cheese With Pepper	505
+Cream holder	1792
+Cream_Cheese	257
+Crema	1371
+Crema di Pomodori	1370
+Creole Rice	1707
+Cress	1214
+Crispbread	954
+Crispbreads	1653
+Crme frache with herbs	1026
+Crodino	1435
+Croissant	404
+Cruciferous	1627
+Crunchy muesli	965
+Crustaceans	1654
+Crusty wreath	706
+Cumin	1265
+Cumin powder	1264
+Cumin seeds	1073
+Curd	415
+Curly endive	543
+Currant	27
+Curry	289
+Curry Tofu	288
+Curry_Powder	1277
+Cutlet	120
+Cuttlefish Ink	1584
+Cynar	1437
+Dairy	1263
+Dairy Powder	1262
+Dairy Products Dairy Substitute Products	1424
+Dairy_Products	1425
+Dandelion	1306
+Dark Almond Butter	1768
+Dark Beer	786
+Dark Bread	219
+Dark Cake Biscuit Base	763
+Dark Cake Glaze	1274
+Dark Chocolate	873
+Dark chocolate with caramel and salt	280
+Dashi	223
+Date Sweetness	1305
+Date syrup	1455
+Deep felt Borlotti Bean	1036
+Deep frozen chestnut	240
+Deep frozen hake	704
+Deep frozen peas	552
+Deep frozen rose hips	774
+Deep frozen rowanberry	114
+Delicatessen	42
+Delicatessen Paprika	41
+Dessert	1510
+Dessert Bdeli	1509
+Desserts	919
+Dextrose	236
+Dijon	1290
+Dijon Mustard	1289
+Dlicorn Minced	707
+Dlicorn Sausage	1694
+Dlicorn Schnitzel	778
+Dlicorn Sliced	544
+Double Cream of Gruyre and Meringues Ice Cream	1671
+Double cream	1199
+Double cream soft cheese with blue mold	1131
+Dough	362
+Dried Apple	353
+Dried Basil	363
+Dried Bay Leaf	367
+Dried Blueberry	377
+Dried Borlotti Beans	1006
+Dried Cherry	48
+Dried Cranberry	1769
+Dried Green Lentils	205
+Dried Herbs	1386
+Dried Lemon Verbena	672
+Dried Mango	1066
+Dried Morel	959
+Dried Mu Err Mushroom	1685
+Dried Oregano	1722
+Dried Papaya	1244
+Dried Pineapple	825
+Dried Red Lentils	1028
+Dried Rosemary	1220
+Dried Shiitake Mushroom	1272
+Dried Soybean	1687
+Dried Tamarind	1760
+Dried Tomato	372
+Dried Vegetables	725
+Dried Yellow Lentils	754
+Dried apricot	1692
+Dried bean	846
+Dried coconut meat	82
+Dried fig	539
+Dried fruits	423
+Dried pear	1508
+Dried porcini mushroom	1473
+Dry Pasta	176
+Dry Sherry	969
+Dry Sparkling Wine	526
+Dry White Wine	793
+Dry yeast	794
+Duck	1229
+Duck breast	1518
+Duck meat	1228
+Dukkah	334
+Durum Wheat Semolina	1495
+Durum_Wheat	1496
+Dwarf Pumpkin	354
+Early potato	902
+Edamame	462
+Edible Flower Mix	1217
+Edible paper	469
+Egg	37
+Egg mushroom	36
+Egg yolk	1415
+Eggs	1017
+Einback	608
+Elderflower Syrup	1714
+Emmental	1035
+Emmi Gala Cheese	1755
+Epifin Wheat Starch	749
+Erythritol	389
+Espelette Pepper Powder	1193
+Falafel	408
+Farmers bacon	1379
+Farmers flour	1443
+Farmers sausage	211
+Farmhouse bread	671
+Fat free beef bouillon powder	851
+Fat free vegetable broth	1506
+Fennel	1267
+Fenugreek	925
+Fermented Seasonings	1207
+Feta	982
+Feta Cheese	737
+Feta_Cheese	738
+Fibrex Sugar Beet Fiber	1007
+Fig	123
+Fig Mustard	1134
+Fillings	889
+Fior di Latte Ice Cream	645
+Firm cooking potato	457
+Fish	1041
+Fish Seafood	644
+Flammkuchen dough	1247
+Flatbreads	1546
+Flatfish	574
+Flavored cheese varieties	1177
+Flavors	746
+Flaxseed Oil	528
+Fleur de Sel	1184
+Flour	35
+Floury Potato	446
+Floury boiled potatoes	1138
+Flowers	347
+Flowers Blossoms	346
+Fondants Icing	1658
+Fondue	1000
+Fondue Cheese Mix Moiti Moiti	999
+Fontina	753
+Food	831
+Food coloring	1261
+Forest	122
+Forest Honey	121
+Four grain cereal wafer	847
+Fresh Coriander	242
+Fresh Lemon Thyme	884
+Fresh Marjoram	789
+Fresh Orange Thyme	227
+Fresh Oregano	938
+Fresh Thai Basil	1498
+Fresh Thyme	478
+Fresh chervil	80
+Fresh chives	1049
+Fresh cut garlic	1648
+Fresh herbs	1636
+Fresh parsley	619
+Fresh pasta	1670
+Freshwater	1047
+Frozen Aa Puree	667
+Frozen China Mix	1458
+Frozen Cranberry	1317
+Frozen Green Bean	1796
+Frozen berry mix	653
+Frozen blueberry	1700
+Frozen cauliflower	611
+Frozen chicken wing	341
+Frozen plum	442
+Frozen vegetable mix	1644
+Fruit	162
+Fruit Compotes Pastes	650
+Fruit Powder	1562
+Fruit bread	1702
+Fruit concentrates	1751
+Fruit gum	1445
+Fruit juice	591
+Fruit liqueur	987
+Fruit mix	435
+Fruit salad	405
+Fruit vegetables	581
+Fruit vinegar	870
+Fruit_juice	592
+Frutti di Mare	559
+Frying cream	1038
+Galbani Mignons Bel Paese	1343
+Game	888
+Garam Masala	799
+Garam_Masala	800
+Garlic	103
+Garlic Powder	102
+Garlic clove	1801
+Garlic flakes	722
+Gelatin	237
+Gelfix 21	1087
+Gelfix 31	1246
+Giant shrimp	1104
+Gilt head bream	305
+Ginger	657
+Ginger Ale	390
+Ginger Orange Lemonade	1248
+Ginger Powder	1719
+Ginger_Ale	391
+Gingerbread	907
+Gingerbread Dough	906
+Gitzi Soft Cheese	1450
+Gitzikse	700
+Gitzischlegel	406
+Glarner Veal Sausage	330
+Glass	1346
+Glass noodle	1345
+Gluten	1297
+Gluten free Baguette	1778
+Gluten free Ciabatta	1749
+Gluten free Gnocchi	854
+Gluten free Speculoos	1543
+Gluten free bouillon	571
+Gluten free bread	1014
+Gluten free breadcrumbs	2
+Gluten free cake dough	1268
+Gluten free chocolate cookies	1259
+Gluten free corn breadcrumbs	1563
+Gluten free flour	703
+Gluten free ladyfingers	519
+Gluten free lasagna sheet	1344
+Gluten free multigrain bread	1139
+Gluten free oatmeal	1774
+Gluten free oatmeal cookies	517
+Gluten free pasta	1318
+Gluten free soy sauce	874
+Gluten free tortilla wrap	448
+Gluten free whole grain oat flakes	1368
+Gluten free whole grain oat flour	179
+Gluten_free	3
+Gnocchi	1420
+Goat meat	1404
+Goat meat eating	1529
+Goat_meat	1405
+Gold	1332
+Gold Powder	1331
+Goose	515
+Goose liver	1397
+Goose meat	1608
+Gorgonzola	169
+Gourmet	480
+Gourmet Salad	479
+Grain	1203
+Grape	681
+Grapefruit	393
+Grapefruit juice	1703
+Grapefruit peel	392
+Grapefruit_juice	1704
+Grappa	961
+Graved Salmon	1549
+Greek	958
+Greek Yogurt Natural	957
+Green	495
+Green Asparagus	1315
+Green Bean Kernel	582
+Green Bionda	972
+Green Curry Paste	1348
+Green Peperoncino	507
+Green Pepper	1560
+Green kernel grits	1612
+Green_Bean	1797
+Green_bean	583
+Green_tea	13
+Grenadine	569
+Grenadine Syrup	568
+Grilled sausages	1092
+Grillsmoke Hickory Liquid Smoke	1485
+Grissini	1335
+Grits	1204
+Ground Almond	1106
+Ground Hazelnut	1720
+Ground Meat	137
+Ground Nuts	1526
+Ground Spices	955
+Ground Star Anise	530
+Ground Turmeric	1110
+Ground Vegetables	1472
+Ground chicken	1060
+Ground_Meat	138
+Gruyre	1617
+Gschwellti	607
+Guetzli	880
+Guinea	285
+Guinea fowl	284
+Guinea fowl breast	1558
+Guinea fowl meat	1232
+Halloumi	53
+Hamburger	216
+Hamburger bun	215
+Hard Caramel	1454
+Hard boiled egg	1061
+Hard candies	98
+Hard cheese	1252
+Hawaii	15
+Hawaii Salt	14
+Hazelnut	950
+Hazelnut Cake Glaze	1741
+Hazelnut Macaroon	949
+Hazelnut Spread	1523
+Hazelnut ice cream	1457
+Hazelnut praline	1446
+Herb	429
+Herb Cantadou	980
+Herb Cream Cheese	1471
+Herb Salt	1646
+Herb Tomatoes	1730
+Herb butter	532
+Herb vinegar	428
+Herbal tea blend	747
+Herbes de Provence	1281
+Herbs	1196
+Herbs Spices	1195
+Hickory	1486
+Honey	28
+Honey Mustard	89
+Hops	953
+Horseradish mustard	1056
+Hot Mustard	101
+Ice Cream Cone	1783
+Ice Cream Sorbet	1582
+Ice cream	733
+Ice cubes	1223
+Ice_Cream	547
+Ice_Cream_Cone	1784
+Iceberg	798
+Iceberg lettuce	797
+Iced tea concentrate	1387
+In Oil	374
+Instant Coffee Powder	923
+Instant Powders	1154
+Instant Tea Powder	1280
+Instant_coffee	924
+Italian	695
+Jackfruit	585
+Jackfruit in BBQ Marinade	584
+Jam	1677
+Jams Jellies	1142
+Jasmine_Rice	1574
+Jerusalem artichoke	1009
+John Dory	586
+John_Dory	587
+Juice	40
+Kaffir Lime Leaf	996
+Kaffir_Lime	997
+Kalette	1775
+Karma	73
+Karma Coconut Chips Ginger	656
+Karma Jocos nature	1559
+Karma Mini Vegetable Falafel	1149
+Karma Oat Drink Nature	536
+Karma Power Topping	321
+Karma Sweet Potato for Fries	687
+Kasseler	1663
+Kefir	1188
+Kernel Nut Mix	861
+Kernel roll	834
+Ketchup	844
+Kimchi	596
+Kinder Surprise Egg	988
+King	808
+King Oyster Mushroom	807
+Kingfish	1619
+Kiwi	701
+Knorr Bouillon Tpfli Beef	1101
+Knorr Curry Sauce	631
+Kohlrabi	172
+Kohlrabi leaf	1052
+Kombu	1124
+LEtivaz	550
+Lamb loin	1114
+Lamb meat	356
+Lamb mince	598
+Lamb rump	222
+Lambs lettuce	1353
+Lasagne	509
+Lasagne Sheet	508
+Latte	646
+Lavender twig	1645
+Lckerli Basler	1674
+Le Parfait Spread with Liver	1717
+Leaf	998
+Leafy vegetables	960
+Lean ground beef	212
+Lean veal mince	910
+Leavening agent	1159
+Leavening_agent	1160
+Leek	679
+Legumes	1551
+Lemon	338
+Lemon Balm Syrup	1444
+Lemon Curd	1790
+Lemon Jam	1168
+Lemon Pepper	1136
+Lemon White Balsamic Cream	1112
+Lemon peel	337
+Lemon sorbet	837
+Lemon syrup	1096
+Lemon vinegar	1164
+Lemonade	181
+Lentil	198
+Lentil Chips	1391
+Licorice	804
+Licorice Powder	803
+Liebig	897
+Liebig Meat Extract	896
+Light	328
+Light Cake Glaze	327
+Light Mayonnaise	1400
+Light Sultana	1058
+Lime	1795
+Lime peel	1673
+Limousin	1235
+Limousin Sirloin Steak	1234
+Liqueur	313
+Liqueur wine	1283
+Liquid	1487
+Liquid Sweetener	1599
+Liver	931
+Liver pates	930
+Liverwurst	1337
+Lollo Rosso	1288
+Loose Orange Blossom Tea	1251
+Loose green tea with peppermint	1604
+Low fat curd cheese	1339
+Low fat spreadable processed cheese	758
+Lucerne	557
+Lucerne Cream Cheese	556
+Lychee	1456
+Lyoner	1669
+Mackerel	900
+Madras	1276
+Madras Curry Powder	1275
+Maizena Express Brown	316
+Maizena Express Light	989
+Manchego	682
+Mandarin	275
+Mandarin Black Tea	1179
+Mango	234
+Maple syrup	660
+Maple_syrup	661
+Margarine	25
+Marinated chicken meat	1374
+Marinated meat	634
+Marjoram	790
+Marsala	1144
+Marsala Wine	1143
+Marshmallow	1077
+Marzipan	18
+Marzipan Carrots	450
+Masgonzola	684
+Matcha	12
+Matcha Green Tea Powder	11
+Mayonnaise	136
+McCormick Italian Herb Grinder	1161
+McCormick Piri Piri	899
+McCormick Salad Mix Italian	693
+Meat	898
+Meat Meat Substitute Products	1215
+Meat Pastes Pies	1667
+Medium hot mustard	1423
+Melon	359
+Melon Juice	970
+Merguez	1742
+Meringue	614
+Meringue with hazelnuts	613
+Merqun	161
+Merqun Spice Mix	1053
+Mild curry powder	1407
+Milk	323
+Milk drink	1794
+Milk powder	1015
+Milkwater	883
+Millet	124
+Millet flakes	461
+Minced_Meat	1313
+Mineral water with carbonation	676
+Mineral_water	677
+Mini	1150
+Mini Cherry Sticks	1432
+Mirabelle	890
+Mirin	1532
+Mixed Bell Peppers	1418
+Mixed Mushrooms	1085
+Mixed Sprouts	1607
+Mixed Summer Vegetables	643
+Mixed Vegetables	195
+Mixed Winter Vegetables	985
+Mixed minced meat	1090
+Molasses	50
+Mollusks	1759
+Monks	1367
+Monks Beard	1366
+Monosodium glutamate	696
+Monosodium_glutamate	697
+Morel	1590
+Mother in laws tongues	975
+Mountain	535
+Mountain cheese	534
+Mozzarella	1072
+Mozzarella Stick	1791
+Muesli mix	1691
+Muffin Baking Mix	1163
+Mulled Wine	1502
+Multigrain bread	715
+Multigrain flour	862
+Mung Bean Sprouts	891
+Mung_Bean	892
+Munster	777
+Munster cheese	776
+Mushroom	497
+Mushroom bouillon	1310
+Mushrooms	651
+Mustard	1080
+Mustard Powder	1412
+Mustard fruit	1293
+Mustard seeds	617
+Mustard sprout	276
+Mustard_seed	1629
+Napoli	1555
+Naturafarm Pork Sausages	811
+Natural yogurt	1294
+Nature	1326
+Nettle leaves	1022
+Neuchtel Sausages	1659
+Ngeli	1477
+Noir	1681
+Non alcoholic beer	1170
+Non alcoholic beer apple wine	1468
+Non alcoholic beverages	810
+Non alcoholic sparkling wine	1338
+Nonpareils	140
+Noodle	384
+Noodles	1005
+Nordic sour milk	918
+Nut Butter	1533
+Nut Seed Mixes	471
+Nut bars	155
+Nut cheese	350
+Nutmeg	1333
+Nuts	915
+Nuts Seeds	420
+Oat	74
+Oat nuts	908
+Oatmeal	1019
+Oatmeal cookies	1357
+Offal	145
+Oil	375
+Oils Fats	139
+Okonomiyaki	792
+Okonomiyaki Sauce	791
+Olive	440
+Olive Bread	439
+Olive oil	635
+Olive_oil	636
+Onion	855
+Onion Powder	1383
+Onion sprout	424
+Orange	1140
+Orange Blossom Water	292
+Orange Passion Fruit Juice	850
+Orange Pepper	1463
+Orange juice	254
+Orange liqueur	1650
+Orange peel	1798
+Orange syrup	244
+Orange_Juice	1227
+Orange_juice	255
+Oregano	939
+Oreo	194
+Oreo Cookies	193
+Organic	72
+Ostrich	1321
+Ostrich fillet	1320
+Ostrich meat	1501
+Other Oily Saltwater Fish	1756
+Other Processed Foods	269
+Other White fleshed Freshwater Fish	1046
+Other White fleshed Saltwater Fish	1040
+Other baked goods	141
+Other baking aids	1054
+Other fruits	1390
+Other nuts	937
+Other snacks	716
+Oven Fries	1076
+Oven roast in slices	1744
+Oyster	809
+Oyster Mushroom	940
+Oyster Sauce	947
+Oyster_Sauce	948
+Pagnol bread	430
+Pak	1576
+Pak Choi	1575
+Palatinate carrots	629
+Pale Beer	282
+Pancetta	1745
+Paneer	1396
+Panettone	647
+Pangasius	886
+Papaya	1241
+Paprika	43
+Parma	866
+Parma ham	865
+Parmesan	1633
+Parsnip	224
+Passion Fruit Curd	413
+Passion_Fruit	414
+Pasta	85
+Pasta and noodles	1439
+Pasta dough	1765
+Pastetli	1097
+Pattypan	1221
+Pea	917
+Pea protein powder	1664
+Pea sprouts	916
+Peach	434
+Peach Juice	1660
+Peach nectar	1147
+Peach syrup	433
+Peak	1240
+Peanut	400
+Peanut butter	394
+Peanut_butter	395
+Pear	501
+Pear Bread Spice	1793
+Pear Weggen Filling	1266
+Pear syrup	500
+Pearl	756
+Pearl barley	1601
+Pearl sugar	755
+Pearl_barley	1602
+Pecan	1158
+Pecan Nut	1157
+Pecorino	1747
+Peel	978
+Pepper	922
+Pepper Bouquet	1527
+Peppermint	261
+Peppermint syrup	260
+Peretti Tomato	1571
+Persimmon	188
+Pesto	1011
+Pestos	655
+Philadelphia	936
+Philadelphia Yogurt	935
+Phyllo dough	1618
+Physalis	1464
+Pickled Ginger	1686
+Pickled Green Peppercorn	1270
+Pickled Pepper	1334
+Pickled Pink Peppercorn	486
+Pickled herring	1752
+Pickled_herring	1753
+Pickles	540
+Pigs	259
+Pigs feet	258
+Pimentos	1322
+Pineapple	770
+Pink	487
+Pistachio	1013
+Pistachio ice cream	1012
+Pitahaya	1304
+Pizza	453
+Pizza dough	452
+Plain quark	878
+Planed cheese	1029
+Plant	116
+Plant Based Oils	152
+Plant based meat alternatives	144
+Plant based milk product alternatives	115
+Plum	805
+Plum Brandy	1800
+Plum jam	941
+Plum yogurt	1746
+Pointed cabbage	1205
+Pointed pepper	163
+Polenta	849
+Pom Pom Mushroom	1452
+Pom_Pom	1453
+Pomegranate	826
+Pomelo	396
+Pomelo Juice	1448
+Popcorn	576
+Poppy seed powder	1474
+Pork	723
+Pork chop	1441
+Pork escalopes	1031
+Pork knuckle	1647
+Pork minced meat	1123
+Pork neck	554
+Pork ribs	711
+Pork roast balls	1393
+Pork shoulder	1762
+Pork stew	1465
+Port wine	1398
+Port_wine	1399
+Potato	447
+Potato flour	1666
+Potato starch	156
+Potato_starch	157
+Potatoes	308
+Poultry	1512
+Poultry stock	1511
+Prepared Fish Seafood	640
+Prepared ingredients	1197
+Prepared pastry	332
+Pretzel	26
+Pretzel Peak	1239
+Pretzel rolls	856
+Processed Nuts Seeds	1181
+Processed cheese	1198
+Processed meat products	63
+Products	1426
+Products From Fish Seafood	881
+Prosciutto	1118
+Prosciutto Cheese Tortellini	1117
+Protein	1301
+Protein Legume Mix	454
+Protein bread	1522
+Provence	1282
+Puffed Amaranth	541
+Pumpernickel	1316
+Pumpkin	355
+QimiQ	253
+Quark	567
+Quarks	493
+Quince	686
+Quince jelly	1394
+Quince juice	685
+Quinoa	1034
+Quinoa Flake	1033
+Rabbit	171
+Rabbit fillet	1634
+Rabbit leg	170
+Rabbit meat	709
+Raclette cheese	1358
+Rapeseed oil	1125
+Ras El Hanout	1697
+Raspberry	320
+Raspberry Buttermilk	558
+Raspberry Crumble	1190
+Raspberry Jam	1552
+Raspberry Spirit	665
+Raspberry jelly	1354
+Raspberry syrup	319
+Raspberry vinegar	401
+Ratatouille	1467
+Ready to cook vegetables	1165
+Red	830
+Red Cornetti	1721
+Red Curry Paste	1564
+Red Curry Sauce	1254
+Red Lentil Pasta	1547
+Red Mullet	294
+Red Pesto	1010
+Red Snapper	1152
+Red Wine Vinegar	588
+Red cabbage	1107
+Red currant jam	821
+Red leaf lettuce	298
+Red skinned Apple	829
+Red wine	788
+Red_Mullet	295
+Red_Snapper	1153
+Red_Wine	589
+Reduced fat cream cheese	270
+Rhubarb	1048
+Rhubarb syrup	1568
+Ribelmais	1537
+Rice	247
+Rice Mixture	1414
+Rice noodle	784
+Rice paper	1613
+Rice vinegar	463
+Rice_paper	1614
+Rice_vinegar	464
+Ricotta	654
+Rimuss	845
+Risotto	633
+Rivella Green	494
+Roast beef	1200
+Roast pork	1743
+Roast pork in slices	1169
+Roast_beef	1201
+Roasted Almond	262
+Roll	1581
+Rolled grain	476
+Rondini Zucchino	1519
+Root	1213
+Root vegetables	1212
+Roquefort	1385
+Ros sparkling wine	1255
+Ros wine	221
+Rose	1566
+Rose paprika	1565
+Rose water	604
+Rose_water	605
+Rosehip Jam	1328
+Ruchmehl	315
+Rum	217
+Rum Flavor	1683
+Rye	820
+Rye flour	1728
+Rye meal	819
+Rye wholemeal flour	600
+Sabl	361
+Saffron	1580
+Salad	694
+Salad mix with red beans	833
+Salametti	1724
+Salami	1189
+Salmon	250
+Salmon Similar	1763
+Salmon Trout	648
+Salmon roe	1145
+Salsa	1554
+Salsa Napoli	1553
+Salsiccia	69
+Salt	77
+Salt Pepper	76
+Salt pretzels	1166
+Salted Almond	1245
+Salted Butter	1652
+Salted Cashew Nut	625
+Salted Cashew Peanut Mix With Honey	421
+Salted Peanut	867
+Salted Popcorn	575
+Salted butter caramel cream	1497
+Salts	46
+Saltwater	691
+Sambal	1733
+Sambal Oelek	1732
+Saturn	1805
+Saturn Peach	1804
+Sauce	719
+Sauces	639
+Saucisson	1641
+Sausage	914
+Sausage with Cabbage	185
+Sausages	1542
+Sauser	1186
+Schabziger	1155
+Schnapps	1121
+Schnitzel	779
+Schr Mix B	1690
+Schupfnudel	1091
+Sea Buckthorn Juice	39
+Sea Buckthorn Pulp	773
+Seafood	642
+Seafood Canned	757
+Seasoning	524
+Seaweed	1364
+Sec	1525
+Seed	472
+Seedless Grape	680
+Seeds	708
+Sel	1185
+Semi hard cheese	67
+Semi white flour	164
+Semolina	740
+Semolina Similar	739
+Sesame	729
+Sesame Bagel	728
+Sesame oil	153
+Sesame_oil	154
+Shellfish broth	1772
+Sherry	699
+Sherry Vinegar	698
+Shiitake	1273
+Shortcrust pastry	1428
+Shortcrust_pastry	1429
+Shrimp	1024
+Skimmed Milk Powder	184
+Skyr	199
+Sliced ham bacon	485
+Sliced vegan cheese	149
+Small Burrata	1587
+Small veal cutlet	983
+Smarties	151
+Smoked Garlic Clove	1044
+Smoked Mackerel	1233
+Smoked Trout	1785
+Smoked duck breast	189
+Smoked frying bacon	467
+Smoked ham	1291
+Smoked pear	726
+Snack cucumber	668
+Snacks	1789
+Snickers	1642
+Soba	383
+Soba Noodle	382
+Soft Caramel	563
+Soft Drink Concentrates	1750
+Soft Drinks	1739
+Soft Waffle	317
+Soft candies	86
+Soft cheese	1137
+Sole	736
+Sorbet	594
+Sorrel	621
+Sot ly laisse	1115
+Soups	351
+Sour Apple	1737
+Sour Candy	1767
+Sour Cherry	1347
+Sour cherry juice	369
+Sour dairy products	1094
+Sour gummy candy	1302
+Sour half cream	1127
+Sourdough	381
+Sourdough starter	380
+Soy Drink Natural	905
+Soy Vanilla Ice Cream	546
+Soy cream	1757
+Soy sauce	622
+Soy_sauce	623
+Soybean	1688
+Soybean Wholemeal	201
+Soyflake	1025
+Spaghetti Squash	1478
+Sparkling wine	602
+Sparkling_Wine	527
+Sparkling_wine	603
+Special St Gallen Sausage	990
+Spelt Cake Dough	595
+Spelt flakes	1135
+Spelt grain	1350
+Spice	735
+Spice mix	490
+Spice pastes	1375
+Spiced Nuts	1718
+Spices	956
+Spicy Ketchup	843
+Spirit	666
+Spirits	1130
+Spitzbuben Hops	952
+Spoon	278
+Spoon biscuit	277
+Spreadable processed cheese	147
+Spreadable sausage	1187
+Spreads Jams	1689
+Spring Roll Sauce	717
+Spring onion	1479
+Spring_Roll	718
+Sprouts Seedlings	1449
+Squash	1173
+Squid	1292
+St_Gallen	991
+Star anise	903
+Star_Anise	531
+Star_anise	904
+Starch	751
+Starfruit	1141
+Steak	1236
+Stem vegetables	1480
+Stew	743
+Sticky rice	335
+Stilton	927
+Stone fruits	1324
+Strawberry	1460
+Strawberry Rhubarb Jam	1481
+Strawberry jelly	1427
+Stuffed Pasta	84
+Substitute	1216
+Sugar	266
+Sugar Alternatives	1384
+Sugar Glaze	652
+Sugar_Beet	1008
+Sugared Puffed Wheat	616
+Sugarloaf	1069
+Summer truffle	208
+Sunflower Mince Nature	842
+Sunflower oil	944
+Sunflower_oil	945
+Swedish rolls	1787
+Sweet Chili Sauce	876
+Sweet Red Wine	125
+Sweet Soy Sauce	816
+Sweet and Sour Sauce	203
+Sweet baked goods	1758
+Sweet potato	273
+Sweet wine	9
+Sweet_Potato	688
+Sweetbreads	1194
+Sweetened condensed milk	551
+Syrup	214
+Szechuan	1299
+Szechuan Pepper	1298
+T Bone Steak	1491
+Tahina	1651
+Taleggio	418
+Tamarind	1761
+Tamarind paste	1042
+Tandoori Paste	348
+Tapenade	1462
+Tarragon	344
+Tarragon vinegar	343
+Tasmanian	921
+Tasmanian Pepper	920
+Tea	231
+Tea Coffee	1493
+Teff	426
+Teff flour	425
+Tempeh	1182
+Tequila	1713
+Teriyaki	994
+Teriyaki Sauce	993
+Thai	233
+Thai 7 Spices	1192
+Thai Jasmine Rice	1573
+Thai Kitchen Wok Oil	731
+Thai Mango	232
+Thai Vegetable Mix	1436
+Thickening agent	1592
+Thickening_agent	1593
+Thyme	228
+Ticino	521
+Ticino bread	710
+Ticino roast	520
+Toblerone	1736
+Toffifee	345
+Tofu	290
+Tomato	373
+Tomato Sauce	942
+Tomato Tapenade	1363
+Tomato puree	484
+Tomato_Sauce	943
+Tomatoes	1731
+Tomme	1780
+Topping as desired	1356
+Torrone	1314
+Tortellini	1119
+Tortilla	249
+Tortilla Chips	444
+Tortilla wrap	248
+Tortilla_chip	445
+Trail Mix	868
+Trail_mix	869
+Tropical fruits	173
+Trout	649
+Truffle	1286
+Truffle Brie	1723
+Trumpet	1539
+Tsampa	510
+Tubers	1725
+Tuna in salt water from the can	385
+Turbot	1113
+Turkey	358
+Turkey Ham	859
+Turkey breast	504
+Turkey escalopes	1376
+Turkey meat	357
+Turmeric	1111
+Tzatziki	1016
+UHT Milk	1002
+Udon	1004
+Udon Noodles	1003
+Unsweetened Coconut Drink	1623
+Vacherin Fribourgeois	1230
+Vacherin Mont DOr	1748
+Vanilla	30
+Vanilla Flan	1515
+Vanilla Paste	839
+Vanilla Pudding Powder	1630
+Vanilla Yogurt	1705
+Vanilla cream powder for cooking	475
+Vanilla ice cream	29
+Veal	913
+Veal Adrio	1242
+Veal Pork minced meat	1776
+Veal breast	1597
+Veal broth	1781
+Veal cutlets	1770
+Veal fillet medallion	1365
+Veal liver	1461
+Veal roast	553
+Veal spare rib	142
+Veal tongue	1402
+Vegan	71
+Vegan Cream Cheese Nature	1325
+Vegan Honey	1603
+Vegan Minced Meat	1312
+Vegan Natural Yogurt	618
+Vegan Organic Joaty Karma Oat Yogurt	70
+Veganaise	1710
+Vegetable	1151
+Vegetable bouillon	1279
+Vegetable mix	1260
+Vegetable oil	1020
+Vegetable onion	662
+Vegetables	863
+Venison	96
+Venison Back	146
+Venison Entrecote	1253
+Venison Ribeye	720
+Venison leg	624
+Venison minced meat	95
+Venison patties	1287
+Verbena	230
+Verbena Tea	229
+Vermicelli	580
+Vermouth	841
+Vienna sausages	1349
+Vinegar	1178
+Vinegars	438
+Vintners bread	683
+Vodka	1534
+Wakame	1323
+Walnut	52
+Walnut ice cream	51
+Walnut oil	1355
+Wasabi	466
+Wasabi Powder	465
+Wasabi paste	995
+Wasabi root	511
+Water	293
+Water Ice	1081
+Water_Ice	1082
+Watermelon	951
+Wheat	750
+Wheat Gluten	1296
+Wheat beer	795
+Wheat dough	339
+Whisky	522
+White	93
+White Almond Butter	1030
+White Asparagus	523
+White Balsamic Vinegar	92
+White Cake Icing	962
+White Cornmeal	513
+White Grape	1706
+White Mushroom	1535
+White Pepper	979
+White Toblerone	1735
+White Wine Vinegar	4
+White bread	54
+White cabbage	981
+White grape juice	1656
+White wine	1624
+White_Wine	5
+Whiting	301
+Whole Grain Oat Flour	1556
+Whole Grain Rusk	813
+Whole Grain Spaghetti	1682
+Whole Grain Toast Bread	1803
+Whole Spices	1327
+Whole grain cookies	1382
+Whole grain pie dough	1039
+Whole grain rice flour	296
+Whole grain tortilla wrap	1727
+Whole milk	1766
+Whole_Grain	1557
+Whole_grain	814
+Wholemeal	1219
+Wholemeal flour	488
+Wild Boar Cutlet	118
+Wild Boar Entrecote	1536
+Wild Boar Stew	742
+Wild broth	561
+Wild strawberry	58
+Wild_Boar	119
+Willisauer Ringli	692
+Wine	499
+Winzerkse	673
+Wirz	570
+Wok	732
+Wok Noodle	1771
+Worcestershire Sauce	21
+Worcestershire_sauce	22
+Yeast dough	104
+Yellow Bell Pepper	1099
+Yellow Mustard Seed	973
+Yellow Tomato	1208
+Yellow millet	827
+Yellow pea	1696
+YoQua Nature Emmi	1572
+Yogi	132
+Yogi Tea	131
+Yogurt	75
+Yogurts Quarks	492
+Yolo	675
+Yolo Creamy Vegan Butter	674
+Young Swiss chard	577
+Young salad	670
+Yuzu	894
+Yuzu Juice	1676
+Yuzu Kosho	893
+Zaatar Spice Mix	734
+Zucchetti	107
+aid	1055
+alcoholic	1171
+alcoholic_beverage	226
+apple	1469
+apricot	1693
+artichoke	379
+bacon	468
+bean	178
+beef	853
+beer	787
+beetroot	20
+biscuit	279
+black_pepper	772
+blackcurrant	824
+blood_orange	1596
+blood_sausage	713
+blue	1132
+blue_cheese	1611
+blue_mussel	1541
+blueberry	1701
+boil_egg	1062
+bone	366
+bouillon	572
+bread	220
+bream	306
+breast	191
+brie	745
+broth	562
+buckwheat	483
+butter	533
+cabbage	187
+cake	1269
+candy	1303
+caramel	281
+carbonation	678
+cardamom	239
+carrot	630
+cauliflower	612
+celery	1578
+cereal	848
+chard	579
+cheese	68
+cheesecake	1411
+cherry	370
+chervil	81
+chestnut	241
+chicken	342
+chickpea	1309
+chinese_cabbage	1662
+chive	1050
+chocolate	160
+clove	1802
+coconut	83
+cod	1362
+coffee	303
+coffee_bean	1616
+condense_milk	628
+confectionery	62
+cooking	459
+corn	130
+cottage_cheese	57
+cream	304
+cream_cheese	272
+cucumber	669
+curd	1340
+currant	822
+curry_powder	1408
+cutlet	984
+cuttlefish	1585
+dairy_product	1095
+dough	106
+duck	190
+egg	1018
+fat	271
+firm	458
+fish	641
+flan	1516
+flour	166
+flower	1218
+food	832
+free	852
+fruit	175
+fry	689
+garlic	1649
+grain	477
+grape	1657
+green	206
+green_tea	1605
+ground_beef	213
+hake	705
+hard_candy	1712
+hazelnut	615
+herb	1027
+herbal_tea	748
+honey	422
+horseradish	1057
+ice	1224
+ice_cream	31
+iced_tea	1388
+ink	1586
+italian	1162
+juice	371
+kiwi	702
+leaf	300
+legume	456
+lemon	885
+lentil	207
+lettuce	265
+liqueur	412
+liquid	1600
+liver	1378
+marrow	365
+meat	64
+milk	117
+millet	828
+mold	1133
+muesli	966
+mulled_Wine	1503
+mush	135
+mushroom	38
+mustard_seed	974
+nature	537
+nectar	1148
+noodle	785
+oat	168
+oatmeal	518
+oil	529
+onion	663
+paper	470
+paprika	1567
+parsley	620
+pasta	1319
+pastry	333
+pea	1665
+pear	727
+pearl	1381
+peel	1238
+pepper	78
+peppermint	1606
+plum	443
+poppy_seed	1475
+pork	555
+potato	460
+praline	1447
+pretzel	1167
+process_cheese	148
+product	65
+protein	455
+quark	879
+rapa	1531
+rapeseed_oil	1126
+red	299
+red_cabbage	1108
+red_wine	126
+rhubarb	1569
+rice	929
+rice_flour	297
+rock	872
+root	512
+rose	775
+rusk	815
+rye	601
+salad	481
+salmon	1550
+salt	16
+sauce	204
+sausage	186
+seafood	882
+seasoning	525
+shellfish	1773
+shrimp	1105
+snicker	1643
+soft_drink	1740
+sorbet	838
+soup	352
+soy_sauce	875
+soybean	202
+sparkle_wine	1256
+spice	491
+steak	1373
+stew	1466
+sticky_rice	336
+stock	1513
+sugar	326
+swedish	1788
+sweet_potato	274
+swiss	578
+syrup	245
+tamarind	1043
+tea	133
+tongue	1403
+tortilla	449
+tropical	174
+truffle	209
+tuna	386
+veal	143
+vegan	150
+vegetable	196
+vegetable_oil	1021
+vinegar	6
+waffle	318
+water	387
+wheat	340
+wheat_beer	796
+white	165
+white_bread	55
+white_wine	1625
+whole_grain	180
+wine	10
+yeast	105
+yogurt	1295
+yolk	1416

@@ -22,7 +22,7 @@ def get_phrases(phrase_file):
         for line_id, line in tqdm(enumerate(f), total=get_num_lines(phrase_file), desc="Loading entity2id.txt"):
             line = line.rstrip()
             if line:
-                entity= re.sub("_", " ", line.split("\t")[0])
+                entity = re.sub("_", " ", line.split("\t")[0])
                 phrases.append(entity)
             else:
                 print("[WARNING] wrong line id: {}".format(line_id))
