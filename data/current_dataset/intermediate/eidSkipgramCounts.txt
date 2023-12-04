@@ -1,0 +1,3421 @@
+1	  __ Curaao	3
+1	 __ Curaao	3
+3	  __ breadcrumbs	3
+3	 __ breadcrumbs	3
+5	  __ Vinegar	3
+5	 __ Vinegar	3
+6	Wine __ 	6
+6	White Wine __ 	2
+6	  White Wine __ 	1
+8	  __ Nut	3
+8	 __ Nut	3
+10	Sweet __ 	4
+10	 __ 	10
+12	  __ Green	1
+12	 __ Green	2
+12	  __ Green Tea Powder	1
+12	 __ Green Tea	1
+12	  __ Green Tea	1
+13	Matcha __ Powder	3
+13	  Matcha __ Powder	2
+13	 __ Powder	1
+15	  __ Salt	3
+15	 __ Salt	3
+16	Hawaii __ 	3
+16	  Hawaii __ 	2
+16	 __ 	5
+18	Colored __ 	4
+18	 __ 	7
+20	Cooked __ 	4
+20	 __ 	2
+22	  __ 	3
+22	 __ 	3
+25	Butter __ 	3
+25	  Butter __ 	2
+25	 __ 	3
+24	  __ Margarine	3
+24	 __ Margarine	3
+26	  __ 	4
+26	 __ 	2
+27	  __ 	4
+27	 __ 	2
+28	  __ 	4
+28	 __ 	5
+30	  __ ice	1
+30	 __ ice	2
+30	  __ ice cream	2
+30	 __ ice cream	1
+31	Vanilla __ 	3
+31	  Vanilla __ 	2
+31	 __ 	7
+33	  __ Brandy	3
+33	 __ Brandy	3
+34	Apricot __ 	3
+34	  Apricot __ 	2
+34	 __ 	2
+35	  __ 	4
+35	 __ 	2
+37	  __ mushroom	3
+37	 __ mushroom	3
+38	Egg __ 	3
+38	  Egg __ 	2
+38	 __ 	2
+40	Buckthorn __ 	3
+40	Sea Buckthorn __ 	2
+40	 __ 	8
+43	Delicatessen __ 	3
+43	  Delicatessen __ 	2
+43	 __ 	1
+42	  __ Paprika	3
+42	 __ Paprika	3
+45	  __ 	3
+45	 __ 	3
+49	Dried __ 	4
+49	 __ 	6
+50	  __ 	4
+50	 __ 	2
+52	  __ ice	1
+52	 __ ice	2
+52	  __ ice cream	2
+52	 __ ice cream	1
+31	Walnut __ 	3
+31	  Walnut __ 	2
+53	  __ 	4
+53	 __ 	2
+55	  __ 	3
+55	 __ 	3
+57	  __ 	3
+57	 __ 	3
+60	  __ gum	3
+60	 __ gum	3
+62	  __ powder	3
+62	 __ powder	3
+65	meat __ 	3
+65	Processed meat __ 	2
+65	 __ 	1
+64	Processed __ products	3
+64	 __ products	3
+68	hard __ 	3
+68	Semi hard __ 	2
+68	 __ 	14
+75	Oat __ 	3
+75	Karma Oat __ 	2
+75	Joaty Karma Oat __ 	1
+74	Karma __ Yogurt	3
+74	Joaty Karma __ Yogurt	2
+74	Organic Joaty Karma __ Yogurt	1
+72	Vegan __ Joaty	1
+72	  Vegan __ Joaty	1
+72	 __ Joaty	1
+72	Vegan __ Joaty Karma Oat	1
+72	  Vegan __ Joaty Karma	1
+72	Vegan __ Joaty Karma	1
+71	  __ Organic	1
+71	 __ Organic	2
+71	  __ Organic Joaty Karma	1
+71	 __ Organic Joaty	1
+71	  __ Organic Joaty	1
+73	Joaty __ Oat	1
+73	Organic Joaty __ Oat	1
+73	Vegan Organic Joaty __ Oat	1
+73	Joaty __ Oat Yogurt	2
+73	Organic Joaty __ Oat Yogurt	1
+77	  __ Pepper	3
+77	 __ Pepper	3
+78	Salt __ 	3
+78	  Salt __ 	2
+78	 __ 	6
+81	Fresh __ 	4
+81	 __ 	2
+64	coconut __ 	3
+64	Dried coconut __ 	2
+64	 __ 	13
+83	Dried __ meat	3
+83	 __ meat	3
+85	Stuffed __ 	4
+85	 __ 	9
+88	  __ 	3
+88	 __ 	6
+28	  __ Mustard	3
+28	 __ Mustard	3
+91	  __ cookies	3
+91	 __ cookies	3
+94	White __ 	3
+94	  White __ 	2
+94	 __ 	1
+93	  __ Balsamic	1
+93	 __ Balsamic	3
+93	  __ Balsamic Vinegar	2
+93	 __ Balsamic Vinegar	1
+96	  __ minced	1
+96	 __ minced	2
+96	  __ minced meat	2
+96	 __ minced meat	1
+100	  __ powder	3
+100	 __ powder	3
+103	  __ Powder	3
+103	 __ Powder	3
+106	Yeast __ 	3
+106	  Yeast __ 	2
+106	 __ 	8
+105	  __ dough	3
+105	 __ dough	3
+110	  __ stew	3
+110	 __ stew	3
+112	  __ Agar	3
+112	 __ Agar	3
+116	  __ based	1
+116	 __ based	2
+116	  __ based milk product	1
+116	 __ based milk	1
+116	  __ based milk	1
+117	based __ product	1
+117	Plant based __ product	1
+117	  Plant based __ product	1
+117	based __ product alternatives	2
+117	Plant based __ product alternatives	1
+119	  __ Cutlet	3
+119	 __ Cutlet	3
+120	Boar __ 	3
+120	Wild Boar __ 	2
+120	  Wild Boar __ 	1
+28	Forest __ 	3
+28	  Forest __ 	2
+122	  __ Honey	3
+122	 __ Honey	3
+124	  __ 	4
+124	 __ 	2
+126	Sweet __ 	3
+126	 __ 	6
+128	  __ Jam	3
+128	 __ Jam	3
+130	Baby __ 	4
+130	 __ 	4
+132	  __ Tea	3
+132	 __ Tea	3
+133	Yogi __ 	3
+133	  Yogi __ 	2
+133	 __ 	1
+135	Almond __ 	3
+135	  Almond __ 	2
+135	 __ 	1
+91	  __ mush	3
+91	 __ mush	3
+136	  __ 	4
+136	 __ 	3
+138	  __ 	3
+138	 __ 	3
+143	  __ spare	1
+143	 __ spare	2
+143	  __ spare rib	2
+143	 __ spare rib	1
+64	based __ alternatives	3
+64	Plant based __ alternatives	2
+64	  Plant based __ alternatives	1
+145	  __ 	4
+145	 __ 	2
+96	  __ Back	3
+96	 __ Back	3
+148	Spreadable __ 	3
+148	 __ 	6
+150	Sliced __ cheese	3
+150	 __ cheese	3
+68	vegan __ 	3
+68	Sliced vegan __ 	2
+151	  __ 	4
+151	 __ 	2
+116	  __ Based	1
+116	 __ Based	2
+116	  __ Based Oils	2
+116	 __ Based Oils	1
+154	  __ 	3
+154	 __ 	3
+157	  __ 	3
+157	 __ 	3
+159	  __ chocolate	3
+159	 __ chocolate	3
+160	Cooking __ 	3
+160	  Cooking __ 	2
+160	 __ 	1
+162	  __ 	4
+162	 __ 	2
+78	Pointed __ 	4
+166	white __ 	3
+166	Semi white __ 	2
+166	 __ 	16
+165	Semi __ flour	3
+165	 __ flour	3
+168	Coarse __ flakes	3
+168	 __ flakes	3
+169	  __ 	4
+169	 __ 	2
+171	  __ leg	3
+171	 __ leg	3
+172	  __ 	4
+172	 __ 	2
+91	  __ 	4
+91	 __ 	8
+174	  __ fruits	3
+174	 __ fruits	3
+175	Tropical __ 	3
+175	  Tropical __ 	2
+175	 __ 	13
+85	Dry __ 	4
+178	Broad __ 	4
+178	 __ 	5
+180	free __ oat	2
+180	Gluten free __ oat	2
+180	  Gluten free __ oat	2
+180	free __ oat flour	2
+180	Gluten free __ oat flour	1
+166	oat __ 	3
+166	grain oat __ 	2
+166	whole grain oat __ 	1
+168	grain __ flour	3
+168	whole grain __ flour	2
+168	free whole grain __ flour	1
+181	  __ 	4
+181	 __ 	2
+183	  __ wine	3
+183	 __ wine	3
+10	Apple __ 	6
+10	  Apple __ 	2
+117	Skimmed __ Powder	3
+117	 __ Powder	3
+186	  __ with	1
+186	 __ with	2
+186	  __ with Cabbage	2
+186	 __ with Cabbage	1
+187	with __ 	3
+187	Sausage with __ 	2
+187	  Sausage with __ 	1
+188	  __ 	4
+188	 __ 	2
+190	Smoked __ breast	3
+190	 __ breast	3
+191	duck __ 	3
+191	Smoked duck __ 	2
+191	 __ 	4
+194	  __ Cookies	3
+194	 __ Cookies	3
+196	Mixed __ 	4
+196	 __ 	19
+198	Yellow __ 	3
+198	Cooked Yellow __ 	2
+198	 __ 	2
+199	  __ 	4
+199	 __ 	2
+202	  __ Wholemeal	3
+202	 __ Wholemeal	3
+110	  __ 	4
+110	 __ 	2
+204	Sour __ 	3
+204	and Sour __ 	2
+204	Sweet and Sour __ 	1
+206	Dried __ Lentils	3
+206	 __ Lentils	3
+207	Green __ 	3
+207	Dried Green __ 	2
+207	 __ 	3
+209	Summer __ 	4
+209	 __ 	2
+49	Candied __ 	4
+213	Lean __ 	3
+213	 __ 	3
+214	  __ 	4
+214	 __ 	3
+216	  __ bun	3
+216	 __ bun	3
+217	  __ 	4
+217	 __ 	2
+110	  __ Ribeye	3
+110	 __ Ribeye	3
+220	Dark __ 	4
+220	 __ 	13
+10	Ros __ 	4
+223	  __ 	4
+223	 __ 	2
+224	  __ 	4
+224	 __ 	2
+226	  __ 	3
+226	 __ 	6
+228	Orange __ 	3
+228	Fresh Orange __ 	2
+228	 __ 	5
+230	  __ Tea	3
+230	 __ Tea	3
+231	Verbena __ 	3
+231	  Verbena __ 	2
+231	 __ 	1
+233	  __ Mango	3
+233	 __ Mango	3
+234	Thai __ 	3
+234	  Thai __ 	2
+234	 __ 	3
+236	  __ 	4
+236	 __ 	2
+237	  __ 	4
+237	 __ 	2
+239	  __ pod	3
+239	 __ pod	3
+241	frozen __ 	3
+241	Deep frozen __ 	2
+241	 __ 	1
+243	Fresh __ 	4
+243	 __ 	2
+245	Orange __ 	4
+245	 __ 	14
+247	Cooked __ 	4
+247	 __ 	6
+249	  __ wrap	3
+249	 __ wrap	3
+250	  __ 	4
+250	 __ 	2
+252	  __ Drink	3
+252	 __ Drink	3
+255	  __ 	3
+255	 __ 	3
+257	  __ 	3
+257	 __ 	5
+259	  __ feet	3
+259	 __ feet	3
+261	  __ syrup	3
+261	 __ syrup	3
+245	Peppermint __ 	3
+245	  Peppermint __ 	2
+91	Roasted __ 	4
+264	  __ lettuce	3
+264	 __ lettuce	3
+265	Batavia __ 	3
+265	  Batavia __ 	2
+265	 __ 	1
+266	  __ 	4
+266	 __ 	3
+249	Corn __ Wrap	3
+249	  Corn __ Wrap	2
+249	 __ Wrap	1
+268	  __ Tortilla	1
+268	 __ Tortilla	2
+268	  __ Tortilla Wrap	2
+268	 __ Tortilla Wrap	1
+272	fat __ 	3
+272	Reduced fat __ 	2
+272	 __ 	1
+271	Reduced __ cream	1
+271	 __ cream	2
+271	Reduced __ cream cheese	2
+271	 __ cream cheese	1
+274	  __ 	3
+274	 __ 	3
+275	  __ 	4
+275	 __ 	2
+278	  __ biscuit	3
+278	 __ biscuit	3
+279	Spoon __ 	3
+279	  Spoon __ 	2
+279	 __ 	1
+16	and __ 	3
+16	caramel and __ 	2
+16	with caramel and __ 	1
+160	Dark __ with	1
+160	 __ with	2
+160	Dark __ with caramel and	1
+160	 __ with caramel	1
+160	Dark __ with caramel	1
+281	with __ and	1
+281	chocolate with __ and	1
+281	Dark chocolate with __ and	1
+281	with __ and salt	2
+281	chocolate with __ and salt	1
+283	Pale __ 	4
+283	 __ 	2
+285	  __ fowl	5
+285	 __ fowl	7
+287	  __ Pasta	3
+287	 __ Pasta	3
+85	Asian __ 	3
+85	  Asian __ 	2
+289	  __ Tofu	3
+289	 __ Tofu	3
+290	Curry __ 	3
+290	  Curry __ 	2
+290	 __ 	3
+110	  __ sirloin	4
+110	 __ sirloin	5
+293	Blossom __ 	3
+293	Orange Blossom __ 	2
+293	 __ 	3
+295	  __ 	3
+295	 __ 	3
+180	  __ rice	1
+180	 __ rice	2
+180	  __ rice flour	2
+180	 __ rice flour	1
+297	grain __ 	3
+297	Whole grain __ 	2
+297	  Whole grain __ 	1
+299	  __ leaf	1
+299	 __ leaf	2
+299	  __ leaf lettuce	2
+299	 __ leaf lettuce	1
+265	leaf __ 	3
+265	Red leaf __ 	2
+265	  Red leaf __ 	1
+300	Red __ lettuce	3
+300	  Red __ lettuce	2
+300	 __ lettuce	1
+303	  __ cream	3
+303	 __ cream	3
+304	Coffee __ 	3
+304	  Coffee __ 	2
+304	 __ 	8
+306	head __ 	3
+306	Gilt head __ 	2
+306	 __ 	1
+308	Boiled __ 	4
+308	 __ 	2
+310	  __ jam	3
+310	 __ jam	3
+313	Coffee __ 	3
+313	  Coffee __ 	2
+313	 __ 	5
+312	  __ Liqueur	3
+312	 __ Liqueur	3
+318	Soft __ 	4
+318	 __ 	2
+245	Raspberry __ 	3
+245	  Raspberry __ 	2
+320	  __ syrup	3
+320	 __ syrup	3
+73	  __ Power	1
+73	 __ Power	2
+73	  __ Power Topping	2
+73	 __ Power Topping	1
+323	Cuisine __ 	3
+323	Cailler Cuisine __ 	2
+323	 __ 	1
+325	  __ sugar	3
+325	 __ sugar	3
+326	Cinnamon __ 	3
+326	  Cinnamon __ 	2
+326	 __ 	5
+329	Light __ Glaze	3
+329	  Light __ Glaze	2
+329	 __ Glaze	2
+328	  __ Cake	1
+328	 __ Cake	2
+328	  __ Cake Glaze	2
+328	 __ Cake Glaze	1
+186	Veal __ 	3
+186	Glarner Veal __ 	2
+186	 __ 	11
+143	Glarner __ Sausage	3
+143	 __ Sausage	3
+35	Baking __ 	3
+35	Bossi Baking __ 	2
+35	Betty Bossi Baking __ 	1
+333	Prepared __ 	4
+333	 __ 	2
+336	  __ 	3
+336	 __ 	3
+338	  __ peel	3
+338	 __ peel	3
+340	  __ dough	3
+340	 __ dough	3
+106	Wheat __ 	3
+106	  Wheat __ 	2
+342	Frozen __ wing	3
+342	 __ wing	3
+344	  __ vinegar	3
+344	 __ vinegar	3
+6	Tarragon __ 	3
+6	  Tarragon __ 	2
+6	 __ 	6
+347	  __ Blossoms	3
+347	 __ Blossoms	3
+33	  __ jam	3
+33	 __ jam	3
+68	Nut __ 	4
+352	  __ 	4
+352	 __ 	2
+183	Dried __ 	4
+183	 __ 	6
+355	Dwarf __ 	4
+355	 __ 	2
+64	Lamb __ 	4
+64	Turkey __ 	3
+64	  Turkey __ 	2
+358	  __ meat	3
+358	 __ meat	3
+359	  __ 	4
+359	 __ 	2
+360	  __ 	4
+360	 __ 	2
+362	  __ 	4
+362	 __ 	4
+110	  __ marrow	1
+110	 __ marrow	2
+110	  __ marrow bones	2
+110	 __ marrow bones	1
+365	Beef __ bones	3
+365	  Beef __ bones	2
+365	 __ bones	1
+366	marrow __ 	3
+366	Beef marrow __ 	2
+366	  Beef marrow __ 	1
+368	Dried __ 	3
+368	 __ 	3
+371	cherry __ 	3
+371	Sour cherry __ 	2
+371	 __ 	4
+370	Sour __ juice	3
+370	 __ juice	3
+373	Dried __ 	8
+373	 __ 	9
+375	In __ 	4
+375	 __ 	3
+130	  __ wafer	3
+130	 __ wafer	3
+310	Dried __ 	4
+310	 __ 	4
+379	  __ bottom	3
+379	 __ bottom	3
+381	  __ starter	3
+381	 __ starter	3
+383	  __ Noodle	3
+383	 __ Noodle	3
+384	Soba __ 	3
+384	  Soba __ 	2
+384	 __ 	2
+387	salt __ from	1
+387	in salt __ from	1
+387	Tuna in salt __ from	1
+387	salt __ from the can	1
+387	in salt __ from the	1
+387	salt __ from the	1
+386	  __ in	1
+386	 __ in	2
+386	  __ in salt water	1
+386	 __ in salt	1
+386	  __ in salt	1
+16	in __ water	1
+16	Tuna in __ water	1
+16	  Tuna in __ water	1
+16	in __ water from the	1
+16	Tuna in __ water from	1
+16	in __ water from	1
+91	  __ drink	3
+91	 __ drink	3
+389	  __ 	4
+389	 __ 	2
+391	  __ 	3
+391	 __ 	3
+393	  __ peel	3
+393	 __ peel	3
+395	  __ 	3
+395	 __ 	3
+396	  __ 	4
+396	 __ 	2
+268	  __ fed	1
+268	 __ fed	2
+268	  __ fed Chicken Breast	1
+268	 __ fed Chicken	1
+268	  __ fed Chicken	1
+399	Chicken __ 	3
+399	fed Chicken __ 	2
+399	Corn fed Chicken __ 	1
+398	fed __ Breast	3
+398	Corn fed __ Breast	2
+398	  Corn fed __ Breast	1
+400	  __ 	4
+400	 __ 	4
+6	Raspberry __ 	3
+6	  Raspberry __ 	2
+320	  __ vinegar	3
+320	 __ vinegar	3
+403	  __ Powder	1
+403	 __ Powder	2
+403	  __ Powder Cubes	2
+403	 __ Powder Cubes	1
+404	  __ 	4
+404	 __ 	2
+408	Ajvar __ 	3
+408	  Ajvar __ 	2
+408	 __ 	1
+360	  __ Falafel	3
+360	 __ Falafel	3
+410	  __ 	3
+410	 __ 	3
+18	  __ 	4
+412	Bitter __ 	4
+412	 __ 	7
+414	  __ Curd	3
+414	 __ Curd	3
+415	Fruit __ 	3
+415	Passion Fruit __ 	2
+415	  Passion Fruit __ 	1
+417	  __ 	3
+417	 __ 	3
+252	Salted __ Peanut	1
+252	 __ Peanut	2
+252	Salted __ Peanut Mix With	1
+252	 __ Peanut Mix	1
+252	Salted __ Peanut Mix	1
+400	Cashew __ Mix	1
+400	Salted Cashew __ Mix	1
+400	 __ Mix	1
+400	Cashew __ Mix With Honey	1
+400	Salted Cashew __ Mix With	1
+400	Cashew __ Mix With	1
+422	With __ 	3
+422	Mix With __ 	2
+422	Peanut Mix With __ 	1
+175	Dried __ 	4
+426	  __ flour	3
+426	 __ flour	3
+166	Teff __ 	3
+166	  Teff __ 	2
+16	grained __ 	3
+16	Coarse grained __ 	2
+6	Herb __ 	3
+6	  Herb __ 	2
+429	  __ vinegar	3
+429	 __ vinegar	3
+220	Pagnol __ 	4
+178	Asparagus __ 	3
+178	  Asparagus __ 	2
+432	  __ bean	3
+432	 __ bean	3
+434	  __ syrup	3
+434	 __ syrup	3
+245	Peach __ 	3
+245	  Peach __ 	2
+175	  __ mix	3
+175	 __ mix	3
+437	  __ peels	3
+437	 __ peels	3
+441	Olive __ 	3
+441	  Olive __ 	2
+441	 __ 	3
+440	  __ Bread	3
+440	 __ Bread	3
+443	Frozen __ 	4
+443	 __ 	2
+445	  __ 	3
+445	 __ 	3
+447	Floury __ 	4
+447	 __ 	4
+449	free __ wrap	3
+449	Gluten free __ wrap	2
+449	  Gluten free __ wrap	1
+3	  __ tortilla	1
+3	 __ tortilla	2
+3	  __ tortilla wrap	2
+3	 __ tortilla wrap	1
+18	  __ Carrots	3
+18	 __ Carrots	3
+451	Marzipan __ 	3
+451	  Marzipan __ 	2
+451	 __ 	1
+453	  __ dough	3
+453	 __ dough	3
+106	Pizza __ 	3
+106	  Pizza __ 	2
+455	  __ Legume	1
+455	 __ Legume	2
+455	  __ Legume Mix	2
+455	 __ Legume Mix	1
+456	Protein __ Mix	3
+456	  Protein __ Mix	2
+456	 __ Mix	1
+460	cooking __ 	3
+460	Firm cooking __ 	2
+460	  Firm cooking __ 	1
+458	  __ cooking	1
+458	 __ cooking	2
+458	  __ cooking potato	2
+458	 __ cooking potato	1
+459	Firm __ potato	3
+459	  Firm __ potato	2
+459	 __ potato	1
+462	  __ 	4
+462	 __ 	2
+325	  __ 	4
+325	 __ 	2
+464	  __ 	3
+464	 __ 	3
+466	  __ Powder	3
+466	 __ Powder	3
+468	frying __ 	3
+468	Smoked frying __ 	2
+468	 __ 	2
+470	Edible __ 	4
+470	 __ 	2
+472	Nut __ Mixes	3
+472	 __ Mixes	3
+474	  __ chip	3
+474	 __ chip	3
+459	for __ 	3
+459	powder for __ 	2
+459	cream powder for __ 	1
+30	  __ cream	1
+30	 __ cream	2
+30	  __ cream powder for	1
+30	 __ cream powder	1
+30	  __ cream powder	1
+304	Vanilla __ powder	1
+304	  Vanilla __ powder	1
+304	 __ powder	1
+304	Vanilla __ powder for cooking	1
+304	  Vanilla __ powder for	1
+304	Vanilla __ powder for	1
+477	Rolled __ 	4
+477	 __ 	4
+228	Fresh __ 	4
+481	Gourmet __ 	3
+481	  Gourmet __ 	2
+481	 __ 	3
+480	  __ Salad	3
+480	 __ Salad	3
+483	  __ flour	3
+483	 __ flour	3
+166	Buckwheat __ 	3
+166	  Buckwheat __ 	2
+373	  __ puree	3
+373	 __ puree	3
+468	ham __ 	3
+468	Sliced ham __ 	2
+487	Pickled __ Peppercorn	3
+487	 __ Peppercorn	3
+166	Wholemeal __ 	4
+128	  __ Jelly	3
+128	 __ Jelly	3
+491	  __ mix	3
+491	 __ mix	3
+493	Yogurts __ 	4
+493	 __ 	2
+495	Rivella __ 	4
+495	 __ 	2
+497	Brown __ 	4
+497	 __ 	7
+498	  __ 	4
+498	 __ 	3
+10	  __ 	4
+501	  __ syrup	3
+501	 __ syrup	3
+245	Pear __ 	3
+245	  Pear __ 	2
+503	  __ 	3
+503	 __ 	3
+191	Turkey __ 	3
+191	  Turkey __ 	2
+358	  __ breast	3
+358	 __ breast	3
+257	  __ With	1
+257	 __ With	2
+257	  __ With Pepper	2
+257	 __ With Pepper	1
+78	With __ 	3
+78	Cheese With __ 	2
+78	Cream Cheese With __ 	1
+495	  __ Peperoncino	3
+495	 __ Peperoncino	3
+509	  __ Sheet	3
+509	 __ Sheet	3
+510	  __ 	4
+510	 __ 	2
+512	Wasabi __ 	3
+512	  Wasabi __ 	2
+512	 __ 	1
+466	  __ root	3
+466	 __ root	3
+514	White __ 	3
+514	  White __ 	2
+514	 __ 	3
+93	  __ Cornmeal	3
+93	 __ Cornmeal	3
+518	free __ cookies	3
+518	Gluten free __ cookies	2
+518	  Gluten free __ cookies	1
+3	  __ oatmeal	4
+3	 __ oatmeal	5
+3	  __ oatmeal cookies	2
+3	 __ oatmeal cookies	1
+3	  __ ladyfingers	3
+3	 __ ladyfingers	3
+521	  __ roast	3
+521	 __ roast	3
+522	  __ 	4
+522	 __ 	2
+432	White __ 	3
+432	  White __ 	2
+432	 __ 	2
+93	  __ Asparagus	3
+93	 __ Asparagus	3
+525	  __ 	4
+525	 __ 	2
+527	Dry __ 	3
+527	 __ 	3
+529	Flaxseed __ 	4
+529	 __ 	3
+531	Ground __ 	3
+531	 __ 	3
+533	Herb __ 	3
+533	  Herb __ 	2
+533	 __ 	2
+429	  __ butter	3
+429	 __ butter	3
+535	  __ cheese	3
+535	 __ cheese	3
+68	Mountain __ 	3
+68	  Mountain __ 	2
+73	  __ Oat	1
+73	 __ Oat	2
+73	  __ Oat Drink Nature	1
+73	 __ Oat Drink	1
+73	  __ Oat Drink	1
+537	Drink __ 	3
+537	Oat Drink __ 	2
+537	Karma Oat Drink __ 	1
+74	Karma __ Drink	1
+74	  Karma __ Drink	1
+74	 __ Drink	1
+74	Karma __ Drink Nature	2
+74	  Karma __ Drink Nature	1
+370	Cornelian __ 	4
+370	 __ 	3
+547	Vanilla __ 	3
+547	Soy Vanilla __ 	2
+547	 __ 	1
+30	Soy __ Ice	1
+30	 __ Ice	2
+30	Soy __ Ice Cream	2
+30	 __ Ice Cream	1
+549	  __ With	1
+549	 __ With	2
+549	  __ With Fig Flavor	1
+549	 __ With Fig	1
+549	  __ With Fig	1
+143	  __ roast	3
+143	 __ roast	3
+555	  __ neck	3
+555	 __ neck	3
+557	  __ Cream	1
+557	 __ Cream	2
+557	  __ Cream Cheese	2
+557	 __ Cream Cheese	1
+257	Lucerne __ 	3
+257	  Lucerne __ 	2
+498	Raspberry __ 	3
+498	  Raspberry __ 	2
+320	  __ Buttermilk	3
+320	 __ Buttermilk	3
+24	  __ cookies	3
+24	 __ cookies	3
+562	Wild __ 	4
+562	 __ 	4
+564	Soft __ 	4
+564	 __ 	6
+567	Mango __ 	3
+567	Banana Mango __ 	2
+567	  Banana Mango __ 	1
+234	Banana __ Quark	3
+234	  Banana __ Quark	2
+234	 __ Quark	1
+566	  __ Mango	1
+566	 __ Mango	2
+566	  __ Mango Quark	2
+566	 __ Mango Quark	1
+214	Grenadine __ 	3
+214	  Grenadine __ 	2
+569	  __ Syrup	3
+569	 __ Syrup	3
+572	free __ 	3
+572	Gluten free __ 	2
+572	  Gluten free __ 	1
+3	  __ bouillon	3
+3	 __ bouillon	3
+375	Germ __ 	3
+375	Corn Germ __ 	2
+375	  Corn Germ __ 	1
+268	  __ Germ	1
+268	 __ Germ	2
+268	  __ Germ Oil	2
+268	 __ Germ Oil	1
+574	  __ 	4
+574	 __ 	2
+576	Salted __ 	4
+576	 __ 	5
+578	Young __ chard	3
+578	 __ chard	3
+579	Swiss __ 	3
+579	Young Swiss __ 	2
+579	 __ 	1
+580	  __ 	4
+580	 __ 	2
+175	  __ vegetables	3
+175	 __ vegetables	3
+196	Fruit __ 	3
+196	  Fruit __ 	2
+583	  __ Kernel	3
+583	 __ Kernel	3
+585	  __ in	1
+585	 __ in	2
+585	  __ in BBQ Marinade	1
+585	 __ in BBQ	1
+585	  __ in BBQ	1
+587	  __ 	3
+587	 __ 	3
+589	  __ Vinegar	3
+589	 __ Vinegar	3
+6	Red Wine __ 	2
+6	  Red Wine __ 	1
+592	  __ 	3
+592	 __ 	3
+128	  __ Sorbet	3
+128	 __ Sorbet	3
+594	Blackberry __ 	3
+594	  Blackberry __ 	2
+594	 __ 	1
+329	Spelt __ Dough	3
+329	 __ Dough	3
+362	Cake __ 	3
+362	Spelt Cake __ 	2
+596	  __ 	4
+596	 __ 	2
+599	  __ 	4
+599	 __ 	2
+601	  __ wholemeal	1
+601	 __ wholemeal	2
+601	  __ wholemeal flour	2
+601	 __ wholemeal flour	1
+166	wholemeal __ 	6
+166	Rye wholemeal __ 	2
+166	  Rye wholemeal __ 	1
+603	  __ 	3
+603	 __ 	3
+605	  __ 	3
+605	 __ 	3
+564	  __ Cookies	3
+564	 __ Cookies	3
+609	  __ 	4
+609	 __ 	2
+612	Frozen __ 	4
+612	 __ 	2
+615	with __ 	3
+615	Meringue with __ 	2
+615	  Meringue with __ 	1
+614	  __ with	1
+614	 __ with	2
+614	  __ with hazelnuts	2
+614	 __ with hazelnuts	1
+340	Puffed __ 	3
+340	Sugared Puffed __ 	2
+340	 __ 	1
+71	  __ Natural	1
+71	 __ Natural	2
+71	  __ Natural Yogurt	2
+71	 __ Natural Yogurt	1
+75	Natural __ 	3
+75	Vegan Natural __ 	2
+75	  Vegan Natural __ 	1
+620	Fresh __ 	4
+620	 __ 	2
+621	  __ 	4
+621	 __ 	2
+623	  __ 	3
+623	 __ 	6
+96	  __ leg	3
+96	 __ leg	3
+88	Salted __ 	3
+626	  __ 	4
+626	 __ 	2
+628	  __ 	3
+628	 __ 	3
+630	Palatinate __ 	4
+630	 __ 	2
+633	Bossi __ Milanese	3
+633	Betty Bossi __ Milanese	2
+633	 __ Milanese	1
+64	Marinated __ 	4
+636	  __ 	3
+636	 __ 	3
+638	  __ Sauces	3
+638	 __ Sauces	3
+639	Basic __ 	3
+639	  Basic __ 	2
+639	 __ 	1
+641	Prepared __ Seafood	3
+641	 __ Seafood	6
+642	Fish __ 	6
+642	Prepared Fish __ 	2
+642	 __ 	2
+196	Summer __ 	3
+196	Mixed Summer __ 	2
+641	  __ Seafood	3
+642	  Fish __ 	2
+547	Latte __ 	3
+547	di Latte __ 	2
+547	Fior di Latte __ 	1
+646	di __ Ice	1
+646	Fior di __ Ice	1
+646	 __ Ice	1
+646	di __ Ice Cream	2
+646	Fior di __ Ice Cream	1
+647	  __ 	4
+647	 __ 	2
+250	  __ Trout	3
+250	 __ Trout	3
+649	Salmon __ 	3
+649	  Salmon __ 	2
+649	 __ 	3
+162	  __ Compotes	1
+162	 __ Compotes	2
+162	  __ Compotes Pastes	2
+162	 __ Compotes Pastes	1
+651	  __ 	4
+651	 __ 	4
+266	  __ Glaze	3
+266	 __ Glaze	3
+654	  __ 	4
+654	 __ 	2
+657	Chips __ 	3
+657	Coconut Chips __ 	2
+657	Karma Coconut Chips __ 	1
+73	  __ Coconut	1
+73	 __ Coconut	2
+73	  __ Coconut Chips Ginger	1
+73	 __ Coconut Chips	1
+73	  __ Coconut Chips	1
+474	Karma __ Chips	1
+474	  Karma __ Chips	1
+474	 __ Chips	1
+474	Karma __ Chips Ginger	2
+474	  Karma __ Chips Ginger	1
+441	  __ Baked	1
+441	 __ Baked	2
+441	  __ Baked Goods	2
+441	 __ Baked Goods	1
+659	  __ 	4
+659	 __ 	2
+661	  __ 	3
+661	 __ 	3
+663	Vegetable __ 	3
+663	  Vegetable __ 	2
+663	 __ 	4
+196	  __ onion	3
+196	 __ onion	3
+437	  __ 	3
+437	 __ 	3
+666	Raspberry __ 	3
+666	  Raspberry __ 	2
+666	 __ 	1
+320	  __ Spirit	3
+320	 __ Spirit	3
+669	Snack __ 	4
+669	 __ 	2
+481	Young __ 	4
+220	Farmhouse __ 	4
+338	Dried __ Verbena	3
+338	 __ Verbena	3
+230	Lemon __ 	3
+230	Dried Lemon __ 	2
+230	 __ 	1
+675	  __ Creamy	1
+675	 __ Creamy	2
+675	  __ Creamy Vegan Butter	1
+675	 __ Creamy Vegan	1
+675	  __ Creamy Vegan	1
+71	Creamy __ Butter	3
+71	Yolo Creamy __ Butter	2
+71	  Yolo Creamy __ Butter	1
+24	Vegan __ 	3
+24	Creamy Vegan __ 	2
+24	Yolo Creamy Vegan __ 	1
+677	  __ with	1
+677	 __ with	2
+677	  __ with carbonation	2
+677	 __ with carbonation	1
+678	with __ 	3
+678	water with __ 	2
+678	Mineral water with __ 	1
+679	  __ 	4
+679	 __ 	2
+681	Seedless __ 	4
+681	 __ 	6
+183	  __ 	4
+682	  __ 	4
+682	 __ 	2
+220	Vintners __ 	4
+371	Quince __ 	3
+371	  Quince __ 	2
+686	  __ juice	3
+686	 __ juice	3
+73	  __ Sweet	1
+73	 __ Sweet	2
+73	  __ Sweet Potato for	1
+73	 __ Sweet Potato	1
+73	  __ Sweet Potato	1
+689	for __ 	3
+689	Potato for __ 	2
+689	Sweet Potato for __ 	1
+688	Karma __ for	1
+688	  Karma __ for	1
+688	 __ for	1
+688	Karma __ for Fries	2
+688	  Karma __ for Fries	1
+441	  __ 	4
+695	Mix __ 	3
+695	Salad Mix __ 	2
+695	McCormick Salad Mix __ 	1
+694	McCormick __ Mix	1
+694	 __ Mix	2
+694	McCormick __ Mix Italian	2
+694	 __ Mix Italian	1
+697	  __ 	3
+697	 __ 	3
+313	  __ 	4
+699	  __ Vinegar	3
+699	 __ Vinegar	3
+6	Sherry __ 	3
+6	  Sherry __ 	2
+702	  __ 	4
+702	 __ 	2
+166	free __ 	3
+166	Gluten free __ 	2
+166	  Gluten free __ 	1
+3	  __ flour	3
+3	 __ flour	3
+705	frozen __ 	3
+705	Deep frozen __ 	2
+705	 __ 	1
+171	  __ meat	3
+171	 __ meat	3
+64	Rabbit __ 	3
+64	  Rabbit __ 	2
+220	Ticino __ 	3
+220	  Ticino __ 	2
+521	  __ bread	3
+521	 __ bread	3
+555	  __ ribs	3
+555	 __ ribs	3
+713	  __ 	3
+713	 __ 	3
+220	Multigrain __ 	4
+718	  __ Sauce	3
+718	 __ Sauce	3
+719	Roll __ 	3
+719	Spring Roll __ 	2
+719	  Spring Roll __ 	1
+96	  __ Ribeye	3
+96	 __ Ribeye	3
+657	Candied __ 	4
+657	 __ 	6
+103	  __ flakes	3
+103	 __ flakes	3
+723	  __ 	4
+723	 __ 	2
+196	Dried __ 	4
+727	Smoked __ 	4
+727	 __ 	4
+729	  __ Bagel	3
+729	 __ Bagel	3
+730	Sesame __ 	3
+730	  Sesame __ 	2
+730	 __ 	1
+233	  __ Kitchen	1
+233	 __ Kitchen	2
+233	  __ Kitchen Wok Oil	1
+233	 __ Kitchen Wok	1
+233	  __ Kitchen Wok	1
+375	Wok __ 	3
+375	Kitchen Wok __ 	2
+375	Thai Kitchen Wok __ 	1
+732	Kitchen __ Oil	3
+732	Thai Kitchen __ Oil	2
+732	  Thai Kitchen __ Oil	1
+31	  __ 	3
+735	Zaatar __ Mix	3
+735	 __ Mix	6
+738	  __ 	3
+738	 __ 	3
+740	  __ Similar	3
+740	 __ Similar	3
+741	  __ 	4
+741	 __ 	2
+743	Boar __ 	3
+743	Wild Boar __ 	2
+743	  Wild Boar __ 	1
+119	  __ Stew	3
+119	 __ Stew	3
+745	  __ 	4
+745	 __ 	2
+748	  __ blend	3
+748	 __ blend	3
+750	Epifin __ Starch	3
+750	 __ Starch	3
+751	Wheat __ 	3
+751	Epifin Wheat __ 	2
+751	 __ 	3
+16	  __ 	4
+207	Yellow __ 	3
+207	Dried Yellow __ 	2
+756	  __ sugar	3
+756	 __ sugar	3
+326	Pearl __ 	3
+326	  Pearl __ 	2
+642	  __ Canned	3
+642	 __ Canned	3
+434	  __ 	4
+434	 __ 	3
+271	Low __ spreadable	1
+271	 __ spreadable	2
+271	Low __ spreadable processed cheese	1
+271	 __ spreadable processed	1
+271	Low __ spreadable processed	1
+148	spreadable __ 	3
+148	fat spreadable __ 	2
+148	Low fat spreadable __ 	1
+759	  __ 	4
+759	 __ 	2
+761	  __ 	3
+761	 __ 	3
+329	Dark __ Biscuit	1
+329	 __ Biscuit	2
+329	Dark __ Biscuit Base	2
+329	 __ Biscuit Base	1
+764	Cake __ Base	3
+764	Dark Cake __ Base	2
+764	 __ Base	1
+767	  __ vinegar	3
+767	 __ vinegar	3
+6	cider __ 	3
+6	Apple cider __ 	2
+6	  Apple cider __ 	1
+239	  __ powder	3
+239	 __ powder	3
+770	Candied __ 	4
+770	 __ 	4
+772	  __ 	3
+772	 __ 	3
+775	frozen __ hips	3
+775	Deep frozen __ hips	2
+775	 __ hips	1
+777	  __ cheese	3
+777	 __ cheese	3
+68	Munster __ 	3
+68	  Munster __ 	2
+779	Dlicorn __ 	4
+779	 __ 	2
+781	  __ decoration	3
+781	 __ decoration	3
+783	  __ Honey	3
+783	 __ Honey	3
+28	Acacia __ 	3
+28	  Acacia __ 	2
+785	Rice __ 	3
+785	  Rice __ 	2
+785	 __ 	2
+247	  __ noodle	3
+247	 __ noodle	3
+787	Dark __ 	4
+787	 __ 	3
+126	  __ 	3
+790	Fresh __ 	4
+790	 __ 	2
+719	Okonomiyaki __ 	3
+719	  Okonomiyaki __ 	2
+719	 __ 	3
+792	  __ Sauce	3
+792	 __ Sauce	3
+5	Dry __ 	3
+5	 __ 	3
+105	Dry __ 	4
+105	 __ 	2
+796	  __ 	3
+796	 __ 	3
+798	  __ lettuce	3
+798	 __ lettuce	3
+85	  __ 	4
+800	  __ 	3
+800	 __ 	3
+804	  __ Powder	3
+804	 __ Powder	3
+805	  __ 	4
+805	 __ 	2
+166	Braided __ 	4
+808	  __ Oyster	1
+808	 __ Oyster	2
+808	  __ Oyster Mushroom	2
+808	 __ Oyster Mushroom	1
+497	Oyster __ 	6
+497	King Oyster __ 	2
+497	  King Oyster __ 	1
+809	King __ Mushroom	3
+809	  King __ Mushroom	2
+809	 __ Mushroom	4
+226	Non __ 	3
+815	Grain __ 	3
+815	Whole Grain __ 	2
+815	  Whole Grain __ 	1
+814	  __ Rusk	3
+814	 __ Rusk	3
+623	Sweet __ 	3
+817	  __ 	4
+817	 __ 	2
+818	  __ 	4
+818	 __ 	2
+820	  __ meal	3
+820	 __ meal	3
+822	Red __ jam	3
+822	  Red __ jam	2
+822	 __ jam	1
+299	  __ currant	1
+299	 __ currant	2
+299	  __ currant jam	2
+299	 __ currant jam	1
+824	  __ syrup	3
+824	 __ syrup	3
+245	Blackcurrant __ 	3
+245	  Blackcurrant __ 	2
+770	Dried __ 	4
+826	  __ 	4
+826	 __ 	2
+828	Yellow __ 	4
+828	 __ 	2
+830	  __ skinned	1
+830	 __ skinned	2
+830	  __ skinned Apple	2
+830	 __ skinned Apple	1
+183	skinned __ 	3
+183	Red skinned __ 	2
+183	  Red skinned __ 	1
+832	  __ 	4
+832	 __ 	2
+694	  __ mix	1
+694	 __ mix	2
+694	  __ mix with red	1
+694	 __ mix with	1
+694	  __ mix with	1
+299	with __ beans	3
+299	mix with __ beans	2
+299	Salad mix with __ beans	1
+447	Baby __ 	4
+117	  __ 	4
+117	 __ 	7
+338	  __ sorbet	3
+338	 __ sorbet	3
+838	Lemon __ 	3
+838	  Lemon __ 	2
+838	 __ 	1
+30	  __ Paste	3
+30	 __ Paste	4
+841	  __ 	4
+841	 __ 	2
+537	Mince __ 	3
+537	Sunflower Mince __ 	2
+537	 __ 	1
+844	Spicy __ 	4
+844	 __ 	4
+178	Dried __ 	4
+477	Four __ cereal	1
+477	 __ cereal	2
+477	Four __ cereal wafer	2
+477	 __ cereal wafer	1
+848	grain __ wafer	3
+848	Four grain __ wafer	2
+848	 __ wafer	1
+849	  __ 	4
+849	 __ 	2
+414	Orange __ Juice	3
+414	 __ Juice	3
+40	Fruit __ 	3
+40	Passion Fruit __ 	2
+40	Orange Passion Fruit __ 	1
+852	Fat __ beef	1
+852	  Fat __ beef	1
+852	 __ beef	1
+852	Fat __ beef bouillon powder	1
+852	  Fat __ beef bouillon	1
+852	Fat __ beef bouillon	1
+271	  __ free	2
+271	 __ free	4
+271	  __ free beef bouillon	1
+271	 __ free beef	1
+271	  __ free beef	1
+572	beef __ powder	3
+572	free beef __ powder	2
+572	Fat free beef __ powder	1
+853	free __ bouillon	1
+853	Fat free __ bouillon	1
+853	  Fat free __ bouillon	1
+853	free __ bouillon powder	2
+853	Fat free __ bouillon powder	1
+855	  __ 	4
+855	 __ 	2
+26	  __ rolls	3
+26	 __ rolls	3
+271	Caul __ 	3
+271	  Caul __ 	2
+271	 __ 	1
+858	  __ fat	3
+858	 __ fat	3
+358	  __ Ham	3
+358	 __ Ham	3
+338	  __ 	4
+338	 __ 	3
+202	Canned __ 	4
+202	 __ 	2
+166	Multigrain __ 	4
+196	  __ 	4
+24	  __ Mailnderli	1
+24	 __ Mailnderli	2
+24	  __ Mailnderli Dough	2
+24	 __ Mailnderli Dough	1
+362	Mailnderli __ 	3
+362	Butter Mailnderli __ 	2
+362	  Butter Mailnderli __ 	1
+866	  __ ham	3
+866	 __ ham	3
+400	Salted __ 	4
+869	  __ 	3
+869	 __ 	3
+175	  __ vinegar	3
+175	 __ vinegar	3
+6	Fruit __ 	3
+6	  Fruit __ 	2
+326	rock __ 	3
+326	Brown rock __ 	2
+872	Brown __ sugar	3
+872	 __ sugar	3
+247	  __ 	4
+781	Dark __ 	4
+781	 __ 	2
+875	free __ 	3
+875	Gluten free __ 	2
+875	  Gluten free __ 	1
+3	  __ soy	1
+3	 __ soy	2
+3	  __ soy sauce	2
+3	 __ soy sauce	1
+877	Sweet __ 	3
+877	 __ 	3
+879	Plain __ 	4
+879	 __ 	3
+65	  __ From	1
+65	 __ From	2
+65	  __ From Fish Seafood	1
+65	 __ From Fish	1
+65	  __ From Fish	1
+882	Fish __ 	3
+882	From Fish __ 	2
+882	Products From Fish __ 	1
+641	From __ Seafood	3
+641	Products From __ Seafood	2
+641	  Products From __ Seafood	1
+885	Fresh __ Thyme	3
+885	 __ Thyme	3
+228	Lemon __ 	3
+228	Fresh Lemon __ 	2
+887	  __ 	4
+887	 __ 	2
+888	  __ 	4
+888	 __ 	2
+892	  __ Sprouts	3
+892	 __ Sprouts	3
+894	  __ Kosho	3
+894	 __ Kosho	3
+895	  __ 	4
+895	 __ 	2
+898	Liebig __ Extract	3
+898	  Liebig __ Extract	2
+898	 __ Extract	1
+897	  __ Meat	1
+897	 __ Meat	2
+897	  __ Meat Extract	2
+897	 __ Meat Extract	1
+900	  __ 	4
+900	 __ 	4
+20	  __ sprouts	3
+20	 __ sprouts	3
+460	Early __ 	4
+460	 __ 	2
+904	  __ 	3
+904	 __ 	3
+907	  __ Dough	3
+907	 __ Dough	3
+362	Gingerbread __ 	3
+362	  Gingerbread __ 	2
+74	  __ nuts	3
+74	 __ nuts	3
+441	  __ spreads	3
+441	 __ spreads	3
+143	Lean __ mince	3
+143	 __ mince	3
+914	Veal __ 	3
+914	Chili Veal __ 	2
+914	  Chili Veal __ 	1
+912	  __ Veal	1
+912	 __ Veal	2
+912	  __ Veal Sausage	2
+912	 __ Veal Sausage	1
+913	Chili __ Sausage	3
+913	  Chili __ Sausage	2
+913	 __ Sausage	1
+917	  __ sprouts	3
+917	 __ sprouts	3
+117	sour __ 	3
+117	Nordic sour __ 	2
+922	Tasmanian __ 	3
+922	  Tasmanian __ 	2
+922	 __ 	6
+921	  __ Pepper	3
+921	 __ Pepper	3
+924	  __ Powder	3
+924	 __ Powder	3
+925	  __ 	4
+925	 __ 	2
+529	in __ 	6
+529	marinated in __ 	2
+529	mushrooms marinated in __ 	1
+38	Canned __ marinated	1
+38	 __ marinated	2
+38	Canned __ marinated in oil	1
+38	 __ marinated in	1
+38	Canned __ marinated in	1
+927	  __ 	4
+927	 __ 	2
+929	Cauliflower __ 	3
+929	  Cauliflower __ 	2
+929	 __ 	1
+659	  __ rice	3
+659	 __ rice	3
+931	  __ pates	3
+931	 __ pates	3
+130	  __ 	4
+934	Balsamic __ 	7
+934	 __ 	4
+75	Philadelphia __ 	3
+75	  Philadelphia __ 	2
+75	 __ 	3
+936	  __ Yogurt	3
+936	 __ Yogurt	3
+939	Fresh __ 	4
+939	 __ 	4
+809	  __ Mushroom	3
+497	  Oyster __ 	2
+805	  __ jam	3
+805	 __ jam	3
+943	  __ 	3
+943	 __ 	3
+945	  __ 	3
+945	 __ 	3
+326	Candied __ 	4
+948	  __ 	3
+948	 __ 	3
+950	  __ Macaroon	3
+950	 __ Macaroon	3
+951	  __ 	4
+951	 __ 	2
+953	Spitzbuben __ 	4
+953	 __ 	2
+956	Ground __ 	4
+956	 __ 	3
+75	Greek __ Natural	3
+75	  Greek __ Natural	2
+75	 __ Natural	1
+958	  __ Yogurt	1
+958	 __ Yogurt	2
+958	  __ Yogurt Natural	2
+958	 __ Yogurt Natural	1
+196	Leafy __ 	4
+961	  __ 	4
+961	 __ 	2
+719	Bolognese __ 	3
+719	  Bolognese __ 	2
+964	  __ Sauce	3
+964	 __ Sauce	3
+966	Crunchy __ 	4
+966	 __ 	2
+968	  __ Nibs	3
+968	 __ Nibs	3
+699	Dry __ 	4
+699	 __ 	2
+359	  __ Juice	3
+359	 __ Juice	3
+40	Melon __ 	3
+40	  Melon __ 	2
+412	Almond __ 	3
+412	  Almond __ 	2
+91	  __ liqueur	3
+91	 __ liqueur	3
+495	  __ Bionda	3
+495	 __ Bionda	3
+974	Yellow __ 	3
+974	 __ 	3
+978	Citrus __ 	3
+978	Candied Citrus __ 	2
+978	 __ 	1
+977	Candied __ Peel	3
+977	 __ Peel	3
+922	White __ 	3
+922	  White __ 	2
+93	  __ Pepper	3
+93	 __ Pepper	3
+429	  __ Cantadou	3
+429	 __ Cantadou	3
+165	  __ cabbage	3
+165	 __ cabbage	3
+187	White __ 	3
+187	  White __ 	2
+187	 __ 	3
+982	  __ 	4
+982	 __ 	2
+984	veal __ 	3
+984	Small veal __ 	2
+984	 __ 	1
+143	Small __ cutlet	3
+143	 __ cutlet	3
+863	Winter __ 	3
+863	Mixed Winter __ 	2
+863	 __ 	1
+183	  __ Spritzer	3
+183	 __ Spritzer	3
+412	Fruit __ 	3
+412	  Fruit __ 	2
+162	  __ liqueur	3
+162	 __ liqueur	3
+37	Surprise __ 	3
+37	Kinder Surprise __ 	2
+37	 __ 	3
+328	Express __ 	3
+328	Maizena Express __ 	2
+328	 __ 	1
+914	Gallen __ 	3
+914	St Gallen __ 	2
+914	Special St Gallen __ 	1
+991	Special __ Sausage	3
+991	 __ Sausage	3
+994	  __ Sauce	3
+994	 __ Sauce	3
+719	Teriyaki __ 	3
+719	  Teriyaki __ 	2
+466	  __ paste	3
+466	 __ paste	3
+497	  __ 	4
+997	  __ Leaf	3
+997	 __ Leaf	3
+998	Lime __ 	3
+998	Kaffir Lime __ 	2
+998	  Kaffir Lime __ 	1
+1000	  __ Cheese	1
+1000	 __ Cheese	2
+1000	  __ Cheese Mix Moiti	1
+1000	 __ Cheese Mix	1
+1000	  __ Cheese Mix	1
+1001	Fondue __ Mix	1
+1001	  Fondue __ Mix	1
+1001	 __ Mix	1
+1001	Fondue __ Mix Moiti Moiti	1
+1001	  Fondue __ Mix Moiti	1
+1001	Fondue __ Mix Moiti	1
+117	UHT __ 	4
+1005	Udon __ 	3
+1005	  Udon __ 	2
+1005	 __ 	1
+1004	  __ Noodles	3
+1004	 __ Noodles	3
+1008	Fibrex __ Fiber	3
+1008	 __ Fiber	3
+1011	Red __ 	3
+1011	  Red __ 	2
+1011	 __ 	1
+830	  __ Pesto	3
+830	 __ Pesto	3
+1013	  __ ice	1
+1013	 __ ice	2
+1013	  __ ice cream	2
+1013	 __ ice cream	1
+31	Pistachio __ 	3
+31	  Pistachio __ 	2
+220	free __ 	3
+220	Gluten free __ 	2
+220	  Gluten free __ 	1
+3	  __ bread	3
+3	 __ bread	3
+117	  __ powder	3
+117	 __ powder	3
+143	  __ 	4
+143	 __ 	2
+310	  __ 	4
+1016	  __ 	4
+1016	 __ 	2
+1018	  __ 	4
+1018	 __ 	2
+1019	  __ 	4
+1019	 __ 	2
+1021	  __ 	3
+1021	 __ 	3
+1024	Giant __ 	3
+1024	Cooked Giant __ 	2
+1024	 __ 	1
+1027	with __ 	3
+1027	frache with __ 	2
+1027	Crme frache with __ 	1
+207	Red __ 	3
+207	Dried Red __ 	2
+830	Dried __ Lentils	3
+830	 __ Lentils	3
+68	Planed __ 	4
+91	White __ Butter	3
+91	  White __ Butter	2
+91	 __ Butter	4
+24	Almond __ 	3
+24	White Almond __ 	2
+24	  White Almond __ 	1
+93	  __ Almond	1
+93	 __ Almond	2
+93	  __ Almond Butter	2
+93	 __ Almond Butter	1
+555	  __ escalopes	3
+555	 __ escalopes	3
+1034	  __ Flake	3
+1034	 __ Flake	3
+1035	  __ 	4
+1035	 __ 	2
+320	  __ 	4
+320	 __ 	2
+1037	Borlotti __ 	3
+1037	felt Borlotti __ 	2
+1037	Deep felt Borlotti __ 	1
+304	Frying __ 	4
+106	pie __ 	3
+106	grain pie __ 	2
+106	Whole grain pie __ 	1
+180	  __ pie	1
+180	 __ pie	2
+180	  __ pie dough	2
+180	 __ pie dough	1
+1041	Saltwater __ 	3
+1041	fleshed Saltwater __ 	2
+1041	White fleshed Saltwater __ 	1
+93	Other __ fleshed	2
+93	 __ fleshed	4
+93	Other __ fleshed Saltwater Fish	1
+93	 __ fleshed Saltwater	1
+93	Other __ fleshed Saltwater	1
+1043	  __ paste	3
+1043	 __ paste	3
+1045	Garlic __ 	3
+1045	Smoked Garlic __ 	2
+1045	 __ 	1
+103	Smoked __ Clove	3
+103	 __ Clove	3
+1041	Freshwater __ 	3
+1041	fleshed Freshwater __ 	2
+1041	White fleshed Freshwater __ 	1
+1047	fleshed __ Fish	3
+1047	White fleshed __ Fish	2
+1047	Other White fleshed __ Fish	1
+93	Other __ fleshed Freshwater Fish	1
+93	 __ fleshed Freshwater	1
+93	Other __ fleshed Freshwater	1
+290	  __ 	4
+1048	  __ 	4
+1048	 __ 	2
+585	  __ 	4
+585	 __ 	2
+1050	Fresh __ 	4
+1050	 __ 	2
+1051	  __ 	4
+1051	 __ 	6
+300	Kohlrabi __ 	3
+300	  Kohlrabi __ 	2
+300	 __ 	1
+172	  __ leaf	3
+172	 __ leaf	3
+735	Merqun __ Mix	3
+1055	baking __ 	3
+1055	Other baking __ 	2
+1055	 __ 	1
+1057	  __ mustard	3
+1057	 __ mustard	3
+328	  __ Sultana	3
+328	 __ Sultana	3
+326	blossom __ 	3
+326	Coconut blossom __ 	2
+326	  Coconut blossom __ 	1
+474	  __ blossom	1
+474	 __ blossom	2
+474	  __ blossom sugar	2
+474	 __ blossom sugar	1
+342	Ground __ 	4
+342	 __ 	2
+1062	Hard __ 	3
+1062	 __ 	3
+338	Citron __ 	3
+338	  Citron __ 	2
+1064	  __ Lemon	3
+1064	 __ Lemon	3
+49	  __ Jam	3
+49	 __ Jam	3
+33	  __ 	4
+33	 __ 	2
+234	Dried __ 	4
+1068	  __ 	3
+1068	 __ 	3
+1069	  __ 	4
+1069	 __ 	2
+934	  __ 	4
+1071	  __ Mozzarella	3
+1071	 __ Mozzarella	3
+1072	Buffalo __ 	3
+1072	  Buffalo __ 	2
+1072	 __ 	3
+689	Oven __ 	4
+689	 __ 	2
+1077	  __ 	4
+1077	 __ 	2
+371	Beetroot __ 	3
+371	  Beetroot __ 	2
+1079	  __ juice	3
+1079	 __ juice	3
+1082	  __ 	3
+1082	 __ 	3
+1084	  __ Juice	3
+1084	 __ Juice	3
+40	Clementine __ 	3
+40	  Clementine __ 	2
+651	Mixed __ 	4
+8	  __ Sesame	3
+8	 __ Sesame	3
+729	Black __ 	3
+729	  Black __ 	2
+729	 __ 	1
+371	Carrot __ 	3
+371	  Carrot __ 	2
+1089	  __ juice	3
+1089	 __ juice	3
+186	Grilled __ 	4
+1093	  __ 	4
+1093	 __ 	2
+1095	Sour __ 	3
+1095	 __ 	3
+338	  __ syrup	3
+338	 __ syrup	3
+245	Lemon __ 	3
+245	  Lemon __ 	2
+196	Canned __ 	4
+1100	Yellow __ 	3
+1100	 __ 	3
+110	Tpfli __ 	3
+110	Bouillon Tpfli __ 	2
+110	Knorr Bouillon Tpfli __ 	1
+1102	Knorr __ Tpfli	1
+1102	 __ Tpfli	2
+1102	Knorr __ Tpfli Beef	2
+1102	 __ Tpfli Beef	1
+1105	Giant __ 	4
+1105	 __ 	2
+91	Ground __ 	4
+1108	  __ 	3
+1108	 __ 	3
+1111	Ground __ 	4
+1111	 __ 	2
+338	  __ White	1
+338	 __ White	2
+338	  __ White Balsamic Cream	1
+338	 __ White Balsamic	1
+338	  __ White Balsamic	1
+93	Lemon __ Balsamic	1
+93	  Lemon __ Balsamic	1
+93	Lemon __ Balsamic Cream	2
+93	  Lemon __ Balsamic Cream	1
+934	White Balsamic __ 	2
+934	Lemon White Balsamic __ 	1
+1113	  __ 	4
+1113	 __ 	2
+415	  __ 	4
+415	 __ 	3
+110	  __ bouillon	1
+110	 __ bouillon	2
+110	  __ bouillon cubes	2
+110	 __ bouillon cubes	1
+572	Beef __ cubes	3
+572	  Beef __ cubes	2
+572	 __ cubes	1
+1118	  __ Cheese	1
+1118	 __ Cheese	2
+1118	  __ Cheese Tortellini	2
+1118	 __ Cheese Tortellini	1
+1119	Cheese __ 	3
+1119	Prosciutto Cheese __ 	2
+1119	  Prosciutto Cheese __ 	1
+1001	Prosciutto __ Tortellini	3
+1001	  Prosciutto __ Tortellini	2
+1001	 __ Tortellini	1
+252	  __ Mues	3
+252	 __ Mues	3
+1121	  __ 	4
+1121	 __ 	2
+723	  __ minced	1
+723	 __ minced	3
+723	  __ minced meat	2
+723	 __ minced meat	1
+1124	  __ 	4
+1124	 __ 	2
+1126	  __ 	3
+1126	 __ 	3
+304	half __ 	3
+304	Sour half __ 	2
+681	  __ 	4
+1129	  __ 	3
+1129	 __ 	3
+1133	blue __ 	3
+1133	with blue __ 	2
+1133	cheese with blue __ 	1
+68	soft __ with	1
+68	cream soft __ with	1
+68	Double cream soft __ with	1
+68	soft __ with blue mold	1
+68	cream soft __ with blue	1
+68	soft __ with blue	1
+1132	with __ mold	3
+1132	cheese with __ mold	2
+1132	soft cheese with __ mold	1
+304	Double __ soft	1
+304	 __ soft	2
+304	Double __ soft cheese with	1
+304	 __ soft cheese	1
+304	Double __ soft cheese	1
+338	  __ Pepper	3
+338	 __ Pepper	3
+78	Lemon __ 	3
+78	  Lemon __ 	2
+68	Soft __ 	4
+220	multigrain __ 	3
+220	free multigrain __ 	2
+220	Gluten free multigrain __ 	1
+3	  __ multigrain	1
+3	 __ multigrain	2
+3	  __ multigrain bread	2
+3	 __ multigrain bread	1
+499	Marsala __ 	3
+499	  Marsala __ 	2
+499	 __ 	1
+1144	  __ Wine	3
+1144	 __ Wine	3
+250	  __ roe	3
+250	 __ roe	3
+373	Cherry __ 	3
+373	  Cherry __ 	2
+49	  __ Tomato	3
+49	 __ Tomato	3
+434	  __ nectar	3
+434	 __ nectar	3
+1148	Peach __ 	3
+1148	  Peach __ 	2
+1148	 __ 	1
+408	Vegetable __ 	3
+408	Mini Vegetable __ 	2
+408	Karma Mini Vegetable __ 	1
+1150	Karma __ Vegetable	1
+1150	  Karma __ Vegetable	1
+1150	 __ Vegetable	1
+1150	Karma __ Vegetable Falafel	2
+1150	  Karma __ Vegetable Falafel	1
+73	  __ Mini	1
+73	 __ Mini	2
+73	  __ Mini Vegetable Falafel	1
+73	 __ Mini Vegetable	1
+73	  __ Mini Vegetable	1
+1151	Mini __ Falafel	3
+1151	Karma Mini __ Falafel	2
+1151	  Karma Mini __ Falafel	1
+1153	  __ 	3
+1153	 __ 	3
+686	  __ 	4
+686	 __ 	2
+110	  __ rump	3
+110	 __ rump	3
+1158	  __ Nut	3
+1158	 __ Nut	3
+1160	  __ 	3
+1160	 __ 	3
+429	Italian __ Grinder	3
+429	McCormick Italian __ Grinder	2
+429	 __ Grinder	1
+1162	McCormick __ Herb	1
+1162	 __ Herb	2
+1162	McCormick __ Herb Grinder	2
+1162	 __ Herb Grinder	1
+338	  __ vinegar	3
+338	 __ vinegar	3
+6	Lemon __ 	3
+6	  Lemon __ 	2
+196	cook __ 	3
+196	to cook __ 	2
+196	Ready to cook __ 	1
+77	  __ pretzels	3
+77	 __ pretzels	3
+1167	Salt __ 	3
+1167	  Salt __ 	2
+1167	 __ 	1
+338	  __ Jam	3
+338	 __ Jam	3
+555	Roast __ in	1
+555	 __ in	2
+555	Roast __ in slices	2
+555	 __ in slices	1
+1171	Non __ beer	4
+1171	 __ beer	5
+787	alcoholic __ 	3
+787	Non alcoholic __ 	2
+1173	Butternut __ 	4
+1173	 __ 	4
+848	  __ 	4
+848	 __ 	2
+106	Bagel __ 	3
+106	  Bagel __ 	2
+730	  __ dough	3
+730	 __ dough	3
+68	Flavored __ varieties	3
+68	 __ varieties	3
+1178	  __ 	4
+1178	 __ 	2
+1180	Mandarin __ 	3
+1180	  Mandarin __ 	2
+1180	 __ 	1
+275	  __ Black	1
+275	 __ Black	2
+275	  __ Black Tea	2
+275	 __ Black Tea	1
+1182	  __ 	4
+1182	 __ 	2
+271	34 __ Quark	3
+271	 __ Quark	3
+879	fat __ 	3
+879	34 fat __ 	2
+1185	de __ 	3
+1185	Fleur de __ 	2
+1185	 __ 	1
+186	Spreadable __ 	4
+1188	  __ 	4
+1188	 __ 	2
+1189	  __ 	4
+1189	 __ 	2
+320	  __ Crumble	3
+320	 __ Crumble	3
+166	Button __ 	4
+233	  __ 7	1
+233	 __ 7	2
+233	  __ 7 Spices	2
+233	 __ 7 Spices	1
+956	7 __ 	3
+956	Thai 7 __ 	2
+956	  Thai 7 __ 	1
+78	Espelette __ Powder	3
+78	 __ Powder	3
+956	Herbs __ 	3
+956	  Herbs __ 	2
+1196	  __ Spices	3
+1196	 __ Spices	3
+148	  __ 	3
+304	Double __ 	4
+1201	  __ 	3
+1201	 __ 	3
+1204	Grain __ 	3
+1204	6 Grain __ 	2
+1204	 __ 	1
+1203	6 __ Grits	3
+1203	 __ Grits	3
+187	Pointed __ 	4
+398	  __ leg	3
+398	 __ leg	3
+373	Yellow __ 	4
+370	Cocktail __ 	3
+370	  Cocktail __ 	2
+1210	  __ Cherry	3
+1210	 __ Cherry	3
+1213	  __ vegetables	3
+1213	 __ vegetables	3
+196	Root __ 	3
+196	  Root __ 	2
+65	Substitute __ 	3
+65	Meat Substitute __ 	2
+65	Meat Meat Substitute __ 	1
+1216	Meat __ Products	3
+1216	Meat Meat __ Products	2
+1216	  Meat Meat __ Products	1
+898	  __ Meat	1
+898	 __ Meat	2
+898	  __ Meat Substitute Products	1
+898	 __ Meat Substitute	1
+898	  __ Meat Substitute	1
+1218	Edible __ Mix	3
+1218	 __ Mix	3
+912	  __ peppers	3
+912	 __ peppers	3
+1224	  __ cubes	3
+1224	 __ cubes	3
+1226	  __ Orange	1
+1226	 __ Orange	2
+1226	  __ Orange Juice	2
+1226	 __ Orange Juice	1
+1227	Blood __ 	3
+1227	  Blood __ 	2
+1227	 __ 	1
+64	Duck __ 	3
+64	  Duck __ 	2
+1229	  __ meat	3
+1229	 __ meat	3
+1231	  __ 	4
+1231	 __ 	2
+285	  __ fowl meat	2
+285	 __ fowl meat	1
+900	Smoked __ 	4
+1236	Sirloin __ 	3
+1236	Limousin Sirloin __ 	2
+1236	  Limousin Sirloin __ 	1
+1235	  __ Sirloin	1
+1235	 __ Sirloin	2
+1235	  __ Sirloin Steak	2
+1235	 __ Sirloin Steak	1
+1238	Candied __ 	4
+1238	 __ 	6
+26	  __ Peak	3
+26	 __ Peak	3
+1240	Pretzel __ 	3
+1240	  Pretzel __ 	2
+1240	 __ 	1
+1072	  __ 	4
+1241	  __ 	4
+1241	 __ 	4
+913	  __ Adrio	3
+913	 __ Adrio	3
+20	  __ salad	3
+20	 __ salad	3
+1241	Dried __ 	4
+91	Salted __ 	4
+106	Flammkuchen __ 	4
+657	  __ Orange	1
+657	 __ Orange	2
+657	  __ Orange Lemonade	2
+657	 __ Orange Lemonade	1
+181	Orange __ 	3
+181	Ginger Orange __ 	2
+181	  Ginger Orange __ 	1
+1250	  __ Chips	3
+1250	 __ Chips	3
+133	Blossom __ 	3
+133	Orange Blossom __ 	2
+133	Loose Orange Blossom __ 	1
+68	Hard __ 	4
+96	  __ Entrecote	3
+96	 __ Entrecote	3
+289	Red __ Sauce	3
+289	  Red __ Sauce	2
+289	 __ Sauce	1
+830	  __ Curry	2
+830	 __ Curry	4
+830	  __ Curry Sauce	2
+830	 __ Curry Sauce	1
+719	Curry __ 	3
+719	Red Curry __ 	2
+719	  Red Curry __ 	1
+1256	Ros __ 	3
+1256	 __ 	4
+1258	  __ 	3
+1258	 __ 	3
+160	free __ cookies	3
+160	Gluten free __ cookies	2
+160	  Gluten free __ cookies	1
+3	  __ chocolate	1
+3	 __ chocolate	2
+3	  __ chocolate cookies	2
+3	 __ chocolate cookies	1
+196	  __ mix	3
+196	 __ mix	6
+1263	  __ Powder	3
+1263	 __ Powder	3
+1265	  __ powder	3
+1265	 __ powder	3
+501	  __ Weggen	1
+501	 __ Weggen	2
+501	  __ Weggen Filling	2
+501	 __ Weggen Filling	1
+1267	  __ 	4
+1267	 __ 	2
+106	cake __ 	3
+106	free cake __ 	2
+106	Gluten free cake __ 	1
+1269	free __ dough	3
+1269	Gluten free __ dough	2
+1269	  Gluten free __ dough	1
+3	  __ cake	1
+3	 __ cake	2
+3	  __ cake dough	2
+3	 __ cake dough	1
+495	Pickled __ Peppercorn	3
+495	 __ Peppercorn	3
+912	  __ Oil	3
+912	 __ Oil	3
+375	Chili __ 	3
+375	  Chili __ 	2
+1273	Dried __ Mushroom	3
+1273	 __ Mushroom	3
+497	Shiitake __ 	3
+497	Dried Shiitake __ 	2
+1269	Dark __ Glaze	3
+1269	 __ Glaze	3
+1276	  __ Curry	1
+1276	 __ Curry	2
+1276	  __ Curry Powder	2
+1276	 __ Curry Powder	1
+1277	Madras __ 	3
+1277	  Madras __ 	2
+1277	 __ 	1
+313	Caramel __ 	3
+313	  Caramel __ 	2
+564	  __ Liqueur	3
+564	 __ Liqueur	3
+572	Vegetable __ 	3
+572	  Vegetable __ 	2
+572	 __ 	2
+1151	  __ bouillon	3
+1151	 __ bouillon	3
+133	Instant __ Powder	3
+133	 __ Powder	3
+1282	de __ 	3
+1282	Herbes de __ 	2
+1282	 __ 	1
+313	  __ wine	3
+313	 __ wine	3
+10	Liqueur __ 	3
+10	  Liqueur __ 	2
+1284	  __ 	4
+1284	 __ 	2
+8	  __ Truffle	1
+8	 __ Truffle	2
+8	  __ Truffle in Oil	1
+8	 __ Truffle in	1
+8	  __ Truffle in	1
+529	Truffle in __ 	2
+529	Black Truffle in __ 	1
+1286	Black __ in	1
+1286	  Black __ in	1
+1286	 __ in	1
+1286	Black __ in Oil	2
+1286	  Black __ in Oil	1
+1290	  __ Mustard	3
+1290	 __ Mustard	3
+1292	  __ 	4
+1292	 __ 	2
+175	Mustard __ 	4
+1295	Natural __ 	4
+1295	 __ 	3
+750	  __ Gluten	3
+750	 __ Gluten	3
+1297	Wheat __ 	3
+1297	  Wheat __ 	2
+1297	 __ 	1
+1299	  __ Pepper	3
+1299	 __ Pepper	3
+78	Szechuan __ 	3
+78	  Szechuan __ 	2
+110	  __ sausage	3
+110	 __ sausage	3
+186	Beef __ 	3
+186	  Beef __ 	2
+455	  __ 	4
+455	 __ 	2
+1303	gummy __ 	3
+1303	Sour gummy __ 	2
+1303	 __ 	3
+1307	  __ 	4
+1307	 __ 	2
+1309	Canned __ 	4
+1309	 __ 	2
+497	  __ bouillon	3
+497	 __ bouillon	3
+572	Mushroom __ 	3
+572	  Mushroom __ 	2
+474	  __ Thyme	3
+474	 __ Thyme	3
+228	Coconut __ 	3
+228	  Coconut __ 	2
+1313	Vegan __ 	3
+1313	  Vegan __ 	2
+1313	 __ 	1
+71	  __ Minced	1
+71	 __ Minced	2
+71	  __ Minced Meat	2
+71	 __ Minced Meat	1
+495	  __ Asparagus	3
+495	 __ Asparagus	3
+432	Green __ 	3
+432	  Green __ 	2
+1316	  __ 	4
+1316	 __ 	2
+844	  __ 	4
+1051	Frozen __ 	4
+564	  __ 	4
+1319	free __ 	3
+1319	Gluten free __ 	2
+1319	  Gluten free __ 	1
+3	  __ pasta	3
+3	 __ pasta	3
+1321	  __ fillet	3
+1321	 __ fillet	3
+1323	  __ 	4
+1323	 __ 	2
+175	Stone __ 	4
+257	Vegan __ Nature	3
+257	  Vegan __ Nature	2
+257	 __ Nature	1
+71	  __ Cream	1
+71	 __ Cream	2
+71	  __ Cream Cheese Nature	1
+71	 __ Cream Cheese	1
+71	  __ Cream Cheese	1
+1326	Cheese __ 	3
+1326	Cream Cheese __ 	2
+1326	Vegan Cream Cheese __ 	1
+491	Whole __ 	4
+491	 __ 	2
+93	Canned __ Soisson	1
+93	 __ Soisson	2
+93	Canned __ Soisson Beans	2
+93	 __ Soisson Beans	1
+64	Chicken __ 	3
+64	  Chicken __ 	2
+398	  __ meat	3
+398	 __ meat	3
+1332	  __ Powder	3
+1332	 __ Powder	3
+1333	  __ 	4
+1333	 __ 	2
+922	Pickled __ 	4
+657	  __ 	4
+1337	  __ 	4
+1337	 __ 	2
+1171	Non __ sparkling	1
+1171	 __ sparkling	2
+1171	Non __ sparkling wine	2
+1171	 __ sparkling wine	1
+1256	alcoholic __ 	3
+1256	Non alcoholic __ 	2
+271	Low __ curd	1
+271	 __ curd	2
+271	Low __ curd cheese	2
+271	 __ curd cheese	1
+68	curd __ 	3
+68	fat curd __ 	2
+68	Low fat curd __ 	1
+1340	fat __ cheese	3
+1340	Low fat __ cheese	2
+1340	 __ cheese	1
+166	Banana __ 	3
+166	  Banana __ 	2
+566	  __ flour	3
+566	 __ flour	3
+785	Glass __ 	3
+785	  Glass __ 	2
+1346	  __ noodle	3
+1346	 __ noodle	3
+49	Sour __ 	4
+289	Green __ Paste	3
+289	  Green __ Paste	2
+289	 __ Paste	2
+495	  __ Curry	1
+495	 __ Curry	2
+495	  __ Curry Paste	2
+495	 __ Curry Paste	1
+477	Spelt __ 	4
+912	  __ paste	3
+912	 __ paste	3
+1	  __ Grape	3
+1	 __ Grape	3
+681	Blue __ 	3
+681	  Blue __ 	2
+52	  __ 	4
+52	 __ 	2
+529	Walnut __ 	3
+529	  Walnut __ 	2
+52	  __ oil	3
+52	 __ oil	3
+1019	  __ cookies	3
+1019	 __ cookies	3
+68	Raclette __ 	4
+1360	  __ 	3
+1360	 __ 	3
+1362	  __ fillet	3
+1362	 __ fillet	3
+373	  __ Tapenade	3
+373	 __ Tapenade	3
+1364	  __ 	4
+1364	 __ 	2
+143	  __ fillet	1
+143	 __ fillet	2
+143	  __ fillet medallion	2
+143	 __ fillet medallion	1
+1367	  __ Beard	3
+1367	 __ Beard	3
+180	free __ oat flakes	2
+180	Gluten free __ oat flakes	1
+168	grain __ flakes	3
+168	whole grain __ flakes	2
+168	free whole grain __ flakes	1
+175	Canned __ 	4
+1371	  __ di	1
+1371	 __ di	2
+1371	  __ di Pomodori	2
+1371	 __ di Pomodori	1
+110	  __ sirloin steak	2
+110	 __ sirloin steak	1
+1373	sirloin __ 	3
+1373	Beef sirloin __ 	2
+1373	  Beef sirloin __ 	1
+64	chicken __ 	3
+64	Marinated chicken __ 	2
+342	Marinated __ meat	3
+342	 __ meat	3
+735	  __ pastes	3
+735	 __ pastes	3
+1378	Chicken __ 	3
+1378	  Chicken __ 	2
+1378	 __ 	5
+398	  __ liver	3
+398	 __ liver	3
+1381	Canned __ onions	3
+1381	 __ onions	3
+663	pearl __ 	3
+663	Canned pearl __ 	2
+180	  __ cookies	3
+180	 __ cookies	3
+855	  __ Powder	3
+855	 __ Powder	3
+266	  __ Alternatives	3
+266	 __ Alternatives	3
+1385	  __ 	4
+1385	 __ 	2
+1027	Dried __ 	4
+1027	 __ 	4
+1388	  __ concentrate	3
+1388	 __ concentrate	3
+175	Other __ 	4
+198	  __ Chips	3
+198	 __ Chips	3
+1203	5 __ Flakes	3
+1203	 __ Flakes	3
+555	  __ roast	1
+555	 __ roast	2
+555	  __ roast balls	2
+555	 __ roast balls	1
+686	  __ jelly	3
+686	 __ jelly	3
+564	  __ Popcorn	3
+564	 __ Popcorn	3
+576	Caramel __ 	3
+576	  Caramel __ 	2
+1396	  __ 	4
+1396	 __ 	2
+1378	Goose __ 	4
+1399	  __ 	3
+1399	 __ 	3
+136	Light __ 	3
+136	  Light __ 	2
+328	  __ Mayonnaise	3
+328	 __ Mayonnaise	3
+781	Bossi __ Shavings	3
+781	Betty Bossi __ Shavings	2
+781	 __ Shavings	1
+1403	Veal __ 	3
+1403	  Veal __ 	2
+1403	 __ 	1
+143	  __ tongue	3
+143	 __ tongue	3
+1405	  __ 	3
+1405	 __ 	3
+1408	Mild __ 	3
+1408	 __ 	3
+183	Beer __ Wine	3
+183	  Beer __ Wine	2
+183	 __ Wine	1
+10	Beer Apple __ 	2
+10	  Beer Apple __ 	1
+787	  __ Apple	1
+787	 __ Apple	2
+787	  __ Apple Wine	2
+787	 __ Apple Wine	1
+1411	  __ mix	3
+1411	 __ mix	3
+247	  __ Mixture	3
+247	 __ Mixture	3
+1416	Egg __ 	3
+1416	  Egg __ 	2
+1416	 __ 	1
+37	  __ yolk	3
+37	 __ yolk	3
+110	  __ liver	3
+110	 __ liver	3
+1378	Beef __ 	3
+1378	  Beef __ 	2
+1419	Mixed __ 	3
+1419	 __ 	3
+1420	  __ 	4
+1420	 __ 	2
+1422	  __ Flakes	3
+1422	 __ Flakes	3
+37	  __ 	4
+1425	  __ Dairy	1
+1425	 __ Dairy	2
+1425	  __ Dairy Substitute Products	1
+1425	 __ Dairy Substitute	1
+1425	  __ Dairy Substitute	1
+1216	Dairy __ Products	3
+1216	Products Dairy __ Products	2
+1216	Dairy Products Dairy __ Products	1
+1263	  __ Products	1
+1263	 __ Products	2
+1263	  __ Products Dairy Substitute	1
+1263	 __ Products Dairy	1
+1263	  __ Products Dairy	1
+1426	Dairy __ Dairy	1
+1426	  Dairy __ Dairy	1
+1426	 __ Dairy	1
+1426	Dairy __ Dairy Substitute Products	1
+1426	  Dairy __ Dairy Substitute	1
+1426	Dairy __ Dairy Substitute	1
+1429	  __ 	3
+1429	 __ 	3
+1431	  __ Jelly	3
+1431	 __ Jelly	3
+1150	  __ Cherry	1
+1150	 __ Cherry	2
+1150	  __ Cherry Sticks	2
+1150	 __ Cherry Sticks	1
+49	Mini __ Sticks	3
+49	  Mini __ Sticks	2
+49	 __ Sticks	1
+1434	  __ 	3
+1434	 __ 	3
+233	  __ Vegetable	1
+233	 __ Vegetable	2
+233	  __ Vegetable Mix	2
+233	 __ Vegetable Mix	1
+196	Thai __ Mix	3
+196	  Thai __ Mix	2
+196	 __ Mix	1
+1438	  __ 	4
+1438	 __ 	2
+85	  __ and	1
+85	 __ and	2
+85	  __ and noodles	2
+85	 __ and noodles	1
+785	and __ 	3
+785	Pasta and __ 	2
+785	  Pasta and __ 	1
+196	Cooked __ 	4
+555	  __ chop	3
+555	 __ chop	3
+117	Frigor __ Squares	3
+117	Cailler Frigor __ Squares	2
+117	 __ Squares	1
+338	  __ Balm	1
+338	 __ Balm	2
+338	  __ Balm Syrup	2
+338	 __ Balm Syrup	1
+214	Balm __ 	3
+214	Lemon Balm __ 	2
+214	  Lemon Balm __ 	1
+162	  __ gum	3
+162	 __ gum	3
+1447	Hazelnut __ 	3
+1447	  Hazelnut __ 	2
+1447	 __ 	1
+950	  __ praline	3
+950	 __ praline	3
+396	  __ Juice	3
+396	 __ Juice	3
+40	Pomelo __ 	3
+40	  Pomelo __ 	2
+1001	Soft __ 	3
+1001	Gitzi Soft __ 	2
+1001	 __ 	2
+85	Colored __ 	4
+497	Pom __ 	3
+497	Pom Pom __ 	2
+497	  Pom Pom __ 	1
+1453	  __ Mushroom	3
+1453	 __ Mushroom	3
+564	Hard __ 	4
+245	Date __ 	4
+1456	  __ 	4
+1456	 __ 	2
+950	  __ ice	1
+950	 __ ice	2
+950	  __ ice cream	2
+950	 __ ice cream	1
+31	Hazelnut __ 	3
+31	  Hazelnut __ 	2
+1459	Frozen __ Mix	3
+1459	 __ Mix	3
+1460	  __ 	4
+1460	 __ 	2
+1378	Veal __ 	3
+1378	  Veal __ 	2
+143	  __ liver	3
+143	 __ liver	3
+922	Orange __ 	4
+1464	  __ 	4
+1464	 __ 	2
+1466	Pork __ 	3
+1466	  Pork __ 	2
+1466	 __ 	1
+555	  __ stew	3
+555	 __ stew	3
+1467	  __ 	4
+1467	 __ 	2
+1171	Non __ beer apple wine	1
+1171	 __ beer apple	1
+1171	Non __ beer apple	1
+1469	beer __ wine	3
+1469	alcoholic beer __ wine	2
+1469	Non alcoholic beer __ wine	1
+10	apple __ 	3
+10	beer apple __ 	2
+10	alcoholic beer apple __ 	1
+787	alcoholic __ apple	1
+787	Non alcoholic __ apple	1
+787	 __ apple	1
+787	alcoholic __ apple wine	2
+787	Non alcoholic __ apple wine	1
+196	Market __ 	3
+196	Cook Market __ 	2
+196	Lets Cook Market __ 	1
+576	  __ 	4
+257	Herb __ 	3
+257	  Herb __ 	2
+429	  __ Cream	1
+429	 __ Cream	2
+429	  __ Cream Cheese	2
+429	 __ Cream Cheese	1
+196	Ground __ 	4
+38	porcini __ 	3
+38	Dried porcini __ 	2
+1475	  __ powder	3
+1475	 __ powder	3
+33	  __ Mustard	3
+33	 __ Mustard	3
+1173	Spaghetti __ 	4
+1084	  __ 	4
+1084	 __ 	2
+663	Spring __ 	4
+196	Stem __ 	4
+1048	Strawberry __ Jam	3
+1048	  Strawberry __ Jam	2
+1048	 __ Jam	1
+1460	  __ Rhubarb	1
+1460	 __ Rhubarb	2
+1460	  __ Rhubarb Jam	2
+1460	 __ Rhubarb Jam	1
+159	  __ Baking	1
+159	 __ Baking	2
+159	  __ Baking Aids	2
+159	 __ Baking Aids	1
+1483	Baking __ 	3
+1483	Cooking Baking __ 	2
+1483	  Cooking Baking __ 	1
+781	  __ Biscuit	3
+781	 __ Biscuit	3
+764	Chocolate __ 	3
+764	  Chocolate __ 	2
+764	 __ 	1
+1486	Grillsmoke __ Liquid	1
+1486	 __ Liquid	2
+1486	Grillsmoke __ Liquid Smoke	2
+1486	 __ Liquid Smoke	1
+1487	Hickory __ Smoke	3
+1487	Grillsmoke Hickory __ Smoke	2
+1487	 __ Smoke	1
+1489	  __ Yogurt	1
+1489	 __ Yogurt	2
+1489	  __ Yogurt Ice Cream	1
+1489	 __ Yogurt Ice	1
+1489	  __ Yogurt Ice	1
+547	Yogurt __ 	3
+547	Orange Yogurt __ 	2
+547	Blood Orange Yogurt __ 	1
+75	Orange __ Ice	1
+75	Blood Orange __ Ice	1
+75	  Blood Orange __ Ice	1
+75	Orange __ Ice Cream	2
+75	Blood Orange __ Ice Cream	1
+110	  __ cheeks	3
+110	 __ cheeks	3
+1492	T __ Steak	3
+1492	 __ Steak	3
+1236	Bone __ 	3
+1236	T Bone __ 	2
+1236	 __ 	1
+303	Tea __ 	3
+303	  Tea __ 	2
+303	 __ 	1
+133	  __ Coffee	3
+133	 __ Coffee	3
+1494	  __ 	4
+1494	 __ 	2
+740	Wheat __ 	3
+740	Durum Wheat __ 	2
+740	  Durum Wheat __ 	1
+1496	  __ Semolina	3
+1496	 __ Semolina	3
+304	caramel __ 	3
+304	butter caramel __ 	2
+304	Salted butter caramel __ 	1
+281	butter __ cream	3
+281	Salted butter __ cream	2
+281	 __ cream	1
+533	Salted __ caramel	1
+533	 __ caramel	2
+533	Salted __ caramel cream	2
+533	 __ caramel cream	1
+233	Fresh __ Basil	3
+233	 __ Basil	3
+1500	  __ 	3
+1500	 __ 	3
+64	Ostrich __ 	3
+64	  Ostrich __ 	2
+1321	  __ meat	3
+1321	 __ meat	3
+1503	  __ 	3
+1503	 __ 	3
+852	Fat __ vegetable	1
+852	  Fat __ vegetable	1
+852	 __ vegetable	1
+852	Fat __ vegetable broth	2
+852	  Fat __ vegetable broth	1
+562	vegetable __ 	3
+562	free vegetable __ 	2
+562	Fat free vegetable __ 	1
+271	  __ free vegetable broth	1
+271	 __ free vegetable	1
+271	  __ free vegetable	1
+196	free __ broth	3
+196	Fat free __ broth	2
+196	  Fat free __ broth	1
+266	Jam __ 	3
+266	Coop Jam __ 	2
+727	Dried __ 	4
+1510	  __ Bdeli	3
+1510	 __ Bdeli	3
+1512	  __ stock	3
+1512	 __ stock	3
+1513	Poultry __ 	3
+1513	  Poultry __ 	2
+1513	 __ 	1
+1514	  __ 	4
+1514	 __ 	2
+1516	Vanilla __ 	3
+1516	  Vanilla __ 	2
+1516	 __ 	1
+30	  __ Flan	3
+30	 __ Flan	3
+474	  __ flour	3
+474	 __ flour	3
+166	Coconut __ 	3
+166	  Coconut __ 	2
+1229	  __ breast	3
+1229	 __ breast	3
+191	Duck __ 	3
+191	  Duck __ 	2
+8	  __ Olive	3
+8	 __ Olive	3
+440	Black __ 	3
+440	  Black __ 	2
+440	 __ 	1
+455	  __ bread	3
+455	 __ bread	3
+220	Protein __ 	3
+220	  Protein __ 	2
+950	  __ Spread	3
+950	 __ Spread	3
+741	  __ Demi	1
+741	 __ Demi	2
+741	  __ Demi Sec	2
+741	 __ Demi Sec	1
+1525	Demi __ 	3
+1525	Champagne Demi __ 	2
+1525	  Champagne Demi __ 	1
+922	  __ Bouquet	3
+922	 __ Bouquet	3
+1089	  __ 	4
+1089	 __ 	2
+566	  __ 	4
+566	 __ 	2
+1405	  __ eating	3
+1405	 __ eating	3
+1531	di __ 	3
+1531	Cima di __ 	2
+1531	 __ 	1
+1532	  __ 	4
+1532	 __ 	2
+24	Nut __ 	4
+24	 __ 	4
+1534	  __ 	4
+1534	 __ 	2
+128	  __ 	4
+128	 __ 	2
+497	White __ 	3
+497	  White __ 	2
+93	  __ Mushroom	3
+93	 __ Mushroom	3
+119	  __ Entrecote	3
+119	 __ Entrecote	3
+8	  __ Trumpet	3
+8	 __ Trumpet	3
+1539	Black __ 	3
+1539	  Black __ 	2
+1539	 __ 	1
+1541	  __ 	3
+1541	 __ 	3
+186	  __ 	4
+3	  __ Speculoos	3
+3	 __ Speculoos	3
+1545	  __ 	4
+1545	 __ 	2
+85	Lentil __ 	3
+85	Red Lentil __ 	2
+85	  Red Lentil __ 	1
+198	Red __ Pasta	3
+198	  Red __ Pasta	2
+198	 __ Pasta	1
+830	  __ Lentil	1
+830	 __ Lentil	2
+830	  __ Lentil Pasta	2
+830	 __ Lentil Pasta	1
+214	Calamansi __ 	3
+214	Coconut Calamansi __ 	2
+214	  Coconut Calamansi __ 	1
+474	  __ Calamansi	1
+474	 __ Calamansi	2
+474	  __ Calamansi Syrup	2
+474	 __ Calamansi Syrup	1
+1550	Graved __ 	4
+1550	 __ 	2
+1551	  __ 	4
+1551	 __ 	2
+320	  __ Jam	3
+320	 __ Jam	3
+1555	Salsa __ 	3
+1555	  Salsa __ 	2
+1555	 __ 	1
+1554	  __ Napoli	3
+1554	 __ Napoli	3
+74	Grain __ Flour	3
+74	Whole Grain __ Flour	2
+74	  Whole Grain __ Flour	1
+1557	  __ Oat	1
+1557	 __ Oat	2
+1557	  __ Oat Flour	2
+1557	 __ Oat Flour	1
+35	Oat __ 	3
+35	Grain Oat __ 	2
+35	Whole Grain Oat __ 	1
+285	  __ fowl breast	2
+285	 __ fowl breast	1
+191	fowl __ 	3
+191	Guinea fowl __ 	2
+191	  Guinea fowl __ 	1
+73	  __ Jocos	1
+73	 __ Jocos	2
+73	  __ Jocos nature	2
+73	 __ Jocos nature	1
+537	Jocos __ 	3
+537	Karma Jocos __ 	2
+537	  Karma Jocos __ 	1
+495	  __ Pepper	3
+495	 __ Pepper	3
+78	Green __ 	3
+78	  Green __ 	2
+1561	  __ 	4
+1561	 __ 	2
+162	  __ Powder	3
+162	 __ Powder	3
+130	free __ breadcrumbs	3
+130	Gluten free __ breadcrumbs	2
+130	  Gluten free __ breadcrumbs	1
+3	  __ corn	1
+3	 __ corn	2
+3	  __ corn breadcrumbs	2
+3	 __ corn breadcrumbs	1
+289	Red __ Paste	3
+289	  Red __ Paste	2
+830	  __ Curry Paste	2
+830	 __ Curry Paste	1
+1566	  __ paprika	3
+1566	 __ paprika	3
+1567	Rose __ 	3
+1567	  Rose __ 	2
+1567	 __ 	1
+1569	  __ syrup	3
+1569	 __ syrup	3
+245	Rhubarb __ 	3
+245	  Rhubarb __ 	2
+373	Peretti __ 	4
+1326	YoQua __ Emmi	3
+1326	 __ Emmi	3
+233	  __ Jasmine	1
+233	 __ Jasmine	2
+233	  __ Jasmine Rice	2
+233	 __ Jasmine Rice	1
+1574	Thai __ 	3
+1574	  Thai __ 	2
+1574	 __ 	1
+1576	  __ Choi	3
+1576	 __ Choi	3
+1578	  __ stalk	1
+1578	 __ stalk	2
+1578	  __ stalk leaf	2
+1578	 __ stalk leaf	1
+300	stalk __ 	3
+300	Celery stalk __ 	2
+300	  Celery stalk __ 	1
+1580	  __ 	4
+1580	 __ 	2
+31	  __ Sorbet	3
+31	 __ Sorbet	3
+594	Cream __ 	3
+594	Ice Cream __ 	2
+594	  Ice Cream __ 	1
+1586	Cuttlefish __ 	3
+1586	  Cuttlefish __ 	2
+1586	 __ 	1
+1585	  __ Ink	3
+1585	 __ Ink	3
+110	  __ escalopes	3
+110	 __ escalopes	3
+94	  __ Pearls	3
+94	 __ Pearls	3
+1591	  __ 	4
+1591	 __ 	2
+1593	  __ 	3
+1593	 __ 	3
+781	  __ discs	1
+781	 __ discs	2
+781	  __ discs with peppermint	1
+781	 __ discs with	1
+781	  __ discs with	1
+1596	  __ 	3
+1596	 __ 	3
+191	Veal __ 	3
+191	  Veal __ 	2
+143	  __ breast	3
+143	 __ breast	3
+549	  __ 	3
+549	 __ 	3
+1600	  __ Sweetener	3
+1600	 __ Sweetener	3
+1602	  __ 	3
+1602	 __ 	3
+28	Vegan __ 	3
+28	  Vegan __ 	2
+71	  __ Honey	3
+71	 __ Honey	3
+1605	Loose __ with	1
+1605	 __ with	2
+1605	Loose __ with peppermint	2
+1605	 __ with peppermint	1
+1606	with __ 	3
+1606	tea with __ 	2
+1606	green tea with __ 	1
+64	Goose __ 	4
+1609	  __ 	4
+1609	 __ 	2
+514	  __ 	4
+1611	  __ 	3
+1611	 __ 	3
+1614	  __ 	3
+1614	 __ 	3
+781	  __ covered	1
+781	 __ covered	2
+781	  __ covered coffee bean	1
+781	 __ covered coffee	1
+781	  __ covered coffee	1
+1616	covered __ 	3
+1616	Chocolate covered __ 	2
+1616	  Chocolate covered __ 	1
+106	Phyllo __ 	4
+10	Boiled __ 	4
+751	  __ 	4
+912	  __ Raclette	1
+912	 __ Raclette	2
+912	  __ Raclette Cheese	2
+912	 __ Raclette Cheese	1
+1001	Raclette __ 	3
+1001	Chili Raclette __ 	2
+1001	  Chili Raclette __ 	1
+75	Coconut __ 	3
+75	  Coconut __ 	2
+474	  __ Yogurt	3
+474	 __ Yogurt	3
+474	Unsweetened __ Drink	3
+474	 __ Drink	3
+1625	  __ 	3
+1625	 __ 	3
+1211	  __ Similar	3
+1211	 __ Similar	3
+8	  __ Mustard	1
+8	 __ Mustard	2
+8	  __ Mustard Seed	2
+8	 __ Mustard Seed	1
+1629	Black __ 	3
+1629	  Black __ 	2
+1629	 __ 	1
+30	  __ Pudding	1
+30	 __ Pudding	2
+30	  __ Pudding Powder	2
+30	 __ Pudding Powder	1
+1632	  __ 	3
+1632	 __ 	3
+171	  __ fillet	3
+171	 __ fillet	3
+30	Bossi __ Paste	3
+30	Betty Bossi __ Paste	2
+1027	Fresh __ 	4
+1638	  __ syrup	3
+1638	 __ syrup	3
+245	Agave __ 	3
+245	  Agave __ 	2
+1640	  __ Lentil	3
+1640	 __ Lentil	3
+198	Beluga __ 	3
+198	  Beluga __ 	2
+1643	  __ 	4
+1643	 __ 	2
+196	Frozen __ mix	3
+429	  __ Salt	3
+429	 __ Salt	3
+16	Herb __ 	3
+16	  Herb __ 	2
+723	  __ knuckle	3
+723	 __ knuckle	3
+1649	cut __ 	3
+1649	Fresh cut __ 	2
+1649	 __ 	1
+412	Orange __ 	4
+24	Salted __ 	4
+1654	  __ 	4
+1654	 __ 	2
+18	Modeling __ 	3
+18	Colored Modeling __ 	2
+1657	White __ juice	3
+1657	  White __ juice	2
+1657	 __ juice	1
+371	grape __ 	3
+371	White grape __ 	2
+371	  White grape __ 	1
+165	  __ grape	1
+165	 __ grape	2
+165	  __ grape juice	2
+165	 __ grape juice	1
+1542	Neuchtel __ 	4
+1542	 __ 	2
+434	  __ Juice	3
+434	 __ Juice	3
+40	Peach __ 	3
+40	  Peach __ 	2
+1662	  __ 	3
+1662	 __ 	3
+1665	  __ protein	1
+1665	 __ protein	2
+1665	  __ protein powder	2
+1665	 __ protein powder	1
+455	Pea __ powder	3
+455	  Pea __ powder	2
+455	 __ powder	1
+166	Potato __ 	3
+166	  Potato __ 	2
+460	  __ flour	3
+460	 __ flour	3
+898	  __ Pastes	1
+898	 __ Pastes	2
+898	  __ Pastes Pies	2
+898	 __ Pastes Pies	1
+781	  __ waffles	3
+781	 __ waffles	3
+1319	Fresh __ 	4
+1319	 __ 	2
+934	Double __ of	1
+934	 __ of	2
+934	Double __ of Gruyre and	1
+934	 __ of Gruyre	1
+934	Double __ of Gruyre	1
+547	Meringues __ 	3
+547	and Meringues __ 	2
+547	Gruyre and Meringues __ 	1
+934	Ice __ 	3
+934	Meringues Ice __ 	2
+934	and Meringues Ice __ 	1
+8	  __ Venere	1
+8	 __ Venere	2
+8	  __ Venere Rice	2
+8	 __ Venere Rice	1
+247	Venere __ 	3
+247	Black Venere __ 	2
+247	  Black Venere __ 	1
+1238	Lime __ 	4
+501	  __ 	4
+501	 __ 	2
+1675	  __ 	4
+1675	 __ 	2
+894	  __ Juice	3
+894	 __ Juice	3
+40	Yuzu __ 	3
+40	  Yuzu __ 	2
+18	Baking __ 	4
+1681	Cuisine __ 64	3
+1681	Cailler Cuisine __ 64	2
+1681	 __ 64	1
+1557	  __ Spaghetti	3
+1557	 __ Spaghetti	3
+217	  __ Flavor	3
+217	 __ Flavor	3
+497	Err __ 	3
+497	Mu Err __ 	2
+497	Dried Mu Err __ 	1
+657	Pickled __ 	4
+1688	Dried __ 	4
+1688	 __ 	4
+1693	Dried __ 	4
+1693	 __ 	2
+186	Dlicorn __ 	4
+781	Cuisine __ Powder	3
+781	Cailler Cuisine __ Powder	2
+781	 __ Powder	1
+1665	Yellow __ 	4
+1665	 __ 	2
+1701	Frozen __ 	4
+1701	 __ 	2
+220	Fruit __ 	3
+220	  Fruit __ 	2
+162	  __ bread	3
+162	 __ bread	3
+1704	  __ 	3
+1704	 __ 	3
+75	Vanilla __ 	3
+75	  Vanilla __ 	2
+30	  __ Yogurt	3
+30	 __ Yogurt	3
+681	White __ 	3
+681	  White __ 	2
+93	  __ Grape	3
+93	 __ Grape	3
+247	Creole __ 	4
+1709	  __ fats	3
+1709	 __ fats	3
+1712	Colored __ 	3
+1712	 __ 	3
+1713	  __ 	4
+1713	 __ 	2
+245	Elderflower __ 	4
+1716	  __ flour	3
+1716	 __ flour	3
+166	Chickpea __ 	3
+166	  Chickpea __ 	2
+931	with __ 	3
+931	Spread with __ 	2
+931	Parfait Spread with __ 	1
+657	  __ Powder	3
+657	 __ Powder	3
+950	Ground __ 	4
+950	 __ 	2
+830	  __ Cornetti	3
+830	 __ Cornetti	3
+939	Dried __ 	4
+1286	  __ Brie	3
+1286	 __ Brie	3
+744	Truffle __ 	3
+744	  Truffle __ 	2
+744	 __ 	1
+1725	  __ 	4
+1725	 __ 	2
+312	BBQ __ Cocoa	1
+312	 __ Cocoa	2
+312	BBQ __ Cocoa Rub	2
+312	 __ Cocoa Rub	1
+449	grain __ wrap	3
+449	Whole grain __ wrap	2
+449	  Whole grain __ wrap	1
+180	  __ tortilla	1
+180	 __ tortilla	2
+180	  __ tortilla wrap	2
+180	 __ tortilla wrap	1
+601	  __ flour	3
+601	 __ flour	3
+166	Rye __ 	3
+166	  Rye __ 	2
+313	Anise __ 	3
+313	  Anise __ 	2
+1514	  __ Liqueur	3
+1514	 __ Liqueur	3
+1731	Herb __ 	3
+1731	  Herb __ 	2
+1731	 __ 	1
+429	  __ Tomatoes	3
+429	 __ Tomatoes	3
+1733	  __ Oelek	3
+1733	 __ Oelek	3
+40	Berry __ 	4
+1688	  __ 	4
+1736	White __ 	3
+1736	  White __ 	2
+1736	 __ 	1
+93	  __ Toblerone	3
+93	 __ Toblerone	3
+183	Sour __ 	4
+1740	  __ 	3
+1740	 __ 	3
+329	Hazelnut __ Glaze	3
+329	  Hazelnut __ Glaze	2
+950	  __ Cake	1
+950	 __ Cake	2
+950	  __ Cake Glaze	2
+950	 __ Cake Glaze	1
+555	Roast __ 	4
+555	 __ 	2
+293	  __ 	4
+1745	  __ 	4
+1745	 __ 	2
+1295	Plum __ 	3
+1295	  Plum __ 	2
+805	  __ yogurt	3
+805	 __ yogurt	3
+1747	  __ 	4
+1747	 __ 	2
+1740	  __ Concentrates	3
+1740	 __ Concentrates	3
+162	  __ concentrates	3
+162	 __ concentrates	3
+1753	  __ 	3
+1753	 __ 	3
+1001	Gala __ 	3
+1001	Emmi Gala __ 	2
+641	Saltwater __ 	3
+641	Oily Saltwater __ 	2
+641	Other Oily Saltwater __ 	1
+304	Soy __ 	4
+1761	Dried __ 	4
+1761	 __ 	2
+555	  __ shoulder	3
+555	 __ shoulder	3
+250	  __ Similar	3
+250	 __ Similar	3
+85	  __ dough	3
+85	 __ dough	3
+117	Whole __ 	4
+1303	Sour __ 	4
+533	Almond __ 	3
+533	Dark Almond __ 	2
+91	Dark __ Butter	3
+1051	Dried __ 	4
+103	  __ 	4
+103	 __ 	2
+732	  __ Noodle	3
+732	 __ Noodle	3
+384	Wok __ 	3
+384	  Wok __ 	2
+1773	  __ broth	3
+1773	 __ broth	3
+562	Shellfish __ 	3
+562	  Shellfish __ 	2
+518	free __ 	3
+518	Gluten free __ 	2
+518	  Gluten free __ 	1
+913	  __ Pork	1
+913	 __ Pork	2
+913	  __ Pork minced meat	1
+913	 __ Pork minced	1
+913	  __ Pork minced	1
+723	Veal __ minced	1
+723	  Veal __ minced	1
+723	Veal __ minced meat	2
+723	  Veal __ minced meat	1
+166	Buckwheat wholemeal __ 	2
+166	  Buckwheat wholemeal __ 	1
+483	  __ wholemeal	1
+483	 __ wholemeal	2
+483	  __ wholemeal flour	2
+483	 __ wholemeal flour	1
+1779	free __ 	3
+1779	Gluten free __ 	2
+1779	  Gluten free __ 	1
+3	  __ Baguette	3
+3	 __ Baguette	3
+562	Veal __ 	3
+562	  Veal __ 	2
+143	  __ broth	3
+143	 __ broth	3
+1784	  __ 	3
+1784	 __ 	3
+649	Smoked __ 	4
+917	  __ 	4
+917	 __ 	2
+1786	  __ 	4
+1786	 __ 	2
+1788	  __ rolls	3
+1788	 __ rolls	3
+338	  __ Curd	3
+338	 __ Curd	3
+415	Lemon __ 	3
+415	  Lemon __ 	2
+1072	  __ Stick	3
+1072	 __ Stick	3
+934	  __ holder	3
+934	 __ holder	3
+501	  __ Bread	1
+501	 __ Bread	2
+501	  __ Bread Spice	2
+501	 __ Bread Spice	1
+441	Pear __ Spice	3
+441	  Pear __ Spice	2
+441	 __ Spice	1
+735	Bread __ 	3
+735	Pear Bread __ 	2
+735	  Pear Bread __ 	1
+117	  __ drink	3
+117	 __ drink	3
+1797	Frozen __ 	3
+1797	 __ 	3
+1238	Orange __ 	4
+186	Beer __ 	3
+186	  Beer __ 	2
+787	  __ sausage	3
+787	 __ sausage	3
+34	Plum __ 	3
+34	  Plum __ 	2
+805	  __ Brandy	3
+805	 __ Brandy	3
+1802	Garlic __ 	3
+1802	  Garlic __ 	2
+1802	 __ 	1
+103	  __ clove	3
+103	 __ clove	3
+1557	  __ Toast	1
+1557	 __ Toast	2
+1557	  __ Toast Bread	2
+1557	 __ Toast Bread	1
+441	Toast __ 	3
+441	Grain Toast __ 	2
+441	Whole Grain Toast __ 	1
+434	Saturn __ 	3
+434	  Saturn __ 	2
+1805	  __ Peach	3
+1805	 __ Peach	3
+175	Candied __ 	4
+474	  __ liqueur	3
+474	 __ liqueur	3
+412	Coconut __ 	3
+412	  Coconut __ 	2
+25	  __ 	4

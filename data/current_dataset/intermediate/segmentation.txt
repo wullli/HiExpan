@@ -1,0 +1,1283 @@
+<phrase>Blue</phrase> Curaao
+<phrase>Gluten free</phrase> breadcrumbs
+<phrase>White Wine</phrase> <phrase>Vinegar</phrase>
+<phrase>Black</phrase> Nut
+Sweet <phrase>wine</phrase>
+<phrase>Matcha</phrase> <phrase>Green Tea</phrase> Powder
+<phrase>Hawaii</phrase> <phrase>Salt</phrase>
+Colored <phrase>Marzipan</phrase>
+Cooked <phrase>beetroot</phrase>
+<phrase>Worcestershire Sauce</phrase>
+<phrase>Butter</phrase> <phrase>Margarine</phrase>
+<phrase>Pretzel</phrase>
+<phrase>Currant</phrase>
+<phrase>Honey</phrase>
+<phrase>Vanilla</phrase> <phrase>ice cream</phrase>
+<phrase>Apricot</phrase> <phrase>Brandy</phrase>
+<phrase>Flour</phrase>
+<phrase>Egg</phrase> <phrase>mushroom</phrase>
+Sea Buckthorn <phrase>Juice</phrase>
+<phrase>Delicatessen</phrase> <phrase>Paprika</phrase>
+<phrase>Bread roll</phrase>
+Salts
+Cakes
+Dried <phrase>Cherry</phrase>
+<phrase>Molasses</phrase>
+<phrase>Walnut</phrase> <phrase>ice cream</phrase>
+<phrase>Halloumi</phrase>
+<phrase>White bread</phrase>
+<phrase>Cottage cheese</phrase>
+Wild <phrase>strawberry</phrase>
+<phrase>Carob</phrase> gum
+<phrase>Confectionery</phrase> powder
+Processed <phrase>meat</phrase> <phrase>products</phrase>
+Bndnerfleisch
+Semi hard <phrase>cheese</phrase>
+Salsiccia
+<phrase>Vegan</phrase> <phrase>Organic</phrase> Joaty <phrase>Karma</phrase> <phrase>Oat</phrase> <phrase>Yogurt</phrase>
+<phrase>Salt</phrase> <phrase>Pepper</phrase>
+Coquelet
+Fresh <phrase>chervil</phrase>
+Dried <phrase>coconut</phrase> <phrase>meat</phrase>
+Stuffed <phrase>Pasta</phrase>
+Soft candies
+<phrase>Cashew Nut</phrase>
+<phrase>Honey</phrase> Mustard
+<phrase>Almond</phrase> cookies
+<phrase>White</phrase> <phrase>Balsamic Vinegar</phrase>
+<phrase>Venison</phrase> <phrase>minced meat</phrase>
+Bndner Rteli
+Hard candies
+<phrase>Caraway</phrase> powder
+Hot Mustard
+<phrase>Garlic</phrase> Powder
+<phrase>Yeast</phrase> <phrase>dough</phrase>
+Zucchetti
+Cicorino verde
+<phrase>Beef</phrase> <phrase>stew</phrase>
+<phrase>Agar</phrase> <phrase>Agar</phrase>
+Arugula Sprout
+Deep frozen rowanberry
+<phrase>Plant</phrase> based <phrase>milk</phrase> product alternatives
+<phrase>Wild Boar</phrase> <phrase>Cutlet</phrase>
+<phrase>Forest</phrase> <phrase>Honey</phrase>
+Fig
+<phrase>Millet</phrase>
+Sweet <phrase>Red Wine</phrase>
+<phrase>Blackberry</phrase> Jam
+Baby <phrase>corn</phrase>
+<phrase>Yogi</phrase> <phrase>Tea</phrase>
+<phrase>Almond</phrase> <phrase>mush</phrase>
+<phrase>Mayonnaise</phrase>
+<phrase>Ground Meat</phrase>
+Oils Fats
+Nonpareils
+Other baked goods
+<phrase>Veal</phrase> spare rib
+<phrase>Plant</phrase> based <phrase>meat</phrase> alternatives
+<phrase>Offal</phrase>
+<phrase>Venison</phrase> Back
+Spreadable <phrase>processed cheese</phrase>
+Sliced <phrase>vegan</phrase> <phrase>cheese</phrase>
+<phrase>Smarties</phrase>
+<phrase>Plant</phrase> Based Oils
+<phrase>Sesame oil</phrase>
+Nut bars
+<phrase>Potato starch</phrase>
+<phrase>Cooking</phrase> <phrase>chocolate</phrase>
+Merqun
+<phrase>Fruit</phrase>
+Pointed <phrase>pepper</phrase>
+Semi <phrase>white</phrase> <phrase>flour</phrase>
+Coarse <phrase>oat</phrase> flakes
+<phrase>Gorgonzola</phrase>
+<phrase>Rabbit</phrase> leg
+<phrase>Kohlrabi</phrase>
+<phrase>Almond</phrase>
+<phrase>Tropical</phrase> <phrase>fruits</phrase>
+Dry <phrase>Pasta</phrase>
+Broad <phrase>bean</phrase>
+<phrase>Gluten free</phrase> <phrase>whole grain</phrase> <phrase>oat</phrase> <phrase>flour</phrase>
+<phrase>Lemonade</phrase>
+<phrase>Apple</phrase> <phrase>wine</phrase>
+Skimmed <phrase>Milk</phrase> Powder
+<phrase>Sausage</phrase> with <phrase>Cabbage</phrase>
+<phrase>Persimmon</phrase>
+Smoked <phrase>duck</phrase> <phrase>breast</phrase>
+Ciabatta
+<phrase>Oreo</phrase> Cookies
+Mixed <phrase>Vegetables</phrase>
+Cooked Yellow <phrase>Lentil</phrase>
+<phrase>Skyr</phrase>
+<phrase>Caramel</phrase> Spread
+<phrase>Soybean</phrase> Wholemeal
+<phrase>Beef</phrase>
+Sweet and Sour <phrase>Sauce</phrase>
+Dried <phrase>Green</phrase> <phrase>Lentils</phrase>
+Summer <phrase>truffle</phrase>
+Candied <phrase>Cherry</phrase>
+Farmers <phrase>sausage</phrase>
+Lean <phrase>ground beef</phrase>
+<phrase>Syrup</phrase>
+<phrase>Hamburger</phrase> bun
+<phrase>Rum</phrase>
+<phrase>Beef</phrase> Ribeye
+Dark <phrase>Bread</phrase>
+Ros <phrase>wine</phrase>
+Lamb rump
+<phrase>Dashi</phrase>
+<phrase>Parsnip</phrase>
+<phrase>Alcoholic beverages</phrase>
+Fresh Orange <phrase>Thyme</phrase>
+<phrase>Verbena</phrase> <phrase>Tea</phrase>
+<phrase>Thai</phrase> <phrase>Mango</phrase>
+Bloderchs
+<phrase>Dextrose</phrase>
+<phrase>Gelatin</phrase>
+<phrase>Cardamom</phrase> pod
+Deep frozen <phrase>chestnut</phrase>
+Fresh <phrase>Coriander</phrase>
+Orange <phrase>syrup</phrase>
+Cooked <phrase>Rice</phrase>
+<phrase>Tortilla</phrase> wrap
+<phrase>Salmon</phrase>
+<phrase>Cashew</phrase> Drink
+QimiQ
+<phrase>Orange juice</phrase>
+<phrase>Cream Cheese</phrase>
+<phrase>Pigs</phrase> feet
+<phrase>Peppermint</phrase> <phrase>syrup</phrase>
+Roasted <phrase>Almond</phrase>
+<phrase>Batavia</phrase> <phrase>lettuce</phrase>
+<phrase>Sugar</phrase>
+<phrase>Corn</phrase> <phrase>Tortilla</phrase> Wrap
+Other Processed Foods
+Reduced <phrase>fat</phrase> <phrase>cream cheese</phrase>
+<phrase>Sweet potato</phrase>
+<phrase>Mandarin</phrase>
+Mustard sprout
+<phrase>Spoon</phrase> <phrase>biscuit</phrase>
+Dark <phrase>chocolate</phrase> with <phrase>caramel</phrase> and <phrase>salt</phrase>
+Pale <phrase>Beer</phrase>
+<phrase>Guinea</phrase> fowl
+<phrase>Asian</phrase> <phrase>Pasta</phrase>
+<phrase>Curry</phrase> <phrase>Tofu</phrase>
+<phrase>Beef</phrase> sirloin
+Orange Blossom <phrase>Water</phrase>
+<phrase>Red Mullet</phrase>
+<phrase>Whole grain</phrase> <phrase>rice flour</phrase>
+<phrase>Red</phrase> <phrase>leaf</phrase> <phrase>lettuce</phrase>
+Whiting
+<phrase>Coffee</phrase> <phrase>cream</phrase>
+Gilt head <phrase>bream</phrase>
+Boiled <phrase>Potatoes</phrase>
+<phrase>Blueberry</phrase> jam
+<phrase>Coffee</phrase> <phrase>Liqueur</phrase>
+Aronia Berry Powder
+Ruchmehl
+Maizena Express Brown
+Soft <phrase>Waffle</phrase>
+<phrase>Raspberry</phrase> <phrase>syrup</phrase>
+<phrase>Karma</phrase> Power Topping
+Cailler Cuisine <phrase>Milk</phrase>
+<phrase>Cinnamon</phrase> <phrase>sugar</phrase>
+<phrase>Light</phrase> <phrase>Cake</phrase> Glaze
+Glarner <phrase>Veal</phrase> <phrase>Sausage</phrase>
+Betty Bossi Baking <phrase>Flour</phrase>
+Prepared <phrase>pastry</phrase>
+Dukkah
+<phrase>Sticky rice</phrase>
+<phrase>Lemon</phrase> <phrase>peel</phrase>
+<phrase>Wheat</phrase> <phrase>dough</phrase>
+Frozen <phrase>chicken</phrase> wing
+<phrase>Tarragon</phrase> <phrase>vinegar</phrase>
+Toffifee
+<phrase>Flowers</phrase> Blossoms
+Tandoori Paste
+<phrase>Apricot</phrase> jam
+Nut <phrase>cheese</phrase>
+<phrase>Soups</phrase>
+Dried <phrase>Apple</phrase>
+Dwarf <phrase>Pumpkin</phrase>
+Lamb <phrase>meat</phrase>
+<phrase>Turkey</phrase> <phrase>meat</phrase>
+<phrase>Melon</phrase>
+<phrase>Ajvar</phrase>
+Sabl
+<phrase>Dough</phrase>
+Dried Basil
+<phrase>Beef</phrase> <phrase>marrow</phrase> <phrase>bones</phrase>
+Dried <phrase>Bay Leaf</phrase>
+Sour <phrase>cherry</phrase> <phrase>juice</phrase>
+Dried <phrase>Tomato</phrase> In <phrase>Oil</phrase>
+<phrase>Corn</phrase> wafer
+Dried <phrase>Blueberry</phrase>
+<phrase>Artichoke</phrase> bottom
+<phrase>Sourdough</phrase> starter
+<phrase>Soba</phrase> <phrase>Noodle</phrase>
+<phrase>Tuna</phrase> in <phrase>salt</phrase> <phrase>water</phrase> from the can
+<phrase>Almond</phrase> drink
+<phrase>Erythritol</phrase>
+<phrase>Ginger Ale</phrase>
+<phrase>Grapefruit</phrase> <phrase>peel</phrase>
+<phrase>Peanut butter</phrase>
+<phrase>Pomelo</phrase>
+<phrase>Corn</phrase> fed <phrase>Chicken</phrase> <phrase>Breast</phrase>
+<phrase>Peanut</phrase>
+<phrase>Raspberry</phrase> <phrase>vinegar</phrase>
+<phrase>Broth</phrase> Powder Cubes
+<phrase>Croissant</phrase>
+<phrase>Fruit salad</phrase>
+Gitzischlegel
+<phrase>Ajvar</phrase> <phrase>Falafel</phrase>
+<phrase>Cotton Candy</phrase>
+<phrase>Marzipan</phrase>
+Bitter <phrase>liqueur</phrase>
+<phrase>Passion Fruit</phrase> <phrase>Curd</phrase>
+<phrase>Cayenne Pepper</phrase>
+Taleggio
+Breakfast flakes
+Nuts Seeds
+Salted <phrase>Cashew</phrase> <phrase>Peanut</phrase> Mix With <phrase>Honey</phrase>
+Dried <phrase>fruits</phrase>
+<phrase>Onion</phrase> sprout
+<phrase>Teff</phrase> <phrase>flour</phrase>
+Coarse grained <phrase>salt</phrase>
+<phrase>Herb</phrase> <phrase>vinegar</phrase>
+Pagnol <phrase>bread</phrase>
+<phrase>Asparagus</phrase> <phrase>bean</phrase>
+<phrase>Peach</phrase> <phrase>syrup</phrase>
+<phrase>Fruit</phrase> mix
+<phrase>Citrus fruit</phrase> peels
+Vinegars
+<phrase>Olive</phrase> <phrase>Bread</phrase>
+Frozen <phrase>plum</phrase>
+<phrase>Tortilla Chips</phrase>
+Floury <phrase>Potato</phrase>
+<phrase>Gluten free</phrase> <phrase>tortilla</phrase> wrap
+<phrase>Marzipan</phrase> <phrase>Carrots</phrase>
+<phrase>Pizza</phrase> <phrase>dough</phrase>
+<phrase>Protein</phrase> <phrase>Legume</phrase> Mix
+<phrase>Firm</phrase> <phrase>cooking</phrase> <phrase>potato</phrase>
+<phrase>Millet</phrase> flakes
+<phrase>Edamame</phrase>
+<phrase>Cinnamon</phrase>
+<phrase>Rice vinegar</phrase>
+<phrase>Wasabi</phrase> Powder
+Smoked frying <phrase>bacon</phrase>
+Edible <phrase>paper</phrase>
+Nut <phrase>Seed</phrase> Mixes
+<phrase>Coconut</phrase> chip
+<phrase>Vanilla</phrase> <phrase>cream</phrase> powder for <phrase>cooking</phrase>
+Rolled <phrase>grain</phrase>
+Fresh <phrase>Thyme</phrase>
+<phrase>Gourmet</phrase> <phrase>Salad</phrase>
+<phrase>Buckwheat</phrase> <phrase>flour</phrase>
+<phrase>Tomato</phrase> puree
+Sliced ham <phrase>bacon</phrase>
+Pickled <phrase>Pink</phrase> Peppercorn
+Wholemeal <phrase>flour</phrase>
+<phrase>Blackberry</phrase> Jelly
+<phrase>Spice</phrase> mix
+Yogurts <phrase>Quarks</phrase>
+Rivella <phrase>Green</phrase>
+Brown <phrase>Mushroom</phrase>
+<phrase>Buttermilk</phrase>
+<phrase>Wine</phrase>
+<phrase>Pear</phrase> <phrase>syrup</phrase>
+<phrase>Coconut oil</phrase>
+<phrase>Turkey</phrase> <phrase>breast</phrase>
+<phrase>Cream Cheese</phrase> With <phrase>Pepper</phrase>
+Cailler Branches Crmant
+<phrase>Green</phrase> Peperoncino
+<phrase>Lasagne</phrase> Sheet
+<phrase>Tsampa</phrase>
+<phrase>Wasabi</phrase> <phrase>root</phrase>
+<phrase>White</phrase> <phrase>Cornmeal</phrase>
+Goose
+Cornichon
+<phrase>Gluten free</phrase> <phrase>oatmeal</phrase> cookies
+<phrase>Gluten free</phrase> ladyfingers
+<phrase>Ticino</phrase> roast
+<phrase>Whisky</phrase>
+<phrase>White</phrase> <phrase>Asparagus</phrase>
+<phrase>Seasoning</phrase>
+Dry <phrase>Sparkling Wine</phrase>
+Flaxseed <phrase>Oil</phrase>
+Ground <phrase>Star Anise</phrase>
+<phrase>Herb</phrase> <phrase>butter</phrase>
+<phrase>Mountain</phrase> <phrase>cheese</phrase>
+<phrase>Karma</phrase> <phrase>Oat</phrase> Drink <phrase>Nature</phrase>
+Cornelian <phrase>cherry</phrase>
+Dried fig
+Pickles
+Puffed <phrase>Amaranth</phrase>
+Candied Nuts
+Curly <phrase>endive</phrase>
+Dlicorn Sliced
+Canned <phrase>compote</phrase> <phrase>pears</phrase>
+Soy <phrase>Vanilla</phrase> <phrase>Ice Cream</phrase>
+<phrase>Balsamic Vinegar</phrase> With Fig Flavor
+LEtivaz
+Sweetened <phrase>condensed milk</phrase>
+Deep frozen peas
+<phrase>Veal</phrase> roast
+<phrase>Pork</phrase> neck
+<phrase>Lucerne</phrase> <phrase>Cream Cheese</phrase>
+<phrase>Raspberry</phrase> <phrase>Buttermilk</phrase>
+Frutti di Mare
+<phrase>Butter</phrase> cookies
+Wild <phrase>broth</phrase>
+Soft <phrase>Caramel</phrase>
+<phrase>Banana</phrase> <phrase>Mango</phrase> <phrase>Quark</phrase>
+<phrase>Grenadine</phrase> <phrase>Syrup</phrase>
+Wirz
+<phrase>Gluten free</phrase> <phrase>bouillon</phrase>
+<phrase>Corn</phrase> Germ <phrase>Oil</phrase>
+<phrase>Flatfish</phrase>
+Salted <phrase>Popcorn</phrase>
+Young <phrase>Swiss</phrase> <phrase>chard</phrase>
+<phrase>Vermicelli</phrase>
+<phrase>Fruit</phrase> <phrase>vegetables</phrase>
+<phrase>Green Bean</phrase> Kernel
+<phrase>Jackfruit</phrase> in BBQ Marinade
+<phrase>John Dory</phrase>
+<phrase>Red Wine</phrase> <phrase>Vinegar</phrase>
+<phrase>Bear</phrase> <phrase>Cheese</phrase> Happily
+<phrase>Fruit juice</phrase>
+<phrase>Blackberry</phrase> <phrase>Sorbet</phrase>
+Spelt <phrase>Cake</phrase> <phrase>Dough</phrase>
+<phrase>Kimchi</phrase>
+<phrase>Chocolate</phrase> Drops
+Lamb mince
+<phrase>Calvados</phrase>
+<phrase>Rye</phrase> wholemeal <phrase>flour</phrase>
+<phrase>Sparkling wine</phrase>
+<phrase>Rose water</phrase>
+<phrase>Caramel</phrase> Cookies
+Gschwellti
+Einback
+<phrase>Brioche</phrase>
+Chocolates
+Frozen <phrase>cauliflower</phrase>
+<phrase>Meringue</phrase> with <phrase>hazelnuts</phrase>
+Sugared Puffed <phrase>Wheat</phrase>
+Mustard seeds
+<phrase>Vegan</phrase> Natural <phrase>Yogurt</phrase>
+Fresh <phrase>parsley</phrase>
+<phrase>Sorrel</phrase>
+<phrase>Soy sauce</phrase>
+<phrase>Venison</phrase> leg
+Salted <phrase>Cashew Nut</phrase>
+<phrase>Bresaola</phrase>
+<phrase>Condensed milk</phrase>
+Palatinate <phrase>carrots</phrase>
+Knorr <phrase>Curry</phrase> <phrase>Sauce</phrase>
+Betty Bossi <phrase>Risotto</phrase> Milanese
+Marinated <phrase>meat</phrase>
+<phrase>Olive oil</phrase>
+<phrase>Basic</phrase> <phrase>Sauces</phrase>
+Prepared <phrase>Fish</phrase> <phrase>Seafood</phrase>
+Mixed Summer <phrase>Vegetables</phrase>
+<phrase>Fish</phrase> <phrase>Seafood</phrase>
+Fior di <phrase>Latte</phrase> <phrase>Ice Cream</phrase>
+<phrase>Panettone</phrase>
+<phrase>Salmon</phrase> <phrase>Trout</phrase>
+<phrase>Fruit</phrase> Compotes Pastes
+<phrase>Mushrooms</phrase>
+<phrase>Sugar</phrase> Glaze
+Frozen berry mix
+<phrase>Ricotta</phrase>
+Pestos
+<phrase>Karma</phrase> <phrase>Coconut</phrase> Chips <phrase>Ginger</phrase>
+<phrase>Bread</phrase> Baked Goods
+<phrase>Cauliflower</phrase>
+<phrase>Maple syrup</phrase>
+<phrase>Vegetable</phrase> <phrase>onion</phrase>
+<phrase>Citrus fruits</phrase>
+<phrase>Raspberry</phrase> <phrase>Spirit</phrase>
+Frozen Aa Puree
+Snack <phrase>cucumber</phrase>
+Young <phrase>salad</phrase>
+Farmhouse <phrase>bread</phrase>
+Dried <phrase>Lemon</phrase> <phrase>Verbena</phrase>
+Winzerkse
+<phrase>Yolo</phrase> Creamy <phrase>Vegan</phrase> <phrase>Butter</phrase>
+<phrase>Mineral water</phrase> with <phrase>carbonation</phrase>
+<phrase>Leek</phrase>
+Seedless <phrase>Grape</phrase>
+<phrase>Apple</phrase>
+<phrase>Manchego</phrase>
+Vintners <phrase>bread</phrase>
+Masgonzola
+<phrase>Quince</phrase> <phrase>juice</phrase>
+<phrase>Karma</phrase> <phrase>Sweet Potato</phrase> for <phrase>Fries</phrase>
+Applesauce
+Saltwater
+<phrase>Bread</phrase>
+Willisauer Ringli
+McCormick <phrase>Salad</phrase> Mix <phrase>Italian</phrase>
+<phrase>Monosodium glutamate</phrase>
+<phrase>Liqueur</phrase>
+<phrase>Sherry</phrase> <phrase>Vinegar</phrase>
+Gitzikse
+<phrase>Kiwi</phrase>
+<phrase>Gluten free</phrase> <phrase>flour</phrase>
+Deep frozen <phrase>hake</phrase>
+Crusty wreath
+Dlicorn Minced
+Seeds
+<phrase>Rabbit</phrase> <phrase>meat</phrase>
+<phrase>Ticino</phrase> <phrase>bread</phrase>
+<phrase>Pork</phrase> ribs
+<phrase>Blood sausage</phrase>
+Brownie Baking Mix
+Multigrain <phrase>bread</phrase>
+Other snacks
+<phrase>Spring Roll</phrase> <phrase>Sauce</phrase>
+<phrase>Venison</phrase> Ribeye
+Candied <phrase>Ginger</phrase>
+<phrase>Garlic</phrase> flakes
+<phrase>Pork</phrase>
+Chips
+Dried <phrase>Vegetables</phrase>
+Smoked <phrase>pear</phrase>
+<phrase>Sesame</phrase> <phrase>Bagel</phrase>
+<phrase>Thai</phrase> Kitchen <phrase>Wok</phrase> <phrase>Oil</phrase>
+<phrase>Ice cream</phrase>
+Zaatar <phrase>Spice</phrase> Mix
+Sole
+<phrase>Feta Cheese</phrase>
+<phrase>Semolina</phrase> Similar
+<phrase>Champagne</phrase>
+<phrase>Wild Boar</phrase> <phrase>Stew</phrase>
+<phrase>Brie</phrase>
+Flavors
+<phrase>Herbal tea</phrase> blend
+Epifin <phrase>Wheat</phrase> <phrase>Starch</phrase>
+<phrase>Brussels sprouts</phrase>
+Fontina
+<phrase>Salt</phrase>
+Dried Yellow <phrase>Lentils</phrase>
+<phrase>Pearl</phrase> <phrase>sugar</phrase>
+<phrase>Seafood</phrase> Canned
+<phrase>Peach</phrase>
+Low <phrase>fat</phrase> spreadable <phrase>processed cheese</phrase>
+<phrase>Avocado</phrase>
+<phrase>Barbecue Sauce</phrase>
+Blanc battu
+Dark <phrase>Cake</phrase> <phrase>Biscuit</phrase> Base
+Brli
+<phrase>Apple cider</phrase> <phrase>vinegar</phrase>
+<phrase>Cardamom</phrase> powder
+Candied <phrase>Pineapple</phrase>
+<phrase>Black Pepper</phrase>
+Sea Buckthorn Pulp
+Deep frozen <phrase>rose</phrase> hips
+<phrase>Munster</phrase> <phrase>cheese</phrase>
+Dlicorn <phrase>Schnitzel</phrase>
+<phrase>Chocolate</phrase> decoration
+<phrase>Acacia</phrase> <phrase>Honey</phrase>
+<phrase>Rice</phrase> <phrase>noodle</phrase>
+Dark <phrase>Beer</phrase>
+<phrase>Red wine</phrase>
+Fresh <phrase>Marjoram</phrase>
+<phrase>Okonomiyaki</phrase> <phrase>Sauce</phrase>
+Dry <phrase>White Wine</phrase>
+Dry <phrase>yeast</phrase>
+<phrase>Wheat beer</phrase>
+<phrase>Iceberg</phrase> <phrase>lettuce</phrase>
+<phrase>Pasta</phrase>
+<phrase>Garam Masala</phrase>
+Amaretti
+Childrens Schoko Bons
+<phrase>Licorice</phrase> Powder
+<phrase>Plum</phrase>
+Braided <phrase>flour</phrase>
+<phrase>King</phrase> <phrase>Oyster</phrase> <phrase>Mushroom</phrase>
+Non <phrase>alcoholic beverages</phrase>
+Naturafarm <phrase>Pork</phrase> <phrase>Sausages</phrase>
+Aonori
+<phrase>Whole Grain</phrase> <phrase>Rusk</phrase>
+Sweet <phrase>Soy Sauce</phrase>
+<phrase>Chard</phrase>
+<phrase>Allium</phrase>
+<phrase>Rye</phrase> meal
+<phrase>Red</phrase> <phrase>currant</phrase> jam
+<phrase>Blackcurrant</phrase> <phrase>syrup</phrase>
+Dried <phrase>Pineapple</phrase>
+<phrase>Pomegranate</phrase>
+Yellow <phrase>millet</phrase>
+<phrase>Red</phrase> skinned <phrase>Apple</phrase>
+<phrase>Food</phrase>
+<phrase>Salad</phrase> mix with <phrase>red</phrase> beans
+Kernel roll
+Baby <phrase>Potato</phrase>
+Blini
+<phrase>Milk</phrase>
+<phrase>Lemon</phrase> <phrase>sorbet</phrase>
+<phrase>Vanilla</phrase> Paste
+Confi Vite
+<phrase>Vermouth</phrase>
+Sunflower Mince <phrase>Nature</phrase>
+Spicy <phrase>Ketchup</phrase>
+Rimuss
+Dried <phrase>bean</phrase>
+Four <phrase>grain</phrase> <phrase>cereal</phrase> wafer
+<phrase>Polenta</phrase>
+Orange <phrase>Passion Fruit</phrase> <phrase>Juice</phrase>
+<phrase>Fat</phrase> <phrase>free</phrase> <phrase>beef</phrase> <phrase>bouillon</phrase> powder
+<phrase>Gluten free</phrase> <phrase>Gnocchi</phrase>
+<phrase>Onion</phrase>
+<phrase>Pretzel</phrase> rolls
+<phrase>Caul</phrase> <phrase>fat</phrase>
+<phrase>Turkey</phrase> Ham
+<phrase>Lemon</phrase>
+Canned <phrase>soybean</phrase>
+Kernel Nut Mix
+Multigrain <phrase>flour</phrase>
+<phrase>Vegetables</phrase>
+<phrase>Butter</phrase> Mailnderli <phrase>Dough</phrase>
+<phrase>Parma</phrase> ham
+Salted <phrase>Peanut</phrase>
+<phrase>Trail Mix</phrase>
+<phrase>Fruit</phrase> <phrase>vinegar</phrase>
+Brown <phrase>rock</phrase> <phrase>sugar</phrase>
+<phrase>Rice</phrase>
+Dark <phrase>Chocolate</phrase>
+<phrase>Gluten free</phrase> <phrase>soy sauce</phrase>
+Sweet <phrase>Chili Sauce</phrase>
+Plain <phrase>quark</phrase>
+Guetzli
+<phrase>Products</phrase> From <phrase>Fish</phrase> <phrase>Seafood</phrase>
+Milkwater
+Fresh <phrase>Lemon</phrase> <phrase>Thyme</phrase>
+Pangasius
+<phrase>Bulgur</phrase>
+<phrase>Game</phrase>
+Fillings
+Mirabelle
+<phrase>Mung Bean</phrase> Sprouts
+<phrase>Yuzu</phrase> Kosho
+<phrase>Chorizo</phrase>
+<phrase>Liebig</phrase> <phrase>Meat</phrase> Extract
+McCormick Piri Piri
+<phrase>Mackerel</phrase>
+<phrase>Beetroot</phrase> sprouts
+Early <phrase>potato</phrase>
+<phrase>Star anise</phrase>
+Soy Drink Natural
+<phrase>Gingerbread</phrase> <phrase>Dough</phrase>
+<phrase>Oat</phrase> nuts
+<phrase>Bread</phrase> spreads
+Lean <phrase>veal</phrase> mince
+<phrase>Chili</phrase> <phrase>Veal</phrase> <phrase>Sausage</phrase>
+Nuts
+<phrase>Pea</phrase> sprouts
+Nordic sour <phrase>milk</phrase>
+Desserts
+<phrase>Tasmanian</phrase> <phrase>Pepper</phrase>
+<phrase>Instant Coffee</phrase> Powder
+<phrase>Fenugreek</phrase>
+Canned <phrase>mushrooms</phrase> marinated in <phrase>oil</phrase>
+<phrase>Stilton</phrase>
+<phrase>Cauliflower</phrase> <phrase>rice</phrase>
+<phrase>Liver</phrase> pates
+<phrase>Corn</phrase>
+Baking mix
+Balsamic <phrase>Cream</phrase>
+<phrase>Philadelphia</phrase> <phrase>Yogurt</phrase>
+Other nuts
+Fresh <phrase>Oregano</phrase>
+<phrase>Oyster</phrase> <phrase>Mushroom</phrase>
+<phrase>Plum</phrase> jam
+<phrase>Tomato Sauce</phrase>
+<phrase>Sunflower oil</phrase>
+Candied <phrase>sugar</phrase>
+<phrase>Oyster Sauce</phrase>
+<phrase>Hazelnut</phrase> Macaroon
+<phrase>Watermelon</phrase>
+Spitzbuben <phrase>Hops</phrase>
+Crispbread
+Ground <phrase>Spices</phrase>
+<phrase>Greek</phrase> <phrase>Yogurt</phrase> Natural
+Dried Morel
+Leafy <phrase>vegetables</phrase>
+<phrase>Grappa</phrase>
+<phrase>White</phrase> <phrase>Cake</phrase> Icing
+<phrase>Bolognese</phrase> <phrase>Sauce</phrase>
+Crunchy <phrase>muesli</phrase>
+<phrase>Cacao</phrase> Nibs
+Dry <phrase>Sherry</phrase>
+<phrase>Melon</phrase> <phrase>Juice</phrase>
+<phrase>Almond</phrase> <phrase>liqueur</phrase>
+<phrase>Green</phrase> Bionda
+Yellow <phrase>Mustard Seed</phrase>
+Mother in laws tongues
+Candied <phrase>Citrus</phrase> <phrase>Peel</phrase>
+<phrase>White</phrase> <phrase>Pepper</phrase>
+<phrase>Herb</phrase> Cantadou
+<phrase>White</phrase> <phrase>cabbage</phrase>
+<phrase>Feta</phrase>
+Small <phrase>veal</phrase> <phrase>cutlet</phrase>
+Mixed Winter <phrase>Vegetables</phrase>
+<phrase>Apple</phrase> Spritzer
+<phrase>Fruit</phrase> <phrase>liqueur</phrase>
+Kinder Surprise <phrase>Egg</phrase>
+Maizena Express <phrase>Light</phrase>
+Special <phrase>St Gallen</phrase> <phrase>Sausage</phrase>
+Cachaa
+<phrase>Teriyaki</phrase> <phrase>Sauce</phrase>
+<phrase>Wasabi</phrase> paste
+<phrase>Mushroom</phrase>
+<phrase>Kaffir Lime</phrase> <phrase>Leaf</phrase>
+<phrase>Fondue</phrase> <phrase>Cheese</phrase> Mix Moiti Moiti
+UHT <phrase>Milk</phrase>
+<phrase>Udon</phrase> <phrase>Noodles</phrase>
+Dried Borlotti Beans
+Fibrex <phrase>Sugar Beet</phrase> Fiber
+<phrase>Jerusalem artichoke</phrase>
+<phrase>Red</phrase> <phrase>Pesto</phrase>
+<phrase>Pistachio</phrase> <phrase>ice cream</phrase>
+<phrase>Gluten free</phrase> <phrase>bread</phrase>
+<phrase>Milk</phrase> powder
+<phrase>Veal</phrase>
+<phrase>Blueberry</phrase>
+<phrase>Tzatziki</phrase>
+<phrase>Eggs</phrase>
+<phrase>Oatmeal</phrase>
+<phrase>Vegetable oil</phrase>
+Nettle <phrase>leaves</phrase>
+Cooked Giant <phrase>Shrimp</phrase>
+Soyflake
+Crme frache with <phrase>herbs</phrase>
+Dried <phrase>Red</phrase> <phrase>Lentils</phrase>
+Planed <phrase>cheese</phrase>
+<phrase>White</phrase> <phrase>Almond</phrase> <phrase>Butter</phrase>
+<phrase>Pork</phrase> escalopes
+Baking acids
+<phrase>Quinoa</phrase> Flake
+<phrase>Emmental</phrase>
+<phrase>Raspberry</phrase>
+Deep felt Borlotti <phrase>Bean</phrase>
+Frying <phrase>cream</phrase>
+<phrase>Whole grain</phrase> pie <phrase>dough</phrase>
+Other <phrase>White</phrase> fleshed Saltwater <phrase>Fish</phrase>
+<phrase>Tamarind</phrase> paste
+Smoked <phrase>Garlic</phrase> <phrase>Clove</phrase>
+Other <phrase>White</phrase> fleshed <phrase>Freshwater</phrase> <phrase>Fish</phrase>
+<phrase>Tofu</phrase>
+<phrase>Rhubarb</phrase>
+<phrase>Jackfruit</phrase>
+Fresh <phrase>chives</phrase>
+<phrase>Cranberry</phrase>
+<phrase>Kohlrabi</phrase> <phrase>leaf</phrase>
+Merqun <phrase>Spice</phrase> Mix
+Other baking <phrase>aids</phrase>
+<phrase>Horseradish</phrase> mustard
+<phrase>Light</phrase> Sultana
+<phrase>Coconut</phrase> blossom <phrase>sugar</phrase>
+Ground <phrase>chicken</phrase>
+Hard <phrase>boiled egg</phrase>
+<phrase>Citron</phrase> <phrase>Lemon</phrase>
+<phrase>Cherry</phrase> Jam
+<phrase>Apricot</phrase>
+Dried <phrase>Mango</phrase>
+<phrase>Baking powder</phrase>
+<phrase>Sugarloaf</phrase>
+<phrase>Cream</phrase>
+<phrase>Buffalo</phrase> <phrase>Mozzarella</phrase>
+<phrase>Cumin</phrase> seeds
+Canned Borlotti Beans
+Bell Bernerli
+Oven <phrase>Fries</phrase>
+<phrase>Marshmallow</phrase>
+<phrase>Beetroot</phrase> <phrase>juice</phrase>
+Mustard
+<phrase>Water Ice</phrase>
+<phrase>Clementine</phrase> <phrase>Juice</phrase>
+Mixed <phrase>Mushrooms</phrase>
+<phrase>Black</phrase> <phrase>Sesame</phrase>
+Gelfix 21
+<phrase>Carrot</phrase> <phrase>juice</phrase>
+Mixed <phrase>minced meat</phrase>
+Schupfnudel
+Grilled <phrase>sausages</phrase>
+<phrase>Cardamom</phrase>
+Sour <phrase>dairy products</phrase>
+<phrase>Lemon</phrase> <phrase>syrup</phrase>
+Pastetli
+Canned <phrase>Vegetables</phrase>
+Yellow <phrase>Bell Pepper</phrase>
+Knorr <phrase>Bouillon</phrase> Tpfli <phrase>Beef</phrase>
+Cantucci
+Giant <phrase>shrimp</phrase>
+Ground <phrase>Almond</phrase>
+<phrase>Red cabbage</phrase>
+Candied Orange Slice
+Ground <phrase>Turmeric</phrase>
+<phrase>Lemon</phrase> <phrase>White</phrase> Balsamic <phrase>Cream</phrase>
+<phrase>Turbot</phrase>
+Lamb loin
+<phrase>Curd</phrase>
+Sot ly laisse
+<phrase>Beef</phrase> <phrase>bouillon</phrase> cubes
+<phrase>Prosciutto</phrase> <phrase>Cheese</phrase> <phrase>Tortellini</phrase>
+<phrase>Cashew</phrase> Mues
+<phrase>Schnapps</phrase>
+Berries
+<phrase>Pork</phrase> <phrase>minced meat</phrase>
+<phrase>Kombu</phrase>
+<phrase>Rapeseed oil</phrase>
+Sour half <phrase>cream</phrase>
+<phrase>Grape</phrase>
+<phrase>Coconut cream</phrase>
+Spirits
+Double <phrase>cream</phrase> soft <phrase>cheese</phrase> with <phrase>blue</phrase> <phrase>mold</phrase>
+Fig Mustard
+Spelt flakes
+<phrase>Lemon</phrase> <phrase>Pepper</phrase>
+Soft <phrase>cheese</phrase>
+Floury boiled <phrase>potatoes</phrase>
+<phrase>Gluten free</phrase> multigrain <phrase>bread</phrase>
+Orange
+Starfruit
+Jams Jellies
+<phrase>Marsala</phrase> <phrase>Wine</phrase>
+<phrase>Salmon</phrase> roe
+<phrase>Cherry</phrase> <phrase>Tomato</phrase>
+<phrase>Peach</phrase> <phrase>nectar</phrase>
+<phrase>Karma</phrase> <phrase>Mini</phrase> <phrase>Vegetable</phrase> <phrase>Falafel</phrase>
+<phrase>Red Snapper</phrase>
+<phrase>Quince</phrase>
+Instant Powders
+Schabziger
+<phrase>Beef</phrase> rump
+<phrase>Pecan</phrase> Nut
+<phrase>Leavening agent</phrase>
+McCormick <phrase>Italian</phrase> <phrase>Herb</phrase> Grinder
+<phrase>Muffin</phrase> Baking Mix
+<phrase>Lemon</phrase> <phrase>vinegar</phrase>
+Ready to cook <phrase>vegetables</phrase>
+<phrase>Salt</phrase> <phrase>pretzels</phrase>
+<phrase>Lemon</phrase> Jam
+Roast <phrase>pork</phrase> in slices
+Non <phrase>alcoholic</phrase> <phrase>beer</phrase>
+Butternut <phrase>Squash</phrase>
+<phrase>Cereal</phrase>
+Clear Gloss Jelly
+<phrase>Bagel</phrase> <phrase>dough</phrase>
+Flavored <phrase>cheese</phrase> varieties
+<phrase>Vinegar</phrase>
+<phrase>Mandarin</phrase> <phrase>Black Tea</phrase>
+Processed Nuts Seeds
+<phrase>Tempeh</phrase>
+34 <phrase>fat</phrase> <phrase>Quark</phrase>
+Fleur de <phrase>Sel</phrase>
+Sauser
+Spreadable <phrase>sausage</phrase>
+<phrase>Kefir</phrase>
+<phrase>Salami</phrase>
+<phrase>Raspberry</phrase> Crumble
+Button <phrase>flour</phrase>
+<phrase>Thai</phrase> 7 <phrase>Spices</phrase>
+Espelette <phrase>Pepper</phrase> Powder
+Sweetbreads
+<phrase>Herbs</phrase> <phrase>Spices</phrase>
+Prepared ingredients
+<phrase>Processed cheese</phrase>
+Double <phrase>cream</phrase>
+<phrase>Roast beef</phrase>
+6 <phrase>Grain</phrase> <phrase>Grits</phrase>
+Pointed <phrase>cabbage</phrase>
+<phrase>Chicken</phrase> leg
+Fermented Seasonings
+Yellow <phrase>Tomato</phrase>
+<phrase>Cocktail</phrase> <phrase>Cherry</phrase>
+<phrase>Cod</phrase>
+<phrase>Root</phrase> <phrase>vegetables</phrase>
+Cress
+<phrase>Meat</phrase> <phrase>Meat</phrase> <phrase>Substitute</phrase> <phrase>Products</phrase>
+Edible <phrase>Flower</phrase> Mix
+Wholemeal
+Dried Rosemary
+Pattypan
+<phrase>Chili</phrase> peppers
+<phrase>Ice</phrase> cubes
+<phrase>Blood</phrase> <phrase>Orange Juice</phrase>
+<phrase>Duck</phrase> <phrase>meat</phrase>
+Vacherin Fribourgeois
+<phrase>Camembert</phrase>
+<phrase>Guinea</phrase> fowl <phrase>meat</phrase>
+Smoked <phrase>Mackerel</phrase>
+<phrase>Limousin</phrase> Sirloin <phrase>Steak</phrase>
+Candied <phrase>peel</phrase>
+<phrase>Pretzel</phrase> <phrase>Peak</phrase>
+<phrase>Mozzarella</phrase>
+<phrase>Papaya</phrase>
+<phrase>Veal</phrase> Adrio
+<phrase>Beetroot</phrase> <phrase>salad</phrase>
+Dried <phrase>Papaya</phrase>
+Salted <phrase>Almond</phrase>
+Gelfix 31
+Flammkuchen <phrase>dough</phrase>
+<phrase>Ginger</phrase> Orange <phrase>Lemonade</phrase>
+<phrase>Bell Pepper</phrase> Chips
+Loose Orange Blossom <phrase>Tea</phrase>
+Hard <phrase>cheese</phrase>
+<phrase>Venison</phrase> Entrecote
+<phrase>Red</phrase> <phrase>Curry</phrase> <phrase>Sauce</phrase>
+Ros <phrase>sparkling wine</phrase>
+<phrase>Blue Chips</phrase>
+<phrase>Gluten free</phrase> <phrase>chocolate</phrase> cookies
+<phrase>Vegetable</phrase> mix
+<phrase>Food coloring</phrase>
+<phrase>Dairy</phrase> Powder
+<phrase>Cumin</phrase> powder
+<phrase>Pear</phrase> Weggen Filling
+<phrase>Fennel</phrase>
+<phrase>Gluten free</phrase> <phrase>cake</phrase> <phrase>dough</phrase>
+Pickled <phrase>Green</phrase> Peppercorn
+<phrase>Chili</phrase> <phrase>Oil</phrase>
+Dried <phrase>Shiitake</phrase> <phrase>Mushroom</phrase>
+Dark <phrase>Cake</phrase> Glaze
+<phrase>Madras</phrase> <phrase>Curry Powder</phrase>
+<phrase>Caramel</phrase> <phrase>Liqueur</phrase>
+<phrase>Vegetable</phrase> <phrase>bouillon</phrase>
+Instant <phrase>Tea</phrase> Powder
+Herbes de <phrase>Provence</phrase>
+<phrase>Liqueur</phrase> <phrase>wine</phrase>
+<phrase>Cabbage</phrase>
+<phrase>Black</phrase> <phrase>Truffle</phrase> in <phrase>Oil</phrase>
+<phrase>Venison</phrase> patties
+Lollo Rosso
+<phrase>Dijon</phrase> Mustard
+Smoked ham
+<phrase>Squid</phrase>
+Mustard <phrase>fruit</phrase>
+Natural <phrase>yogurt</phrase>
+<phrase>Wheat</phrase> <phrase>Gluten</phrase>
+<phrase>Szechuan</phrase> <phrase>Pepper</phrase>
+<phrase>Beef</phrase> <phrase>sausage</phrase>
+<phrase>Protein</phrase>
+Sour gummy <phrase>candy</phrase>
+Pitahaya
+Date Sweetness
+Dandelion
+<phrase>Clam</phrase>
+Canned <phrase>chickpeas</phrase>
+<phrase>Mushroom</phrase> <phrase>bouillon</phrase>
+<phrase>Coconut</phrase> <phrase>Thyme</phrase>
+<phrase>Vegan</phrase> <phrase>Minced Meat</phrase>
+Torrone
+<phrase>Green</phrase> <phrase>Asparagus</phrase>
+<phrase>Pumpernickel</phrase>
+<phrase>Ketchup</phrase>
+Frozen <phrase>Cranberry</phrase>
+<phrase>Caramel</phrase>
+<phrase>Gluten free</phrase> <phrase>pasta</phrase>
+<phrase>Ostrich</phrase> fillet
+Pimentos
+<phrase>Wakame</phrase>
+Stone <phrase>fruits</phrase>
+<phrase>Vegan</phrase> <phrase>Cream Cheese</phrase> <phrase>Nature</phrase>
+Whole <phrase>Spices</phrase>
+Rosehip Jam
+Canned <phrase>White</phrase> Soisson Beans
+<phrase>Chicken</phrase> <phrase>meat</phrase>
+<phrase>Gold</phrase> Powder
+<phrase>Nutmeg</phrase>
+Pickled <phrase>Pepper</phrase>
+<phrase>Ginger</phrase>
+Grissini
+Couverture Drops
+<phrase>Liverwurst</phrase>
+Non <phrase>alcoholic</phrase> <phrase>sparkling wine</phrase>
+Low <phrase>fat</phrase> <phrase>curd</phrase> <phrase>cheese</phrase>
+Cola drink
+<phrase>Banana</phrase> <phrase>flour</phrase>
+Galbani Mignons Bel Paese
+<phrase>Gluten free</phrase> lasagna sheet
+<phrase>Glass</phrase> <phrase>noodle</phrase>
+Sour <phrase>Cherry</phrase>
+<phrase>Green</phrase> <phrase>Curry</phrase> Paste
+<phrase>Vienna</phrase> <phrase>sausages</phrase>
+Spelt <phrase>grain</phrase>
+<phrase>Chili</phrase> paste
+<phrase>Blue</phrase> <phrase>Grape</phrase>
+Lambs <phrase>lettuce</phrase>
+<phrase>Walnut</phrase>
+<phrase>Raspberry</phrase> jelly
+<phrase>Walnut</phrase> <phrase>oil</phrase>
+Topping as desired
+<phrase>Oatmeal</phrase> cookies
+Raclette <phrase>cheese</phrase>
+<phrase>Citric Acid</phrase>
+<phrase>Cod</phrase> fillet
+<phrase>Tomato</phrase> Tapenade
+<phrase>Seaweed</phrase>
+<phrase>Veal</phrase> fillet medallion
+<phrase>Monks</phrase> Beard
+<phrase>Gluten free</phrase> <phrase>whole grain</phrase> <phrase>oat</phrase> flakes
+Canned <phrase>fruit</phrase>
+<phrase>Crema</phrase> di Pomodori
+<phrase>Beef</phrase> sirloin <phrase>steak</phrase>
+Marinated <phrase>chicken</phrase> <phrase>meat</phrase>
+<phrase>Spice</phrase> pastes
+<phrase>Turkey</phrase> escalopes
+<phrase>Chicken</phrase> <phrase>liver</phrase>
+Farmers <phrase>bacon</phrase>
+Canned <phrase>pearl</phrase> <phrase>onions</phrase>
+<phrase>Whole grain</phrase> cookies
+<phrase>Onion</phrase> Powder
+<phrase>Sugar</phrase> Alternatives
+<phrase>Roquefort</phrase>
+Dried <phrase>Herbs</phrase>
+<phrase>Iced tea</phrase> concentrate
+Appenzeller Siedwurst
+Other <phrase>fruits</phrase>
+<phrase>Lentil</phrase> Chips
+5 <phrase>Grain</phrase> Flakes
+<phrase>Pork</phrase> roast balls
+<phrase>Quince</phrase> jelly
+<phrase>Caramel</phrase> <phrase>Popcorn</phrase>
+<phrase>Paneer</phrase>
+Goose <phrase>liver</phrase>
+<phrase>Port wine</phrase>
+<phrase>Light</phrase> <phrase>Mayonnaise</phrase>
+Betty Bossi <phrase>Chocolate</phrase> Shavings
+<phrase>Veal</phrase> <phrase>tongue</phrase>
+<phrase>Goat meat</phrase>
+Brownie
+Dried <phrase>Tomato</phrase>
+Mild <phrase>curry powder</phrase>
+<phrase>Beer</phrase> <phrase>Apple</phrase> <phrase>Wine</phrase>
+<phrase>Cheesecake</phrase> mix
+Mustard Powder
+Catalogna
+<phrase>Rice</phrase> Mixture
+<phrase>Egg</phrase> <phrase>yolk</phrase>
+<phrase>Beef</phrase> <phrase>liver</phrase>
+Mixed <phrase>Bell Peppers</phrase>
+<phrase>Gnocchi</phrase>
+<phrase>Bonito</phrase> Flakes
+Medium hot mustard
+<phrase>Egg</phrase>
+<phrase>Dairy Products</phrase> <phrase>Dairy</phrase> <phrase>Substitute</phrase> <phrase>Products</phrase>
+<phrase>Strawberry</phrase> jelly
+<phrase>Shortcrust pastry</phrase>
+<phrase>Blackcurrant</phrase> Jelly
+<phrase>Mini</phrase> <phrase>Cherry</phrase> Sticks
+<phrase>Chocolate Chip Cookie</phrase>
+Crodino
+<phrase>Thai</phrase> <phrase>Vegetable</phrase> Mix
+Cynar
+<phrase>Confectionery</phrase>
+<phrase>Pasta</phrase> and <phrase>noodles</phrase>
+Cooked <phrase>vegetables</phrase>
+<phrase>Pork</phrase> chop
+Cailler Frigor <phrase>Milk</phrase> Squares
+Farmers <phrase>flour</phrase>
+<phrase>Lemon</phrase> Balm <phrase>Syrup</phrase>
+<phrase>Fruit</phrase> gum
+<phrase>Hazelnut</phrase> <phrase>praline</phrase>
+<phrase>Pomelo</phrase> <phrase>Juice</phrase>
+Sprouts Seedlings
+Gitzi Soft <phrase>Cheese</phrase>
+Colored <phrase>Pasta</phrase>
+<phrase>Pom Pom</phrase> <phrase>Mushroom</phrase>
+Hard <phrase>Caramel</phrase>
+Date <phrase>syrup</phrase>
+<phrase>Lychee</phrase>
+<phrase>Hazelnut</phrase> <phrase>ice cream</phrase>
+Frozen <phrase>China</phrase> Mix
+<phrase>Strawberry</phrase>
+<phrase>Veal</phrase> <phrase>liver</phrase>
+Tapenade
+Orange <phrase>Pepper</phrase>
+<phrase>Physalis</phrase>
+<phrase>Pork</phrase> <phrase>stew</phrase>
+<phrase>Ratatouille</phrase>
+Non <phrase>alcoholic</phrase> <phrase>beer</phrase> <phrase>apple</phrase> <phrase>wine</phrase>
+Betty Bossi Lets Cook Market <phrase>Vegetables</phrase>
+<phrase>Popcorn</phrase>
+<phrase>Herb</phrase> <phrase>Cream Cheese</phrase>
+Ground <phrase>Vegetables</phrase>
+Dried porcini <phrase>mushroom</phrase>
+<phrase>Poppy seed</phrase> powder
+<phrase>Apricot</phrase> Mustard
+Ngeli
+Spaghetti <phrase>Squash</phrase>
+<phrase>Clementine</phrase>
+Spring <phrase>onion</phrase>
+Stem <phrase>vegetables</phrase>
+<phrase>Strawberry</phrase> <phrase>Rhubarb</phrase> Jam
+<phrase>Cooking</phrase> Baking <phrase>Aids</phrase>
+<phrase>Chocolate</phrase> <phrase>Biscuit</phrase>
+Grillsmoke <phrase>Hickory</phrase> <phrase>Liquid</phrase> Smoke
+<phrase>Blood Orange</phrase> <phrase>Yogurt</phrase> <phrase>Ice Cream</phrase>
+<phrase>Beef</phrase> cheeks
+T <phrase>Bone</phrase> <phrase>Steak</phrase>
+<phrase>Tea</phrase> <phrase>Coffee</phrase>
+<phrase>Caviar</phrase>
+<phrase>Durum Wheat</phrase> <phrase>Semolina</phrase>
+Salted <phrase>butter</phrase> <phrase>caramel</phrase> <phrase>cream</phrase>
+Fresh <phrase>Thai</phrase> Basil
+<phrase>Bamboo Shoot</phrase>
+<phrase>Ostrich</phrase> <phrase>meat</phrase>
+<phrase>Mulled Wine</phrase>
+Cookies
+<phrase>Coriander</phrase> seeds
+<phrase>Fat</phrase> <phrase>free</phrase> <phrase>vegetable</phrase> <phrase>broth</phrase>
+Coop Jam <phrase>Sugar</phrase>
+Dried <phrase>pear</phrase>
+<phrase>Dessert</phrase> Bdeli
+<phrase>Poultry</phrase> <phrase>stock</phrase>
+<phrase>Anise</phrase>
+<phrase>Vanilla</phrase> <phrase>Flan</phrase>
+<phrase>Coconut</phrase> <phrase>flour</phrase>
+<phrase>Duck</phrase> <phrase>breast</phrase>
+Rondini Zucchino
+<phrase>Black</phrase> <phrase>Olive</phrase>
+Cracker
+<phrase>Protein</phrase> <phrase>bread</phrase>
+<phrase>Hazelnut</phrase> Spread
+<phrase>Champagne</phrase> Demi <phrase>Sec</phrase>
+Ground Nuts
+<phrase>Pepper</phrase> Bouquet
+<phrase>Carrot</phrase>
+Cooked Ham
+<phrase>Banana</phrase>
+<phrase>Goat meat</phrase> eating
+Cima di <phrase>rapa</phrase>
+<phrase>Mirin</phrase>
+Nut <phrase>Butter</phrase>
+<phrase>Vodka</phrase>
+<phrase>Blackberry</phrase>
+<phrase>White</phrase> <phrase>Mushroom</phrase>
+<phrase>Wild Boar</phrase> Entrecote
+Ribelmais
+<phrase>Black</phrase> <phrase>Trumpet</phrase>
+<phrase>Blue mussel</phrase>
+<phrase>Sausages</phrase>
+<phrase>Gluten free</phrase> Speculoos
+<phrase>Chocolate</phrase> <phrase>sprinkles</phrase>
+<phrase>Asiago</phrase>
+Flatbreads
+<phrase>Red</phrase> <phrase>Lentil</phrase> <phrase>Pasta</phrase>
+<phrase>Coconut</phrase> Calamansi <phrase>Syrup</phrase>
+Graved <phrase>Salmon</phrase>
+<phrase>Legumes</phrase>
+<phrase>Raspberry</phrase> Jam
+<phrase>Salsa</phrase> <phrase>Napoli</phrase>
+<phrase>Whole Grain</phrase> <phrase>Oat</phrase> <phrase>Flour</phrase>
+<phrase>Guinea</phrase> fowl <phrase>breast</phrase>
+<phrase>Karma</phrase> Jocos <phrase>nature</phrase>
+<phrase>Green</phrase> <phrase>Pepper</phrase>
+<phrase>Beaver</phrase>
+<phrase>Fruit</phrase> Powder
+<phrase>Gluten free</phrase> <phrase>corn</phrase> breadcrumbs
+<phrase>Red</phrase> <phrase>Curry</phrase> Paste
+<phrase>Rose</phrase> <phrase>paprika</phrase>
+<phrase>Rhubarb</phrase> <phrase>syrup</phrase>
+Baking Decorations
+Peretti <phrase>Tomato</phrase>
+YoQua <phrase>Nature</phrase> Emmi
+<phrase>Thai</phrase> <phrase>Jasmine Rice</phrase>
+<phrase>Pak</phrase> Choi
+<phrase>Celery</phrase> stalk <phrase>leaf</phrase>
+Buttenmost
+<phrase>Saffron</phrase>
+Roll
+<phrase>Ice Cream</phrase> <phrase>Sorbet</phrase>
+Broad Beans
+<phrase>Cuttlefish</phrase> <phrase>Ink</phrase>
+Small Burrata
+<phrase>Beef</phrase> escalopes
+<phrase>Balsamic Vinegar</phrase> Pearls
+Morel
+<phrase>Couscous</phrase>
+<phrase>Thickening agent</phrase>
+<phrase>Chocolate</phrase> discs with <phrase>peppermint</phrase> <phrase>cream</phrase> filling
+<phrase>Blood orange</phrase>
+<phrase>Veal</phrase> <phrase>breast</phrase>
+<phrase>Balsamic vinegar</phrase>
+<phrase>Liquid</phrase> Sweetener
+<phrase>Pearl barley</phrase>
+<phrase>Vegan</phrase> <phrase>Honey</phrase>
+Loose <phrase>green tea</phrase> with <phrase>peppermint</phrase>
+Mixed Sprouts
+Goose <phrase>meat</phrase>
+<phrase>Chicory</phrase>
+<phrase>Cornmeal</phrase>
+<phrase>Blue cheese</phrase>
+<phrase>Green</phrase> kernel <phrase>grits</phrase>
+<phrase>Rice paper</phrase>
+<phrase>Chocolate</phrase> <phrase>covered</phrase> <phrase>coffee bean</phrase>
+Gruyre
+Phyllo <phrase>dough</phrase>
+Kingfish
+Boiled <phrase>wine</phrase>
+<phrase>Starch</phrase>
+<phrase>Chili</phrase> Raclette <phrase>Cheese</phrase>
+<phrase>Coconut</phrase> <phrase>Yogurt</phrase>
+Unsweetened <phrase>Coconut</phrase> Drink
+<phrase>White wine</phrase>
+<phrase>Cod</phrase> Similar
+Cruciferous
+<phrase>Black</phrase> <phrase>Mustard Seed</phrase>
+<phrase>Vanilla</phrase> Pudding Powder
+<phrase>Baking Soda</phrase>
+Parmesan
+<phrase>Rabbit</phrase> fillet
+Betty Bossi <phrase>Vanilla</phrase> Paste
+Fresh <phrase>herbs</phrase>
+<phrase>Agave</phrase> <phrase>syrup</phrase>
+<phrase>Beluga</phrase> <phrase>Lentil</phrase>
+Saucisson
+<phrase>Snickers</phrase>
+Frozen <phrase>vegetable</phrase> mix
+Lavender twig
+<phrase>Herb</phrase> <phrase>Salt</phrase>
+<phrase>Pork</phrase> knuckle
+Fresh cut <phrase>garlic</phrase>
+Orange <phrase>liqueur</phrase>
+Tahina
+Salted <phrase>Butter</phrase>
+Crispbreads
+<phrase>Crustaceans</phrase>
+Colored Modeling <phrase>Marzipan</phrase>
+<phrase>White</phrase> <phrase>grape</phrase> <phrase>juice</phrase>
+Fondants Icing
+Neuchtel <phrase>Sausages</phrase>
+<phrase>Peach</phrase> <phrase>Juice</phrase>
+<phrase>Chinese cabbage</phrase>
+Kasseler
+<phrase>Pea</phrase> <phrase>protein</phrase> powder
+<phrase>Potato</phrase> <phrase>flour</phrase>
+<phrase>Meat</phrase> Pastes Pies
+<phrase>Chocolate</phrase> waffles
+Lyoner
+Fresh <phrase>pasta</phrase>
+Double <phrase>Cream</phrase> of Gruyre and Meringues <phrase>Ice Cream</phrase>
+<phrase>Black</phrase> Venere <phrase>Rice</phrase>
+Lime <phrase>peel</phrase>
+<phrase>Pear</phrase>
+Lckerli Basler
+<phrase>Amaranth</phrase>
+<phrase>Yuzu</phrase> <phrase>Juice</phrase>
+Jam
+Baking <phrase>Marzipan</phrase>
+Branchli
+Cailler Cuisine <phrase>Noir</phrase> 64
+<phrase>Whole Grain</phrase> Spaghetti
+<phrase>Rum</phrase> Flavor
+Cicorino Rosso
+Dried Mu Err <phrase>Mushroom</phrase>
+Pickled <phrase>Ginger</phrase>
+Dried <phrase>Soybean</phrase>
+Spreads Jams
+Schr Mix B
+<phrase>Muesli</phrase> mix
+Dried <phrase>apricot</phrase>
+Dlicorn <phrase>Sausage</phrase>
+Cailler Cuisine <phrase>Chocolate</phrase> Powder
+Yellow <phrase>pea</phrase>
+Ras El Hanout
+Anglique
+Canned adzuki beans
+Frozen <phrase>blueberry</phrase>
+<phrase>Fruit</phrase> <phrase>bread</phrase>
+<phrase>Grapefruit juice</phrase>
+<phrase>Vanilla</phrase> <phrase>Yogurt</phrase>
+<phrase>White</phrase> <phrase>Grape</phrase>
+Creole <phrase>Rice</phrase>
+<phrase>Animal</phrase> fats
+Veganaise
+Colored <phrase>Hard Candy</phrase>
+<phrase>Tequila</phrase>
+Elderflower <phrase>Syrup</phrase>
+<phrase>Chickpea</phrase> <phrase>flour</phrase>
+Le Parfait Spread with <phrase>Liver</phrase>
+Spiced Nuts
+<phrase>Ginger</phrase> Powder
+Ground <phrase>Hazelnut</phrase>
+<phrase>Red</phrase> Cornetti
+Dried <phrase>Oregano</phrase>
+<phrase>Truffle</phrase> <phrase>Brie</phrase>
+Salametti
+<phrase>Tubers</phrase>
+BBQ <phrase>Coffee</phrase> Cocoa Rub
+<phrase>Whole grain</phrase> <phrase>tortilla</phrase> wrap
+<phrase>Rye</phrase> <phrase>flour</phrase>
+<phrase>Anise</phrase> <phrase>Liqueur</phrase>
+<phrase>Herb</phrase> <phrase>Tomatoes</phrase>
+<phrase>Sambal</phrase> Oelek
+Berry <phrase>Juice</phrase>
+<phrase>Soybean</phrase>
+<phrase>White</phrase> <phrase>Toblerone</phrase>
+Sour <phrase>Apple</phrase>
+Broths
+<phrase>Soft Drinks</phrase>
+<phrase>Hazelnut</phrase> <phrase>Cake</phrase> Glaze
+Merguez
+Roast <phrase>pork</phrase>
+Oven roast in slices
+<phrase>Water</phrase>
+<phrase>Pancetta</phrase>
+<phrase>Plum</phrase> <phrase>yogurt</phrase>
+<phrase>Pecorino</phrase>
+Vacherin Mont DOr
+<phrase>Gluten free</phrase> Ciabatta
+<phrase>Soft Drink</phrase> Concentrates
+<phrase>Fruit</phrase> concentrates
+<phrase>Pickled herring</phrase>
+Cold cuts
+Emmi Gala <phrase>Cheese</phrase>
+Other Oily Saltwater <phrase>Fish</phrase>
+Soy <phrase>cream</phrase>
+Sweet baked goods
+Mollusks
+Dried <phrase>Tamarind</phrase>
+<phrase>Pork</phrase> shoulder
+<phrase>Salmon</phrase> Similar
+Bell Chiporosa
+<phrase>Pasta</phrase> <phrase>dough</phrase>
+Whole <phrase>milk</phrase>
+Sour <phrase>Candy</phrase>
+Dark <phrase>Almond</phrase> <phrase>Butter</phrase>
+Dried <phrase>Cranberry</phrase>
+<phrase>Garlic</phrase>
+<phrase>Veal</phrase> cutlets
+<phrase>Wok</phrase> <phrase>Noodle</phrase>
+<phrase>Shellfish</phrase> <phrase>broth</phrase>
+<phrase>Gluten free</phrase> <phrase>oatmeal</phrase>
+Kalette
+<phrase>Veal</phrase> <phrase>Pork</phrase> <phrase>minced meat</phrase>
+<phrase>Buckwheat</phrase> wholemeal <phrase>flour</phrase>
+<phrase>Gluten free</phrase> <phrase>Baguette</phrase>
+Tomme
+<phrase>Veal</phrase> <phrase>broth</phrase>
+Appenzeller
+<phrase>Ice Cream Cone</phrase>
+Smoked <phrase>Trout</phrase>
+<phrase>Pea</phrase>
+<phrase>Bratwurst</phrase>
+<phrase>Swedish</phrase> rolls
+Snacks
+<phrase>Lemon</phrase> <phrase>Curd</phrase>
+<phrase>Mozzarella</phrase> Stick
+<phrase>Cream</phrase> holder
+<phrase>Pear</phrase> <phrase>Bread</phrase> <phrase>Spice</phrase>
+<phrase>Milk</phrase> drink
+Lime
+Frozen <phrase>Green Bean</phrase>
+Orange <phrase>peel</phrase>
+<phrase>Beer</phrase> <phrase>sausage</phrase>
+<phrase>Plum</phrase> <phrase>Brandy</phrase>
+<phrase>Garlic</phrase> <phrase>clove</phrase>
+<phrase>Whole Grain</phrase> Toast <phrase>Bread</phrase>
+<phrase>Saturn</phrase> <phrase>Peach</phrase>
+Candied <phrase>Fruits</phrase>
+<phrase>Coconut</phrase> <phrase>liqueur</phrase>
+<phrase>Margarine</phrase>

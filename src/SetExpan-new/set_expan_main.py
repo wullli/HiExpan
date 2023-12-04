@@ -1,6 +1,6 @@
 import argparse
 import sys
-sys.path.insert(0, '../HiExpan-new')
+sys.path.insert(0, '../hi_expan_new')
 from dataLoader import loadEidToEntityMap, loadFeaturesAndEidMap, loadWeightByEidAndFeatureMap, \
     loadEntityEmbedding, loadEidDocPairPPMI
 from set_expan_standalone import setExpan

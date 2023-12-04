@@ -1,0 +1,2773 @@
+2nd_Edition	{'2nd edition': 16}
+2nd_edition	{'2nd edition': 1}
+3rd_Edition	{'3rd edition': 9}
+3rd_edition	{'3rd edition': 1}
+AB	{'ab': 1}
+ACC	{'acc': 1}
+ACM	{'acm': 16}
+ACT	{'act': 1}
+ADAM	{'adam': 1}
+AES	{'aes': 1}
+AI	{'ai': 33}
+ANSI	{'ansi': 3}
+API	{'api': 9}
+ART	{'art': 1}
+ARTIST	{'artist': 1}
+ASCII	{'ascii': 2}
+AWK	{'awk': 1}
+Ab_Initio	{'ab initio': 1}
+Abstract_Interpretation	{'abstract interpretation': 2}
+Abstract_machine	{'abstract machine': 1}
+Academic	{'academic': 3}
+Access_Control	{'access control': 1}
+Access_control	{'access control': 1}
+Acoustic	{'acoustic': 2}
+Act	{'act': 1}
+Action	{'action': 8}
+Action_Research	{'action research': 1}
+Active_Database	{'active database': 11}
+Actor	{'actor': 3}
+Actors	{'actors': 1}
+Ad_Hoc	{'ad hoc': 2}
+Adaptive_Control	{'adaptive control': 1}
+Addison_Wesley	{'addison wesley': 1}
+Address_Resolution_Protocol	{'address resolution protocol': 1}
+Adjoint_Functors	{'adjoint functors': 1}
+Adobe_Acrobat	{'adobe acrobat': 3}
+Adobe_Illustrator	{'adobe illustrator': 1}
+Adoption	{'adoption': 6}
+Affective_Computing	{'affective computing': 1}
+Agent_Based	{'agent based': 7}
+Agent_base	{'agent based': 3}
+Aggregate_Data	{'aggregate data': 2}
+Algebra	{'algebra': 2}
+Algebraic	{'algebraic': 20}
+Algebraic_Topology	{'algebraic topology': 1}
+Algorithm	{'algorithm': 16}
+Algorithms	{'algorithms': 110}
+Altair	{'altair': 1}
+American	{'american': 1}
+American_National_Standards_Institute	{'american national standards institute': 1}
+Americans	{'americans': 1}
+Amir_Pnueli	{'amir pnueli': 1}
+Amusement	{'amusement': 1}
+An_Overview	{'an overview': 2}
+Anatomy	{'anatomy': 3}
+Animal	{'animal': 1}
+Animated	{'animated': 2}
+Animation	{'animation': 13}
+Anisotropic	{'anisotropic': 3}
+Ansatz	{'ansatz': 7}
+Ant_Colony	{'ant colony': 2}
+Anthropometric	{'anthropometric': 1}
+Anthropometry	{'anthropometry': 1}
+Anxiety	{'anxiety': 2}
+Application_Service_Provider	{'application service provider': 1}
+Application_Software	{'application software': 1}
+Arabic	{'arabic': 1}
+Archaeological	{'archaeological': 4}
+Archaeology	{'archaeology': 1}
+Architectural	{'architectural': 2}
+Architecture	{'architecture': 26}
+Area	{'area': 8}
+Arithmetic	{'arithmetic': 2}
+Art	{'art': 9}
+Artificial	{'artificial': 3}
+Artificial_Intelligence	{'artificial intelligence': 18}
+Artificial_Life	{'artificial life': 1}
+Artificial_Neural_Networks	{'artificial neural networks': 2}
+Artisan	{'artisan': 1}
+Asia_Pacific_Region	{'asia pacific region': 1}
+Aspect	{'aspect': 1}
+Atom	{'atom': 1}
+Attribute_Grammar	{'attribute grammar': 2}
+Audio_Signal	{'audio signal': 1}
+Australia	{'australia': 1}
+Authentication	{'authentication': 1}
+Author	{'author': 1}
+Automata	{'automata': 13}
+Automata_Theory	{'automata theory': 1}
+Automated_Reasoning	{'automated reasoning': 2}
+Automated_Theorem_Proving	{'automated theorem proving': 1}
+Automatic_Speech_Recognition	{'automatic speech recognition': 1}
+Automation	{'automation': 14}
+Automobile	{'automobile': 2}
+Avalon	{'avalon': 1}
+B2B	{'b2b': 1}
+BBC	{'bbc': 1}
+BGP	{'bgp': 1}
+BLT	{'blt': 1}
+BS	{'bs': 13}
+B_Spline	{'b spline': 1}
+B_spline	{'b spline': 1}
+Backtracking	{'backtracking': 2}
+Balanced_Scorecard	{'balanced scorecard': 2}
+Bangladesh	{'bangladesh': 1}
+Based_Approach	{'based approach': 2}
+Basic	{'basic': 9}
+Bayesian	{'bayesian': 10}
+Bayesian_Analysis	{'bayesian analysis': 2}
+Bayesian_Network	{'bayesian network': 1}
+Beam	{'beam': 1}
+Belief_Propagation	{'belief propagation': 1}
+Belief_Revision	{'belief revision': 1}
+Benchmarking	{'benchmarking': 3}
+Berkeley	{'berkeley': 6}
+Berlin	{'berlin': 1}
+Bernstein	{'bernstein': 1}
+Bilinear	{'bilinear': 1}
+Binary	{'binary': 4}
+Bioinformatics	{'bioinformatics': 5}
+Biomechanics	{'biomechanics': 1}
+Bit	{'bit': 1}
+Blackboard	{'blackboard': 1}
+Blended_Learning	{'blended learning': 1}
+Bluetooth	{'bluetooth': 4}
+Bob_Gibson	{'bob gibson': 1}
+Body_Shape	{'body shape': 1}
+Bone	{'bone': 1}
+Book	{'book': 26}
+Boolean	{'boolean': 3}
+Brain	{'brain': 2}
+Breast	{'breast': 1}
+Brian_Kernighan	{'brian kernighan': 1}
+Broadband	{'broadband': 4}
+Broadcast	{'broadcast': 3}
+Broadcasting	{'broadcasting': 1}
+Burr	{'burr': 1}
+Business	{'business': 31}
+Business_Intelligence	{'business intelligence': 1}
+Business_Model	{'business model': 2}
+Business_Process	{'business process': 2}
+Business_Process_Management	{'business process management': 2}
+Business_Process_Outsourcing	{'business process outsourcing': 1}
+Business_Processes	{'business processes': 1}
+Bytes	{'bytes': 1}
+C++	{'c++': 57}
+CAD	{'cad': 35}
+CAESAR	{'caesar': 2}
+CCD_Camera	{'ccd camera': 2}
+CCD_camera	{'ccd camera': 1}
+CCITT	{'ccitt': 1}
+CDMA	{'cdma': 1}
+CGI	{'cgi': 1}
+CMU	{'cmu': 3}
+CNRS	{'cnrs': 1}
+CORBA	{'corba': 5}
+CPLEX	{'cplex': 1}
+CPU	{'cpu': 4}
+CRM	{'crm': 3}
+CT_scan	{'ct scans': 1}
+CUBE	{'cube': 2}
+Caesar	{'caesar': 1}
+Calculator	{'calculator': 1}
+Calculus	{'calculus': 1}
+Calgary	{'calgary': 1}
+California	{'california': 3}
+Cambridge_University	{'cambridge university': 1}
+Camelot	{'camelot': 1}
+Camera	{'camera': 29}
+Canadian_Space_Agency	{'canadian space agency': 1}
+Cancer	{'cancer': 3}
+Canterbury	{'canterbury': 1}
+Cardinality	{'cardinality': 4}
+Cardiology	{'cardiology': 1}
+Caricature	{'caricature': 1}
+Case_Study	{'case study': 11}
+Catalyst	{'catalyst': 2}
+Catania	{'catania': 1}
+Cauchy	{'cauchy': 1}
+Census	{'census': 1}
+Chance_Discovery	{'chance discovery': 10}
+Chemical_Compounds	{'chemical compounds': 1}
+Chess	{'chess': 1}
+China	{'china': 1}
+Chinese	{'chinese': 2}
+Citizenship	{'citizenship': 1}
+City	{'city': 3}
+Clam	{'clam': 1}
+Classical	{'classical': 5}
+Classical_Logic	{'classical logic': 1}
+Clock	{'clock': 1}
+Closest_Point	{'closest point': 1}
+Cluster_Analysis	{'cluster analysis': 3}
+Cognitive	{'cognitive': 3}
+Cognitive_Science	{'cognitive science': 1}
+Collaborative_Learning	{'collaborative learning': 3}
+Collision_detection	{'collision detection': 1}
+Color_Images	{'color images': 1}
+Color_Space	{'color space': 1}
+Color_image	{'color images': 1}
+Coloured	{'coloured': 1}
+Combinatorial	{'combinatorial': 1}
+Combinatorial_Optimization	{'combinatorial optimization': 2}
+Combinatorics	{'combinatorics': 1}
+Commerce	{'commerce': 7}
+Commonwealth	{'commonwealth': 1}
+Communication	{'communication': 19}
+Community	{'community': 4}
+Competitive_Advantage	{'competitive advantage': 1}
+Competitive_Intelligence	{'competitive intelligence': 2}
+Compilation	{'compilation': 1}
+Compiler	{'compiler': 13}
+Complex_Systems	{'complex systems': 2}
+Complexity_Theory	{'complexity theory': 2}
+Complexity_theory	{'complexity theory': 1}
+Component_Based	{'component based': 6}
+Composition_Algebra	{'composition algebra': 1}
+Comprehensive	{'comprehensive': 2}
+Computability	{'computability': 2}
+Computational_Biology	{'computational biology': 3}
+Computational_Complexity	{'computational complexity': 2}
+Computational_Electromagnetics	{'computational electromagnetics': 1}
+Computational_Fluid_Dynamics	{'computational fluid dynamics': 1}
+Computational_Geometry	{'computational geometry': 5}
+Computational_complexity	{'computational complexity': 1}
+Computer_Aided_Design	{'computer aided design': 1}
+Computer_Science	{'computer science': 27}
+Computer_aid_Design	{'computer aided design': 1}
+Computers	{'computers': 4}
+Computing	{'computing': 18}
+ConTract	{'contract': 1}
+Conceptual_Model	{'conceptual model': 1}
+Concert	{'concert': 1}
+Concrete	{'concrete': 1}
+Concurrency_Control	{'concurrency control': 17}
+Conducting	{'conducting': 1}
+Confocal	{'confocal': 1}
+Conic	{'conic': 1}
+Connectionist	{'connectionist': 1}
+Conservative	{'conservative': 1}
+Construction	{'construction': 17}
+Constructivism	{'constructivism': 1}
+Consumer	{'consumer': 1}
+Content_Based	{'content based': 3}
+Content_Based_Image_Retrieval	{'content based image retrieval': 2}
+Content_Management	{'content management': 4}
+Content_base	{'content based': 5}
+Content_base_Image_Retrieval	{'content based image retrieval': 1}
+Context_Free	{'context free': 3}
+Contract	{'contract': 2}
+Convergent	{'convergent': 1}
+Cookbook	{'cookbook': 1}
+Cooperative	{'cooperative': 4}
+Cornell	{'cornell': 1}
+Corporation	{'corporation': 2}
+Cortical	{'cortical': 1}
+Covariance	{'covariance': 1}
+Craniofacial	{'craniofacial': 1}
+Cray_X_MP	{'cray x mp': 1}
+Credit_Card	{'credit card': 2}
+Crick	{'crick': 1}
+Criminal_Justice	{'criminal justice': 1}
+Cruise_Control	{'cruise control': 1}
+Cryptography	{'cryptography': 4}
+Cube	{'cube': 1}
+Cultural	{'cultural': 3}
+Cultural_Heritage	{'cultural heritage': 1}
+Culture	{'culture': 2}
+Cuneiform	{'cuneiform': 1}
+Curriculum	{'curriculum': 7}
+Curvature	{'curvature': 3}
+Cyclops	{'cyclops': 1}
+DB2	{'db2': 8}
+DBMS	{'dbms': 13}
+DEMO	{'demo': 1}
+DFDs	{'dfds': 2}
+DFT	{'dft': 4}
+DLR	{'dlr': 2}
+DNA	{'dna': 4}
+DRM	{'drm': 1}
+DTD	{'dtd': 1}
+Daily	{'daily': 1}
+Darmstadt	{'darmstadt': 1}
+Dashboard	{'dashboard': 1}
+Data	{'data': 223}
+Data_Acquisition	{'data acquisition': 6}
+Data_Analysis	{'data analysis': 5}
+Data_Compression	{'data compression': 4}
+Data_Fusion	{'data fusion': 2}
+Data_Integration	{'data integration': 4}
+Data_Management	{'data management': 9}
+Data_Mining	{'data mining': 128}
+Data_Model	{'data model': 14}
+Data_Modeling	{'data modeling': 6}
+Data_Processing	{'data processing': 2}
+Data_Quality	{'data quality': 17}
+Data_Security	{'data security': 1}
+Data_Stream	{'data stream': 1}
+Data_Structures	{'data structures': 15}
+Data_Transmission	{'data transmission': 1}
+Data_Type	{'data type': 2}
+Data_Warehouse	{'data warehouse': 5}
+Data_Warehousing	{'data warehousing': 5}
+Data_integration	{'data integration': 6}
+Data_mining	{'data mining': 9}
+Data_structure	{'data structures': 1}
+Data_warehouse	{'data warehouse': 1}
+Database	{'database': 150}
+Database_Design	{'database design': 26}
+Database_Management	{'database management': 6}
+Database_Management_Systems	{'database management systems': 6}
+Database_Systems	{'database systems': 64}
+Database_Transaction	{'database transaction': 2}
+Database_design	{'database design': 4}
+Databases	{'databases': 51}
+Datacenter	{'datacenter': 1}
+Dataflow	{'dataflow': 1}
+Datalog	{'datalog': 3}
+Datatype	{'datatype': 1}
+David	{'david': 68}
+Deadlock	{'deadlock': 1}
+Debugger	{'debugger': 1}
+Decision_Problem	{'decision problem': 1}
+Decision_Support	{'decision support': 2}
+Decision_Support_Systems	{'decision support systems': 5}
+Decision_Theory	{'decision theory': 1}
+Decompression	{'decompression': 1}
+Deductive	{'deductive': 10}
+Deductive_Reasoning	{'deductive reasoning': 1}
+Degree	{'degree': 1}
+Demodulation	{'demodulation': 2}
+Denotational_Semantics	{'denotational semantics': 2}
+Density	{'density': 2}
+Department	{'department': 2}
+Depth_Map	{'depth map': 2}
+Derivative	{'derivative': 2}
+Descartes	{'descartes': 1}
+Design	{'design': 77}
+Design_Methods	{'design methods': 1}
+Design_Patterns	{'design patterns': 1}
+Differential_Equations	{'differential equations': 1}
+Diffraction	{'diffraction': 2}
+Diffusion	{'diffusion': 8}
+Digital	{'digital': 38}
+Digital_3d	{'digital 3d': 3}
+Digital_Asset_Management	{'digital asset management': 1}
+Digital_Camera	{'digital camera': 2}
+Digital_Divide	{'digital divide': 6}
+Digital_Economy	{'digital economy': 3}
+Digital_Equipment_Corporation	{'digital equipment corporation': 1}
+Digital_Libraries	{'digital libraries': 3}
+Digital_Library	{'digital library': 22}
+Digital_Literacy	{'digital literacy': 1}
+Digital_Media	{'digital media': 1}
+Digital_Preservation	{'digital preservation': 1}
+Digital_Signature	{'digital signature': 1}
+Digital_library	{'digital libraries': 1}
+Digital_medium	{'digital media': 1}
+Digitizing	{'digitizing': 4}
+Dimension	{'dimension': 3}
+Directed	{'directed': 1}
+Director	{'director': 1}
+Dirichlet	{'dirichlet': 1}
+Discourse_Analysis	{'discourse analysis': 1}
+Discrete_Fourier_Transform	{'discrete fourier transform': 1}
+Discrete_Geometry	{'discrete geometry': 1}
+Discrete_Mathematics	{'discrete mathematics': 1}
+Discretization	{'discretization': 2}
+Disease	{'disease': 1}
+Disk_Storage	{'disk storage': 1}
+Distance_Education	{'distance education': 7}
+Distance_Learning	{'distance learning': 4}
+Distortion	{'distortion': 2}
+Distributed_Database	{'distributed database': 7}
+Distributed_Memory	{'distributed memory': 1}
+Distributed_Systems	{'distributed systems': 4}
+Distributed_computing	{'distributed computing': 1}
+Distribution_Function	{'distribution function': 1}
+Distributions	{'distributions': 3}
+Dividend	{'dividend': 1}
+Document_Management	{'document management': 2}
+Domain_Specific	{'domain specific': 2}
+Dominion	{'dominion': 1}
+Doubles	{'doubles': 1}
+Drama	{'drama': 1}
+Drawing	{'drawing': 1}
+Drum	{'drum': 1}
+Dublin_Core	{'dublin core': 1}
+Dynamic_Host_Configuration_Protocol	{'dynamic host configuration protocol': 1}
+Dynamic_Programming	{'dynamic programming': 5}
+Dynamical_Systems	{'dynamical systems': 1}
+E	{'e': 17}
+ECL	{'ecl': 1}
+EDA	{'eda': 1}
+ELISA	{'elisa': 1}
+ER	{'er': 18}
+ERP	{'erp': 10}
+E_Commerce	{'e commerce': 19}
+E_Governance	{'e governance': 1}
+E_Government	{'e government': 2}
+E_commerce	{'e commerce': 2}
+E_democracy	{'e democracy': 1}
+E_government	{'e government': 1}
+Earthenware	{'earthenware': 1}
+Earthquake	{'earthquake': 1}
+Ecological	{'ecological': 1}
+Economy	{'economy': 2}
+Ecosystems	{'ecosystems': 1}
+Edge_Coloring	{'edge coloring': 1}
+Edge_Detection	{'edge detection': 2}
+Edinburgh	{'edinburgh': 2}
+Editing	{'editing': 3}
+Editor	{'editor': 1}
+Education	{'education': 15}
+Educational_Technology	{'educational technology': 1}
+Educational_technology	{'educational technology': 1}
+Egypt	{'egypt': 1}
+Eigenvalue	{'eigenvalue': 1}
+Eindhoven	{'eindhoven': 1}
+Eine_Einfhrung	{'eine einfhrung': 13}
+Election	{'election': 1}
+Electrical_Engineering	{'electrical engineering': 1}
+Electronic	{'electronic': 13}
+Electronic_Commerce	{'electronic commerce': 5}
+Electronic_Publishing	{'electronic publishing': 1}
+Electronics	{'electronics': 1}
+Electrophysiology	{'electrophysiology': 1}
+Elisa	{'elisa': 4}
+Embedded_Devices	{'embedded devices': 1}
+Embedded_Software	{'embedded software': 1}
+Embedded_Systems	{'embedded systems': 8}
+Employment	{'employment': 1}
+Encryption	{'encryption': 2}
+Encyclopedia	{'encyclopedia': 2}
+Energy	{'energy': 2}
+Engine	{'engine': 2}
+Engineering	{'engineering': 27}
+England	{'england': 4}
+English	{'english': 3}
+Enterprise_Application_Integration	{'enterprise application integration': 1}
+Enterprise_Architecture	{'enterprise architecture': 1}
+Enterprise_Resource_Planning	{'enterprise resource planning': 1}
+Enterprise_integration	{'enterprise integration': 1}
+Entropy	{'entropy': 2}
+Erik_Larsen	{'erik larsen': 1}
+Erlanger	{'erlanger': 1}
+Error_Detection	{'error detection': 1}
+Error_detection	{'error detection': 1}
+Essex_University	{'essex university': 1}
+Ethernet	{'ethernet': 3}
+Ethical	{'ethical': 2}
+Ethics	{'ethics': 5}
+Euclidean	{'euclidean': 3}
+Euler	{'euler': 1}
+Europe	{'europe': 3}
+European	{'european': 2}
+Evolution	{'evolution': 11}
+Evolutionary	{'evolutionary': 3}
+Evolutionary_Algorithms	{'evolutionary algorithms': 1}
+Exeter	{'exeter': 1}
+Experimental	{'experimental': 2}
+Expert_Systems	{'expert systems': 10}
+Expert_system	{'expert systems': 1}
+Extensibility	{'extensibility': 2}
+Extensible_Markup_Language	{'extensible markup language': 1}
+Extrapolation	{'extrapolation': 1}
+FIR	{'fir': 2}
+FM	{'fm': 1}
+FORTRAN	{'fortran': 2}
+FPGA	{'fpga': 1}
+Face_Detection	{'face detection': 1}
+Facial_Expression	{'facial expression': 1}
+Factory	{'factory': 2}
+Factory_Floor	{'factory floor': 2}
+Fault_Tolerance	{'fault tolerance': 2}
+Fault_Tolerant	{'fault tolerant': 1}
+Feature_Extraction	{'feature extraction': 1}
+Feature_Points	{'feature points': 1}
+Feature_Selection	{'feature selection': 3}
+Feature_base	{'feature based': 3}
+Feature_extraction	{'feature extraction': 1}
+Federal	{'federal': 1}
+Feedback	{'feedback': 6}
+Fieldbus	{'fieldbus': 2}
+File_System	{'file system': 1}
+File_Systems	{'file systems': 2}
+Financial_Services	{'financial services': 1}
+Finland	{'finland': 1}
+Florida	{'florida': 1}
+Footwear	{'footwear': 1}
+Formal_Language	{'formal language': 2}
+Formal_Methods	{'formal methods': 1}
+Formal_Specification	{'formal specification': 1}
+Formal_method	{'formal methods': 1}
+Forward	{'forward': 1}
+Forward_chaining	{'forward chaining': 1}
+Fourier	{'fourier': 1}
+Fourier_transform	{'fourier transform': 1}
+Fr	{'fr': 1}
+Fractal	{'fractal': 1}
+Fractal_Geometry	{'fractal geometry': 1}
+Franchising	{'franchising': 1}
+Fraud	{'fraud': 1}
+Free	{'free': 6}
+Free_Software	{'free software': 1}
+French	{'french': 1}
+Frequency_Domain	{'frequency domain': 2}
+Fresnel	{'fresnel': 1}
+Friends	{'friends': 1}
+Function	{'function': 3}
+Functional_Genomics	{'functional genomics': 1}
+Functional_Language	{'functional language': 1}
+Functional_Programming	{'functional programming': 5}
+Functional_Programming_Languages	{'functional programming languages': 2}
+Functional_language	{'functional language': 1}
+Fusion	{'fusion': 11}
+Fuzzy_Logic	{'fuzzy logic': 2}
+Fuzzy_Set	{'fuzzy set': 1}
+GIS	{'gis': 15}
+GPL	{'gpl': 4}
+GPS	{'gps': 1}
+GPU	{'gpu': 20}
+GPUs	{'gpus': 1}
+GSM	{'gsm': 1}
+GUI	{'gui': 1}
+Galileo	{'galileo': 3}
+Game	{'game': 1}
+Garbage_Collection	{'garbage collection': 2}
+Garbage_collection	{'garbage collection': 1}
+Gauss	{'gauss': 5}
+Gaussian_Elimination	{'gaussian elimination': 1}
+Gaussian_Quadrature	{'gaussian quadrature': 1}
+GemStone	{'gemstone': 3}
+Gender	{'gender': 2}
+Gene	{'gene': 1}
+Gene_Expression	{'gene expression': 2}
+Gene_Mapping	{'gene mapping': 1}
+General	{'general': 15}
+Genetic_Algorithm	{'genetic algorithm': 1}
+Genetic_Algorithms	{'genetic algorithms': 2}
+Genome	{'genome': 4}
+Genomic	{'genomic': 1}
+Genomics	{'genomics': 2}
+Genova	{'genova': 1}
+Genre	{'genre': 1}
+Geodesic	{'geodesic': 1}
+Geographic_Information_Systems	{'geographic information systems': 5}
+Geometric_Series	{'geometric series': 1}
+Geometry	{'geometry': 12}
+German	{'german': 2}
+Germany	{'germany': 2}
+Gestalt	{'gestalt': 1}
+Gesture_Recognition	{'gesture recognition': 1}
+Global_Optimization	{'global optimization': 4}
+Globalization	{'globalization': 1}
+Gnutella	{'gnutella': 1}
+Golden_Fleece	{'golden fleece': 1}
+Google_Earth	{'google earth': 1}
+Gossip	{'gossip': 1}
+Government	{'government': 3}
+Gradient	{'gradient': 2}
+Grain	{'grain': 1}
+Grammar	{'grammar': 2}
+Graph	{'graph': 14}
+Graph_Isomorphism	{'graph isomorphism': 1}
+Graph_Theoretic	{'graph theoretic': 1}
+Graph_drawing	{'graph drawing': 1}
+Graphic	{'graphic': 1}
+Graphical	{'graphical': 4}
+Graphics_Cards	{'graphics cards': 1}
+Graphics_Hardware	{'graphics hardware': 2}
+Graphics_Processing_Unit	{'graphics processing unit': 4}
+Graphs	{'graphs': 7}
+Grating	{'grating': 1}
+Grid_Computing	{'grid computing': 1}
+Groupware	{'groupware': 2}
+HDLC	{'hdlc': 1}
+HEC	{'hec': 1}
+HOL	{'hol': 1}
+HSV	{'hsv': 2}
+HTML	{'html': 1}
+Halle	{'halle': 1}
+Hamming_distance	{'hamming distance': 1}
+Haptic	{'haptic': 1}
+Harmonic	{'harmonic': 3}
+Hashing	{'hashing': 3}
+Hausdorff	{'hausdorff': 3}
+Health	{'health': 3}
+Health_Care	{'health care': 1}
+Healthcare	{'healthcare': 2}
+Hearst	{'hearst': 1}
+Heat_Flow	{'heat flow': 1}
+Helmholtz	{'helmholtz': 5}
+Hendrix	{'hendrix': 1}
+Heuristic	{'heuristic': 2}
+Hewlett_Packard	{'hewlett packard': 1}
+High	{'high': 27}
+Higher_Education	{'higher education': 1}
+Highway	{'highway': 1}
+Hilbert	{'hilbert': 1}
+Hildesheim	{'hildesheim': 1}
+Histogram	{'histogram': 3}
+History	{'history': 2}
+Hoare_Logic	{'hoare logic': 1}
+Home_Office	{'home office': 1}
+Homotopy	{'homotopy': 1}
+Hoover	{'hoover': 1}
+Hospitality_Industry	{'hospitality industry': 1}
+Html	{'html': 1}
+Human	{'human': 44}
+Human_Body	{'human body': 1}
+Human_Ecology	{'human ecology': 1}
+Human_Factors	{'human factors': 2}
+Human_Genome	{'human genome': 2}
+Human_Resources	{'human resources': 1}
+Hume	{'hume': 1}
+Hybrid	{'hybrid': 7}
+HyperCard	{'hypercard': 9}
+HyperMedia	{'hypermedia': 1}
+HyperText	{'hypertext': 1}
+Hyperlinks	{'hyperlinks': 1}
+Hypermedia	{'hypermedia': 16}
+Hyperspectral_Imaging	{'hyperspectral imaging': 1}
+Hypertext	{'hypertext': 4}
+Hypothesis	{'hypothesis': 1}
+IBM	{'ibm': 1}
+IBM_DB2	{'ibm db2': 2}
+ICP	{'icp': 69}
+ID3	{'id3': 1}
+IDM	{'idm': 1}
+IEC	{'iec': 5}
+IETF	{'ietf': 2}
+IFIP	{'ifip': 1}
+II	{'ii': 13}
+INGRES	{'ingres': 3}
+IPv6	{'ipv6': 1}
+IRS	{'irs': 4}
+ISDN	{'isdn': 1}
+ISO	{'iso': 4}
+ITU	{'itu': 1}
+Ice	{'ice': 1}
+Icebreaker	{'icebreaker': 1}
+Illuminance	{'illuminance': 1}
+Image_Analysis	{'image analysis': 4}
+Image_Based	{'image based': 4}
+Image_Compression	{'image compression': 1}
+Image_Intensifier	{'image intensifier': 1}
+Image_Processing	{'image processing': 1}
+Image_Registration	{'image registration': 5}
+Image_Segmentation	{'image segmentation': 2}
+Image_Sensor	{'image sensor': 1}
+Image_Sequences	{'image sequences': 5}
+Image_registration	{'image registration': 1}
+Image_segmentation	{'image segmentation': 1}
+Imperial_Rome	{'imperial rome': 1}
+Incomplete_Information	{'incomplete information': 3}
+Independent	{'independent': 5}
+Index_Structures	{'index structures': 1}
+Index_structure	{'index structures': 1}
+Indexing_Techniques	{'indexing techniques': 1}
+Indian	{'indian': 1}
+Inductive_Logic_Programming	{'inductive logic programming': 1}
+Industrial	{'industrial': 13}
+Industrial_Automation	{'industrial automation': 2}
+Industry	{'industry': 6}
+Information	{'information': 100}
+Information_Extraction	{'information extraction': 5}
+Information_Management	{'information management': 4}
+Information_Privacy	{'information privacy': 1}
+Information_Processing	{'information processing': 1}
+Information_Retrieval	{'information retrieval': 20}
+Information_Science	{'information science': 1}
+Information_Technology	{'information technology': 10}
+Information_Theory	{'information theory': 1}
+Information_Visualization	{'information visualization': 5}
+Information_processing	{'information processing': 1}
+Information_retrieval	{'information retrieval': 1}
+Informix	{'informix': 1}
+Infrared_Light	{'infrared light': 1}
+Infrastructure	{'infrastructure': 2}
+Inheritance	{'inheritance': 4}
+Initiative	{'initiative': 1}
+Ink	{'ink': 1}
+Innovation	{'innovation': 4}
+Instant_Messaging	{'instant messaging': 1}
+Instant_messaging	{'instant messaging': 1}
+Insurance	{'insurance': 2}
+Integer	{'integer': 1}
+Integral	{'integral': 1}
+Integrity_Constraints	{'integrity constraints': 6}
+Intel	{'intel': 1}
+Intelligence	{'intelligence': 4}
+Intelligent_Systems	{'intelligent systems': 1}
+Intension	{'intension': 1}
+Interactivity	{'interactivity': 1}
+Interface_Design	{'interface design': 2}
+Intermediate_Language	{'intermediate language': 1}
+Internet	{'internet': 41}
+Internet_Protocol	{'internet protocol': 1}
+Internet_Service	{'internet service': 1}
+Internetworking	{'internetworking': 2}
+Interoperability	{'interoperability': 9}
+Interpolation	{'interpolation': 3}
+Intranet	{'intranet': 2}
+Intrusion_Detection	{'intrusion detection': 1}
+Ionosphere	{'ionosphere': 1}
+Irradiance	{'irradiance': 1}
+Isomorphism	{'isomorphism': 2}
+Isosurface	{'isosurface': 1}
+Italy	{'italy': 2}
+Iterative_Closest	{'iterative closest': 6}
+Iterative_Method	{'iterative method': 1}
+JADE	{'jade': 1}
+JAVA	{'java': 1}
+JDBC	{'jdbc': 3}
+JPEG	{'jpeg': 1}
+Japan	{'japan': 1}
+Japanese	{'japanese': 2}
+Jasmine	{'jasmine': 1}
+Jason	{'jason': 1}
+Java	{'java': 244}
+JavaServer_Pages	{'javaserver pages': 5}
+Java_Programming_Language	{'java programming language': 3}
+Java_Virtual_machine	{'java virtual machine': 3}
+Java_programming_language	{'java programming language': 4}
+Jazz	{'jazz': 1}
+Jitter	{'jitter': 1}
+Journalism	{'journalism': 1}
+Jowett	{'jowett': 1}
+Joystick	{'joystick': 1}
+KAIST	{'kaist': 1}
+KL	{'kl': 1}
+Kalman_filter	{'kalman filter': 1}
+Kennedy_Space_Center	{'kennedy space center': 1}
+Kent	{'kent': 1}
+Key_Frame	{'key frame': 1}
+Khatri	{'khatri': 1}
+Knight	{'knight': 1}
+Knopf	{'knopf': 1}
+Knowledge	{'knowledge': 82}
+Knowledge_Base	{'knowledge base': 5}
+Knowledge_Based_Systems	{'knowledge based systems': 4}
+Knowledge_Economy	{'knowledge economy': 1}
+Knowledge_Engineering	{'knowledge engineering': 2}
+Knowledge_Management	{'knowledge management': 14}
+Knowledge_Representation	{'knowledge representation': 4}
+Knowledge_base_Systems	{'knowledge based systems': 2}
+Kolmogorov_Complexity	{'kolmogorov complexity': 1}
+Korn	{'korn': 1}
+LATA	{'lata': 1}
+LEAF	{'leaf': 1}
+LIDAR	{'lidar': 5}
+LINPACK	{'linpack': 1}
+LISP	{'lisp': 3}
+LISP_machine	{'lisp machine': 1}
+LOD	{'lod': 6}
+LSE	{'lse': 1}
+LSI	{'lsi': 9}
+LaBelle	{'labelle': 1}
+LaTeX	{'latex': 2}
+LabVIEW	{'labview': 1}
+Laboratory	{'laboratory': 2}
+Lambda_Calculus	{'lambda calculus': 2}
+Landscape	{'landscape': 1}
+Language	{'language': 56}
+Large_Scale	{'large scale': 1}
+Laser	{'laser': 22}
+Laser_Rangefinder	{'laser rangefinder': 2}
+Latin_America	{'latin america': 1}
+Law	{'law': 2}
+Legislation	{'legislation': 1}
+Leonardo	{'leonardo': 1}
+Level_design	{'level design': 1}
+Lexical_Analysis	{'lexical analysis': 1}
+Lexicon	{'lexicon': 1}
+LiDAR	{'lidar': 17}
+Libraries	{'libraries': 12}
+Library	{'library': 9}
+Life	{'life': 5}
+Ligands	{'ligands': 1}
+Light	{'light': 7}
+Likelihood_Ratio_Test	{'likelihood ratio test': 1}
+Linear_Algebra	{'linear algebra': 2}
+Linear_programming	{'linear programming': 1}
+Linguistic	{'linguistic': 1}
+Linux	{'linux': 1}
+Lisp	{'lisp': 13}
+Live	{'live': 1}
+Load_Balancing	{'load balancing': 1}
+Location_Based_Services	{'location based services': 4}
+Logic	{'logic': 60}
+Logic_Programming	{'logic programming': 31}
+Long	{'long': 1}
+Lord	{'lord': 1}
+Love	{'love': 1}
+Lower	{'lower': 1}
+Luminance	{'luminance': 1}
+Lung	{'lung': 1}
+MA	{'ma': 1}
+MAPLE	{'maple': 1}
+MATHEMATICA	{'mathematica': 1}
+MATLAB	{'matlab': 3}
+MCC	{'mcc': 1}
+MEME	{'meme': 2}
+MHz	{'mhz': 1}
+MIB	{'mib': 1}
+MIDAS	{'midas': 1}
+MIMD	{'mimd': 1}
+MMS	{'mms': 1}
+MODEL	{'model': 1}
+MP	{'mp': 1}
+MPEG	{'mpeg': 2}
+MPEG4	{'mpeg4': 2}
+MPLS	{'mpls': 1}
+MRI	{'mri': 4}
+Machine_Code	{'machine code': 1}
+Machine_Learning	{'machine learning': 14}
+Machining	{'machining': 1}
+Macromedia_Flash	{'macromedia flash': 1}
+Magellan	{'magellan': 9}
+Magi	{'magi': 1}
+Magpie	{'magpie': 1}
+Mail	{'mail': 5}
+Management	{'management': 55}
+Manager	{'manager': 4}
+Manchester	{'manchester': 1}
+Manifesto	{'manifesto': 1}
+Manifold	{'manifold': 1}
+Manufacturing	{'manufacturing': 10}
+Marching	{'marching': 2}
+Marketing	{'marketing': 1}
+Markov	{'markov': 1}
+Markov_Chain_Monte_Carlo	{'markov chain monte carlo': 2}
+Markov_Random_Field	{'markov random field': 1}
+Markov_random_field	{'markov random field': 1}
+Markup	{'markup': 1}
+Marseille	{'marseille': 1}
+Marvin	{'marvin': 1}
+Mass_Customization	{'mass customization': 1}
+Mass_Storage	{'mass storage': 1}
+Matchmaking	{'matchmaking': 4}
+Math	{'math': 1}
+Mathematical	{'mathematical': 7}
+Mathematical_Induction	{'mathematical induction': 1}
+Mathematical_Model	{'mathematical model': 1}
+Mathematics	{'mathematics': 8}
+Matter	{'matter': 3}
+Matthew	{'matthew': 1}
+Maximum_Likelihood	{'maximum likelihood': 1}
+Mechanization	{'mechanization': 1}
+Media	{'media': 5}
+Medical	{'medical': 7}
+Medical_Imaging	{'medical imaging': 2}
+Medicine	{'medicine': 2}
+Memory	{'memory': 2}
+Memory_Management	{'memory management': 3}
+Mental_Representation	{'mental representation': 1}
+Merlin	{'merlin': 4}
+Mesh_Model	{'mesh model': 1}
+Messaging	{'messaging': 1}
+Metabolic	{'metabolic': 1}
+Metadata	{'metadata': 18}
+Metaphors	{'metaphors': 1}
+Metric_Spaces	{'metric spaces': 1}
+Metrology	{'metrology': 1}
+Michael_Stonebraker	{'michael stonebraker': 1}
+Michelangelo	{'michelangelo': 5}
+Microarray	{'microarray': 2}
+Microcomputer	{'microcomputer': 1}
+Microscope	{'microscope': 1}
+Microsoft	{'microsoft': 8}
+Microsoft_Access	{'microsoft access': 1}
+Microsoft_SQL_Server	{'microsoft sql server': 2}
+Middlebury	{'middlebury': 1}
+Middleware	{'middleware': 6}
+Milan	{'milan': 1}
+Millennium	{'millennium': 2}
+Minimum_Spanning_Tree	{'minimum spanning tree': 2}
+Mining	{'mining': 20}
+Mirror	{'mirror': 2}
+Mixed_Reality	{'mixed reality': 1}
+Mixing	{'mixing': 1}
+Mobile	{'mobile': 37}
+Mobile_Commerce	{'mobile commerce': 6}
+Mobile_Robot	{'mobile robot': 1}
+Modal_Logic	{'modal logic': 1}
+Model	{'model': 106}
+Model_Checking	{'model checking': 4}
+Model_Selection	{'model selection': 1}
+Model_theory	{'model theory': 1}
+Modeling_Language	{'modeling language': 4}
+Modern_Compiler	{'modern compiler': 6}
+Modern_compiler	{'modern compiler': 1}
+Modulation	{'modulation': 3}
+Molecular_Biology	{'molecular biology': 1}
+Molecules	{'molecules': 1}
+Monocular	{'monocular': 5}
+Monte_Carlo	{'monte carlo': 1}
+Moon	{'moon': 1}
+Mosaic	{'mosaic': 1}
+Mosaics	{'mosaics': 1}
+Motion_Compensation	{'motion compensation': 1}
+Motion_Estimation	{'motion estimation': 5}
+Motion_Planning	{'motion planning': 2}
+Motivation	{'motivation': 2}
+Movie	{'movie': 1}
+Moving_object	{'moving objects': 1}
+MultiMedia	{'multimedia': 1}
+Multi_Agent	{'multi agent': 5}
+Multi_Agent_Systems	{'multi agent systems': 2}
+Multi_Camera	{'multi camera': 3}
+Multi_Party	{'multi party': 1}
+Multi_Resolution	{'multi resolution': 5}
+Multi_View	{'multi view': 5}
+Multi_camera	{'multi camera': 1}
+Multicast	{'multicast': 5}
+Multidimensional_Databases	{'multidimensional databases': 4}
+Multidimensional_database	{'multidimensional databases': 4}
+Multimedia	{'multimedia': 65}
+Multiple_Choice	{'multiple choice': 1}
+Multiple_Range	{'multiple range': 7}
+Multiple_View	{'multiple view': 5}
+Multiple_Views	{'multiple views': 1}
+Multiple_view	{'multiple views': 2}
+Multiplexer	{'multiplexer': 1}
+Multiprocessor	{'multiprocessor': 2}
+Multiprotocol_Label_Switching	{'multiprotocol label switching': 1}
+Munich	{'munich': 2}
+Murcia	{'murcia': 1}
+Museum	{'museum': 1}
+Music	{'music': 15}
+Music_Education	{'music education': 2}
+Musical	{'musical': 1}
+Musician	{'musician': 1}
+NAOS	{'naos': 1}
+NASA	{'nasa': 1}
+NL	{'nl': 1}
+NLP	{'nlp': 14}
+NNTP	{'nntp': 2}
+NP_Completeness	{'np completeness': 2}
+NSA	{'nsa': 1}
+NYC	{'nyc': 1}
+Nancy	{'nancy': 1}
+Nanostructures	{'nanostructures': 1}
+Napster	{'napster': 1}
+Narrowband	{'narrowband': 2}
+Native	{'native': 1}
+Natural_Language	{'natural language': 11}
+Natural_Language_Processing	{'natural language processing': 7}
+Natural_Language_understanding	{'natural language understanding': 1}
+Nature	{'nature': 1}
+Navigation	{'navigation': 1}
+Nearest_Neighbor_Search	{'nearest neighbor search': 2}
+Nefertiti	{'nefertiti': 1}
+Negation	{'negation': 5}
+Network_Management	{'network management': 2}
+Network_Protocol	{'network protocol': 1}
+Network_Theory	{'network theory': 2}
+Neural_Network	{'neural network': 1}
+Neural_Networks	{'neural networks': 9}
+News	{'news': 1}
+Newton	{'newton': 2}
+Nico	{'nico': 1}
+Nigeria	{'nigeria': 1}
+Night_Vision	{'night vision': 1}
+Nomadic	{'nomadic': 1}
+Nonlinear_Programming	{'nonlinear programming': 1}
+North_America	{'north america': 1}
+Nucleic_Acids	{'nucleic acids': 1}
+Nuggets	{'nuggets': 1}
+Number_Theory	{'number theory': 1}
+Numerical_Integration	{'numerical integration': 1}
+O2	{'o2': 8}
+OCEAN	{'ocean': 1}
+ODBC	{'odbc': 1}
+OLAP	{'olap': 25}
+OLE_DB	{'ole db': 18}
+OMG	{'omg': 1}
+ORIGAMI	{'origami': 1}
+ORM	{'orm': 9}
+OSCAR	{'oscar': 1}
+OSI	{'osi': 9}
+OSI_model	{'osi model': 4}
+OSPF	{'ospf': 1}
+ObServer	{'observer': 1}
+Object_Database	{'object database': 8}
+Object_Management_Group	{'object management group': 1}
+Object_Oriented	{'object oriented': 47}
+Object_Oriented_Language	{'object oriented language': 1}
+Object_Oriented_Programming	{'object oriented programming': 4}
+Object_Oriented_Programming_Language	{'object oriented programming language': 1}
+Object_Relational	{'object relational': 4}
+Object_orient	{'object oriented': 1}
+Ocean	{'ocean': 1}
+Octree	{'octree': 3}
+Oil	{'oil': 1}
+Oil_Painting	{'oil painting': 1}
+Olympia	{'olympia': 1}
+Omnidirectional	{'omnidirectional': 3}
+Online_Auction	{'online auction': 1}
+Online_Community	{'online community': 1}
+Ontological	{'ontological': 2}
+Ontologies	{'ontologies': 12}
+Ontology	{'ontology': 18}
+Ontology_Engineering	{'ontology engineering': 1}
+OpenGL	{'opengl': 2}
+Open_Source	{'open source': 1}
+Open_Source_Software	{'open source software': 1}
+Open_source	{'open source': 1}
+Open_source_Software	{'open source software': 2}
+Operating_System	{'operating system': 3}
+Operating_Systems	{'operating systems': 2}
+Operational_Semantics	{'operational semantics': 3}
+Optical_Flow	{'optical flow': 2}
+Optical_Microscope	{'optical microscope': 1}
+Optics	{'optics': 2}
+Oracle	{'oracle': 4}
+Order	{'order': 3}
+Ore	{'ore': 1}
+Organization	{'organization': 11}
+Oriented_Database	{'oriented database': 3}
+Oriented_Programming	{'oriented programming': 2}
+Orlando	{'orlando': 1}
+Orthodontics	{'orthodontics': 1}
+Orthopaedic	{'orthopaedic': 1}
+Oscar	{'oscar': 1}
+Outlier	{'outlier': 1}
+Outsourcing	{'outsourcing': 6}
+P2P	{'p2p': 1}
+PAL	{'pal': 1}
+PCA	{'pca': 9}
+PCM	{'pcm': 1}
+PDE	{'pde': 12}
+PDM	{'pdm': 1}
+PFL	{'pfl': 1}
+PISA	{'pisa': 1}
+POP	{'pop': 1}
+PPP	{'ppp': 1}
+PROFIBUS	{'profibus': 2}
+PROLOG	{'prolog': 2}
+PSTN	{'pstn': 1}
+PVC	{'pvc': 1}
+Pacific	{'pacific': 1}
+Pacific_Basin	{'pacific basin': 1}
+Pain	{'pain': 1}
+Painting	{'painting': 1}
+Panacea	{'panacea': 1}
+Panorama	{'panorama': 1}
+Paradigm	{'paradigm': 7}
+Paradise	{'paradise': 1}
+Parallel_Computing	{'parallel computing': 1}
+Parallel_Processing	{'parallel processing': 2}
+Parallel_Programming	{'parallel programming': 1}
+Parallel_computing	{'parallel computing': 1}
+Parallel_processing	{'parallel processing': 1}
+Paris	{'paris': 1}
+Parsing	{'parsing': 2}
+Partial_Differential_Equation	{'partial differential equation': 1}
+Participatory_Design	{'participatory design': 2}
+Particle	{'particle': 1}
+Pattern_Matching	{'pattern matching': 3}
+Pattern_Recognition	{'pattern recognition': 1}
+Paul_Brown	{'paul brown': 1}
+Pegasus	{'pegasus': 1}
+Perception	{'perception': 4}
+Perceptual	{'perceptual': 2}
+Performance_Capture	{'performance capture': 1}
+Performance_Measurement	{'performance measurement': 1}
+Permutation	{'permutation': 1}
+Personalization	{'personalization': 2}
+Peru	{'peru': 1}
+Petri_Net	{'petri net': 17}
+Petri_Nets	{'petri nets': 22}
+Petri_net	{'petri nets': 1}
+Philips	{'philips': 10}
+Philosophical	{'philosophical': 1}
+Philosophy	{'philosophy': 1}
+Photogrammetry	{'photogrammetry': 3}
+Photography	{'photography': 3}
+Photometric	{'photometric': 6}
+Photon	{'photon': 1}
+Phylogenetic	{'phylogenetic': 1}
+Physics	{'physics': 2}
+Piecewise	{'piecewise': 1}
+Plant	{'plant': 3}
+Plaster	{'plaster': 1}
+Platonism	{'platonism': 1}
+Playout	{'playout': 2}
+Police	{'police': 1}
+Polygon	{'polygon': 1}
+Polyhedral	{'polyhedral': 1}
+Polynomial	{'polynomial': 1}
+Polynomials	{'polynomials': 2}
+Pope	{'pope': 1}
+Pose_Estimation	{'pose estimation': 5}
+PostScript	{'postscript': 4}
+Pottery	{'pottery': 1}
+Power_Series	{'power series': 1}
+Prentice_Hall	{'prentice hall': 1}
+Princeton	{'princeton': 4}
+Principal_Component_Analysis	{'principal component analysis': 3}
+Privacy	{'privacy': 9}
+Privacy_Policy	{'privacy policy': 3}
+Private	{'private': 1}
+Probability	{'probability': 2}
+Problem_Solving	{'problem solving': 2}
+Process_Control	{'process control': 1}
+Production	{'production': 3}
+Productivity	{'productivity': 1}
+Products	{'products': 1}
+Professional	{'professional': 2}
+Professor	{'professor': 2}
+Program_Transformation	{'program transformation': 2}
+Programming	{'programming': 61}
+Programming_Language	{'programming language': 20}
+Programming_Languages	{'programming languages': 12}
+Programming_Paradigm	{'programming paradigm': 1}
+Project_Management	{'project management': 7}
+Projective	{'projective': 2}
+Projective_Geometry	{'projective geometry': 2}
+Prolog	{'prolog': 75}
+Proof_Assistant	{'proof assistant': 1}
+Propeller	{'propeller': 1}
+Property	{'property': 2}
+Propositional	{'propositional': 3}
+Protein	{'protein': 7}
+Protein_Structure	{'protein structure': 3}
+Protein_Structure_Prediction	{'protein structure prediction': 1}
+Proteins	{'proteins': 3}
+Proteomics	{'proteomics': 1}
+Prototype	{'prototype': 4}
+Prototypes	{'prototypes': 1}
+Public	{'public': 3}
+Public_Health	{'public health': 1}
+Public_Key_Cryptography	{'public key cryptography': 2}
+Public_Sector	{'public sector': 2}
+Publishing	{'publishing': 2}
+Pyramid	{'pyramid': 1}
+QAM	{'qam': 1}
+QoS	{'qos': 1}
+Qos	{'qos': 1}
+Quadric	{'quadric': 1}
+Quadtree	{'quadtree': 1}
+Quality_Assurance	{'quality assurance': 1}
+Quantum	{'quantum': 1}
+Quantum_Computing	{'quantum computing': 2}
+Query_Language	{'query language': 6}
+Query_Optimization	{'query optimization': 7}
+Query_Processing	{'query processing': 19}
+Query_language	{'query language': 3}
+Query_optimization	{'query optimization': 2}
+Query_processing	{'query processing': 9}
+QuickTime	{'quicktime': 3}
+Quicksort	{'quicksort': 1}
+Quilt	{'quilt': 1}
+RACE	{'race': 3}
+RAM	{'ram': 2}
+RAP	{'rap': 1}
+RDF	{'rdf': 3}
+RISC	{'risc': 1}
+RNA	{'rna': 4}
+ROCK	{'rock': 1}
+RTOS	{'rtos': 1}
+RTP	{'rtp': 1}
+Radar	{'radar': 2}
+Radial	{'radial': 2}
+Radiance	{'radiance': 2}
+Radon	{'radon': 1}
+Radon_Transform	{'radon transform': 6}
+Randomness	{'randomness': 1}
+Range	{'range': 96}
+Range_Image	{'range image': 1}
+Rangefinder	{'rangefinder': 4}
+Raster	{'raster': 1}
+Rational_Unified_Process	{'rational unified process': 1}
+Rationality	{'rationality': 1}
+Reachability	{'reachability': 4}
+Reaction	{'reaction': 1}
+Real_World	{'real world': 1}
+Reality	{'reality': 1}
+Reconstruction	{'reconstruction': 50}
+Recording	{'recording': 1}
+Recursion	{'recursion': 2}
+Reference_Manual	{'reference manual': 10}
+Reflectance	{'reflectance': 5}
+Region	{'region': 4}
+Register_Allocation	{'register allocation': 1}
+Regression	{'regression': 2}
+Reinforcement_Learning	{'reinforcement learning': 1}
+Relational	{'relational': 30}
+Relational_Database	{'relational database': 15}
+Relational_Databases	{'relational databases': 13}
+Relational_Model	{'relational model': 4}
+Relativity	{'relativity': 1}
+Renault	{'renault': 1}
+Report	{'report': 7}
+Requirements_Engineering	{'requirements engineering': 3}
+Research	{'research': 41}
+Resource_Allocation	{'resource allocation': 2}
+Resource_Description_Framework	{'resource description framework': 1}
+Restoration	{'restoration': 1}
+Results	{'results': 5}
+Retail	{'retail': 2}
+Reverse_Engineering	{'reverse engineering': 2}
+Revolution	{'revolution': 2}
+Rhetorical	{'rhetorical': 1}
+Rice	{'rice': 1}
+Risk	{'risk': 2}
+Risk_Management	{'risk management': 1}
+Road	{'road': 2}
+RoboCup	{'robocup': 1}
+Robot	{'robot': 5}
+Robotics	{'robotics': 4}
+Robots	{'robots': 6}
+Rodrigues	{'rodrigues': 1}
+Roma	{'roma': 1}
+Roman	{'roman': 1}
+Root	{'root': 1}
+Royal_Society	{'royal society': 1}
+SAGA	{'saga': 1}
+SAMOS	{'samos': 1}
+SAS	{'sas': 1}
+SDF	{'sdf': 9}
+SFL	{'sfl': 1}
+SFS	{'sfs': 1}
+SGML	{'sgml': 1}
+SIL	{'sil': 1}
+SIMD	{'simd': 1}
+SNMP	{'snmp': 5}
+SOS	{'sos': 2}
+SPARC	{'sparc': 1}
+SPS	{'sps': 5}
+SPSS	{'spss': 1}
+SQL	{'sql': 66}
+SQL_Server	{'sql server': 6}
+SSD	{'ssd': 1}
+STL	{'stl': 1}
+STUDENT	{'student': 1}
+SVM	{'svm': 10}
+Safety	{'safety': 1}
+Saga	{'saga': 2}
+Sand	{'sand': 1}
+Scalability	{'scalability': 1}
+Scalable_Vector_Graphics	{'scalable vector graphics': 1}
+Scale_Space	{'scale space': 3}
+Scholar	{'scholar': 1}
+Science	{'science': 3}
+Scotland	{'scotland': 1}
+Scripting	{'scripting': 1}
+Second_Edition	{'second edition': 21}
+Second_order_logic	{'second order logic': 1}
+Secondary	{'secondary': 3}
+Security	{'security': 22}
+Self_Similarity	{'self similarity': 1}
+Semantic	{'semantic': 19}
+Semantic_Web	{'semantic web': 2}
+Semantic_web	{'semantic web': 3}
+Semantics	{'semantics': 23}
+Semi_Automatic	{'semi automatic': 3}
+Semiotic	{'semiotic': 1}
+Sensor	{'sensor': 9}
+Sequence	{'sequence': 9}
+Sequence_analysis	{'sequence analysis': 1}
+Sequent	{'sequent': 1}
+Serializability	{'serializability': 2}
+Service_Oriented	{'service oriented': 1}
+Service_orient	{'service oriented': 1}
+Shared_Memory	{'shared memory': 2}
+Shooting	{'shooting': 1}
+Signal_Processing	{'signal processing': 1}
+Silhouette	{'silhouette': 7}
+Silver	{'silver': 1}
+Simple_Network_Management_Protocol	{'simple network management protocol': 1}
+Simplex	{'simplex': 2}
+Simulated_Annealing	{'simulated annealing': 1}
+Simulation	{'simulation': 11}
+Singapore	{'singapore': 1}
+Single	{'single': 13}
+Skeleton	{'skeleton': 1}
+Sketch	{'sketch': 1}
+Sketchpad	{'sketchpad': 5}
+SmallTalk	{'smalltalk': 1}
+Smalltalk	{'smalltalk': 16}
+Smarties	{'smarties': 3}
+Smartphones	{'smartphones': 1}
+Snell_'s_law	{"snell 's law": 1}
+Soccer	{'soccer': 1}
+Social_Learning	{'social learning': 1}
+Socialization	{'socialization': 1}
+Society	{'society': 1}
+Soft_Computing	{'soft computing': 1}
+Soft_computing	{'soft computing': 1}
+Software	{'software': 93}
+Software_Architecture	{'software architecture': 2}
+Software_Configuration_Management	{'software configuration management': 1}
+Software_Design	{'software design': 1}
+Software_Development	{'software development': 7}
+Software_Development_Process	{'software development process': 1}
+Software_Engineering	{'software engineering': 5}
+Software_Industry	{'software industry': 1}
+Software_Testing	{'software testing': 1}
+Solution	{'solution': 4}
+Sonar	{'sonar': 1}
+Sound	{'sound': 1}
+Sounder	{'sounder': 1}
+South	{'south': 1}
+South_Africa	{'south africa': 1}
+Space_Opera	{'space opera': 1}
+Spacetime	{'spacetime': 1}
+Spain	{'spain': 1}
+Special_Effects	{'special effects': 1}
+Specification_Language	{'specification language': 6}
+Spectrum	{'spectrum': 3}
+Specular	{'specular': 5}
+Spherical_Harmonic	{'spherical harmonic': 1}
+Spherical_Harmonics	{'spherical harmonics': 1}
+Spin	{'spin': 1}
+Spreadsheet	{'spreadsheet': 2}
+Spreadsheets	{'spreadsheets': 1}
+Stability_Theory	{'stability theory': 1}
+Standard_Generalized_Markup_Language	{'standard generalized markup language': 1}
+Standard_ML	{'standard ml': 1}
+Star	{'star': 1}
+State	{'state': 6}
+Statistical_Methods	{'statistical methods': 1}
+Statistics	{'statistics': 1}
+Stereo	{'stereo': 37}
+Stereopsis	{'stereopsis': 3}
+Stereoscopic	{'stereoscopic': 5}
+Stereotypes	{'stereotypes': 3}
+Stochastic	{'stochastic': 5}
+Stratification	{'stratification': 1}
+Stream	{'stream': 2}
+Stream_processing	{'stream processing': 1}
+Strings	{'strings': 2}
+Strips	{'strips': 1}
+Structural_Mechanics	{'structural mechanics': 1}
+Structured_Light	{'structured light': 14}
+Student	{'student': 3}
+Suffix	{'suffix': 1}
+Sun	{'sun': 1}
+Sun_Microsystems	{'sun microsystems': 1}
+Supercomputer	{'supercomputer': 1}
+Superposition	{'superposition': 1}
+Supply_Chain	{'supply chain': 1}
+Supply_Chain_Management	{'supply chain management': 1}
+Support_Systems	{'support systems': 6}
+Support_Vector_Machines	{'support vector machines': 4}
+Surface_Normal	{'surface normal': 2}
+Surface_Normals	{'surface normals': 1}
+Surface_Reconstruction	{'surface reconstruction': 5}
+Surface_reconstruction	{'surface reconstruction': 5}
+Surgery	{'surgery': 2}
+Surrogates	{'surrogates': 1}
+Surveying	{'surveying': 1}
+Surveyor	{'surveyor': 1}
+Sussex	{'sussex': 1}
+Sustainable_Development	{'sustainable development': 1}
+Swan	{'swan': 1}
+Symmetry	{'symmetry': 1}
+Syntactic	{'syntactic': 1}
+Syntax	{'syntax': 2}
+Systematics	{'systematics': 1}
+Systems_Analysis	{'systems analysis': 2}
+Systems_Architecture	{'systems architecture': 1}
+Systems_Engineering	{'systems engineering': 2}
+Systems_Theory	{'systems theory': 1}
+TALE	{'tale': 1}
+TCP	{'tcp': 6}
+TCP_/_IP	{'tcp / ip': 49}
+TEMPO	{'tempo': 1}
+TSR	{'tsr': 1}
+TV	{'tv': 2}
+Talk	{'talk': 2}
+Tangent	{'tangent': 1}
+Target	{'target': 4}
+Task_Analysis	{'task analysis': 1}
+Taxation	{'taxation': 1}
+Taxonomic	{'taxonomic': 1}
+Taxonomy	{'taxonomy': 4}
+Taylor_Series	{'taylor series': 1}
+Tcl	{'tcl': 1600}
+Technology	{'technology': 40}
+Telecommunication	{'telecommunication': 1}
+Telecommunications	{'telecommunications': 3}
+Telemedicine	{'telemedicine': 2}
+Telephone	{'telephone': 1}
+Teletubbies	{'teletubbies': 1}
+Television	{'television': 1}
+Temporal_Logic	{'temporal logic': 11}
+Tensor	{'tensor': 3}
+Terabyte	{'terabyte': 1}
+Terminator	{'terminator': 1}
+Ternary	{'ternary': 1}
+Tertiary_Education	{'tertiary education': 1}
+Test	{'test': 5}
+Tests	{'tests': 1}
+Tetrahedral	{'tetrahedral': 2}
+Texas_Instruments	{'texas instruments': 1}
+Text_Mining	{'text mining': 7}
+Texture_Mapping	{'texture mapping': 1}
+Thailand	{'thailand': 1}
+Theorem_Proving	{'theorem proving': 3}
+Thesaurus	{'thesaurus': 2}
+Thesis	{'thesis': 4}
+Thorn_EMI	{'thorn emi': 1}
+Timestamp	{'timestamp': 1}
+Tn	{'tn': 1}
+Topography	{'topography': 1}
+Topological	{'topological': 3}
+Topologies	{'topologies': 1}
+Topology	{'topology': 3}
+Tor	{'tor': 1}
+Tour	{'tour': 4}
+Tourism	{'tourism': 1}
+Trade	{'trade': 1}
+Transaction_Processing	{'transaction processing': 8}
+Transaction_processing	{'transaction processing': 1}
+Transducer	{'transducer': 1}
+Transfer_Function	{'transfer function': 1}
+Translation	{'translation': 5}
+Transmission_Control_Protocol	{'transmission control protocol': 1}
+Treaty	{'treaty': 1}
+Tree	{'tree': 13}
+Trees	{'trees': 8}
+Treewidth	{'treewidth': 1}
+Triangle	{'triangle': 6}
+Triangles	{'triangles': 1}
+Triangulation	{'triangulation': 5}
+Triune	{'triune': 1}
+Troff	{'troff': 9}
+Tuple	{'tuple': 1}
+Tutor	{'tutor': 1}
+Type_Theory	{'type theory': 1}
+UDP	{'udp': 1}
+UK	{'uk': 1}
+UML	{'uml': 197}
+UMTS	{'umts': 1}
+UNICORN	{'unicorn': 1}
+UNIX	{'unix': 6}
+USA	{'usa': 1}
+USENET	{'usenet': 1}
+Ultrasonic	{'ultrasonic': 1}
+Ultrasound	{'ultrasound': 1}
+Underwriting	{'underwriting': 1}
+Unicorn	{'unicorn': 9}
+Unified_Modeling_Language	{'unified modeling language': 7}
+Uniform_Resource_Identifier	{'uniform resource identifier': 1}
+United_Nations	{'united nations': 1}
+Universal	{'universal': 8}
+Universities	{'universities': 1}
+University	{'university': 49}
+Unix	{'unix': 9}
+Urban	{'urban': 2}
+Usability	{'usability': 7}
+User_Datagram_protocol	{'user datagram protocol': 1}
+User_Interface	{'user interface': 4}
+User_Interface_Design	{'user interface design': 1}
+User_Interfaces	{'user interfaces': 3}
+VENUS	{'venus': 1}
+VHDL	{'vhdl': 1}
+VHF	{'vhf': 1}
+VLF	{'vlf': 1}
+VLSI	{'vlsi': 3}
+VMS	{'vms': 1}
+VRML	{'vrml': 2}
+VSAT	{'vsat': 1}
+Variance	{'variance': 1}
+Vaughan	{'vaughan': 1}
+Vector	{'vector': 3}
+Vector_Quantization	{'vector quantization': 1}
+Venus	{'venus': 1}
+Verona	{'verona': 1}
+Version_Control	{'version control': 1}
+Video	{'video': 32}
+Video_Camera	{'video camera': 1}
+Video_Conferencing	{'video conferencing': 1}
+Vienna	{'vienna': 1}
+Vietnamese	{'vietnamese': 1}
+View_Synthesis	{'view synthesis': 4}
+View_synthesis	{'view synthesis': 7}
+Virden	{'virden': 1}
+Virtual_Reality	{'virtual reality': 2}
+Virtual_reality	{'virtual reality': 1}
+Virtualization	{'virtualization': 2}
+Vivek	{'vivek': 1}
+Vocabulary	{'vocabulary': 1}
+Volcano	{'volcano': 1}
+Volume_rendering	{'volume rendering': 1}
+Voxel	{'voxel': 2}
+W3C	{'w3c': 1}
+WDM	{'wdm': 1}
+WEKA	{'weka': 1}
+Waikato	{'waikato': 9}
+Wal_Mart	{'wal mart': 1}
+War	{'war': 2}
+Warehouse	{'warehouse': 2}
+Wavelet	{'wavelet': 3}
+Web_Anwendungen	{'web anwendungen': 1}
+Web_Applications	{'web applications': 5}
+Web_Based	{'web based': 8}
+Web_Content_Management	{'web content management': 1}
+Web_Design	{'web design': 1}
+Web_Ontology_Language	{'web ontology language': 1}
+Web_Portal	{'web portal': 1}
+Web_Search	{'web search': 2}
+Web_Service	{'web service': 2}
+Web_Services	{'web services': 8}
+Wedel	{'wedel': 1}
+Western	{'western': 1}
+Whiteboard	{'whiteboard': 1}
+Wide_Web	{'wide web': 3}
+Wide_web	{'wide web': 6}
+Wiki	{'wiki': 1}
+Windows_Media_Player	{'windows media player': 3}
+Wired	{'wired': 1}
+Wireless	{'wireless': 11}
+Wireless_LAN	{'wireless lan': 1}
+Wireless_Networks	{'wireless networks': 2}
+Wireless_Sensor_Networks	{'wireless sensor networks': 2}
+Wisconsin	{'wisconsin': 2}
+Witten	{'witten': 1}
+Word_Order	{'word order': 1}
+Workbench	{'workbench': 3}
+Workflow	{'workflow': 12}
+Workstation	{'workstation': 1}
+World_Wide_Web	{'world wide web': 11}
+World_Wide_web	{'world wide web': 3}
+World_wide_Web	{'world wide web': 1}
+World_wide_web	{'world wide web': 1}
+X11	{'x11': 1}
+X3D	{'x3d': 1}
+XF	{'xf': 1}
+XHTML	{'xhtml': 1}
+XML	{'xml': 26}
+XML_Schema	{'xml schema': 3}
+XQuery	{'xquery': 1}
+Zealand	{'zealand': 38}
+a_12	{'a 12': 1}
+a_20	{'a 20': 1}
+a_4	{'a 4': 1}
+a_level	{'a level': 3}
+absolute_difference	{'absolute difference': 1}
+academic	{'academic': 4}
+acoustic	{'acoustic': 20}
+acronym	{'acronyms': 1}
+action	{'action': 13}
+active_database	{'active database': 4}
+active_listening	{'active listening': 1}
+actor	{'actors': 2, 'actor': 1}
+acyclic	{'acyclic': 1}
+ad_hoc	{'ad hoc': 1}
+address_space	{'address space': 1}
+adoption	{'adoption': 5}
+advanced_encryption_standard	{'advanced encryption standard': 1}
+agent_base	{'agent based': 2}
+aggregate_data	{'aggregate data': 2}
+aggregate_datum	{'aggregate data': 11}
+ai	{'ai': 13}
+aid	{'aids': 1}
+aids	{'aids': 1}
+airbag	{'airbags': 1, 'airbag': 9}
+albedo	{'albedo': 3}
+algebra	{'algebra': 4}
+algebraic	{'algebraic': 7}
+algebraic_structure	{'algebraic structure': 1}
+algorithm	{'algorithms': 220, 'algorithm': 409}
+alternative	{'alternative': 15}
+altitude	{'altitude': 1}
+amplitude	{'amplitude': 1}
+an_Introduction	{'an introduction': 1}
+an_Object_Oriented_Database	{'an object oriented database': 9}
+an_Object_orient_Database	{'an object oriented database': 2}
+an_Overview	{'an overview': 11}
+an_introduction	{'an introduction': 27}
+an_overview	{'an overview': 16}
+anatomy	{'anatomy': 5}
+animal	{'animal': 9}
+animated	{'animated': 3}
+animation	{'animation': 75}
+anisotropic	{'anisotropic': 8}
+antagonist	{'antagonist': 1}
+anthropometric	{'anthropometric': 5}
+anthropometry	{'anthropometry': 4}
+aperture	{'aperture': 2}
+api	{'api': 1}
+appeal	{'appeal': 1}
+applet	{'applet': 1}
+application_layer	{'application layer': 1}
+approximation_algorithm	{'approximation algorithm': 1}
+archaeological	{'archaeological': 7}
+archaeologist	{'archaeologists': 5}
+architectural	{'architectural': 3}
+architecture	{'architecture': 13}
+area	{'area': 44}
+arithmetic	{'arithmetic': 1}
+arity	{'arity': 1}
+arm	{'arms': 3}
+arrangement	{'arrangement': 2}
+art	{'art': 19}
+artificial	{'artificial': 3}
+artificial_intelligence	{'artificial intelligence': 4}
+artificial_neural_network	{'artificial neural networks': 1}
+aspect	{'aspect': 6}
+aspect_ratio	{'aspect ratio': 1}
+assistive_technology	{'assistive technology': 1}
+atmosphere	{'atmosphere': 1}
+atom	{'atoms': 1}
+attenuation	{'attenuation': 1}
+augment_reality	{'augmented reality': 4}
+authentication	{'authentication': 12}
+author	{'author': 36}
+automata	{'automata': 4}
+automate_reasoning	{'automated reasoning': 1}
+automatic_differentiation	{'automatic differentiation': 1}
+automatic_speech_recognition	{'automatic speech recognition': 1}
+automation	{'automation': 13}
+autonomous_robot	{'autonomous robot': 1}
+average	{'average': 8}
+axi	{'axis': 20}
+axiom	{'axioms': 11}
+axis	{'axis': 30}
+b+_Tree	{'b+ tree': 1}
+b+_tree	{'b+ tree': 1}
+b2b	{'b2b': 2}
+b_spline	{'b spline': 9}
+band	{'band': 4}
+bank	{'bank': 2, 'banks': 1}
+base_Approach	{'based approach': 5}
+base_approach	{'based approach': 7}
+basic	{'basic': 30}
+bayesian	{'bayesian': 20}
+bayesian_network	{'bayesian network': 1}
+beam	{'beam': 2}
+belief_propagation	{'belief propagation': 2}
+benchmarking	{'benchmarking': 1}
+berkeley	{'berkeley': 2}
+binary	{'binary': 6}
+binary_tree	{'binary tree': 1}
+binocular	{'binocular': 1}
+bioinformatic	{'bioinformatics': 1}
+biology	{'biology': 1}
+bit	{'bit': 12, 'bits': 1}
+bitrate	{'bitrate': 1}
+bitstream	{'bitstream': 1}
+black	{'black': 1}
+block_scheduling	{'block scheduling': 1}
+blood	{'blood': 1}
+blue	{'blues': 1}
+body_shape	{'body shape': 30}
+bone	{'bone': 1, 'bones': 3}
+book	{'book': 408}
+boolean	{'boolean': 2}
+border	{'borders': 2}
+bridge	{'bridge': 1}
+broadband	{'broadband': 1}
+broadcast	{'broadcast': 9}
+browser	{'browsers': 2, 'browser': 1}
+buck	{'bucks': 1}
+burr	{'burr': 1}
+bus	{'bus': 1}
+business	{'business': 63}
+business_process	{'business processes': 5, 'business process': 15}
+business_process_Modeling	{'business process modeling': 2}
+c++	{'c++': 1}
+calculus	{'calculus': 58}
+camera	{'camera': 362}
+campus	{'campus': 2}
+canonization	{'canonization': 1}
+canvas	{'canvas': 1}
+car	{'car': 6}
+cardinality	{'cardinality': 41}
+caricature	{'caricature': 1}
+case_study	{'case study': 1}
+cat	{'cat': 1}
+ccd	{'ccd': 1}
+cd	{'cd': 6}
+cd_rom	{'cd rom': 1}
+center	{'center': 21}
+centimetre	{'centimetre': 1}
+centroid	{'centroid': 1}
+ceramic	{'ceramic': 1}
+cerebrospinal_fluid	{'cerebrospinal fluid': 1}
+chamfer	{'chamfer': 1}
+channel	{'channel': 1}
+child_mortality	{'child mortality': 1}
+chinese	{'chinese': 1}
+chromaticity	{'chromaticity': 2}
+circle	{'circle': 7}
+circuit_board	{'circuit board': 1}
+city	{'city': 8}
+civilian	{'civilian': 1}
+class_diagram	{'class diagram': 1}
+classical	{'classical': 25}
+classical_logic	{'classical logic': 1}
+clay	{'clay': 26}
+clearance	{'clearances': 1}
+client_side	{'client side': 1}
+climate	{'climate': 1}
+close_form	{'closed form': 3}
+close_form_expression	{'closed form expression': 1}
+close_point	{'closest point': 6}
+closed_Form	{'closed form': 1}
+clothing	{'clothing': 1}
+cloud	{'cloud': 5}
+cognitive_psychology	{'cognitive psychology': 4}
+collective_behavior	{'collective behavior': 1}
+collision_detection	{'collision detection': 1}
+color_correction	{'color correction': 1}
+color_image	{'color images': 13}
+color_management	{'color management': 4}
+color_printing	{'color printing': 1}
+combinatorial	{'combinatorial': 4}
+commodity	{'commodity': 4}
+communication	{'communication': 31}
+community	{'community': 7}
+commutative	{'commutative': 2}
+company	{'company': 1}
+compilation	{'compilation': 4}
+compiler	{'compiler': 40}
+component_base	{'component based': 5}
+comprehensive	{'comprehensive': 21}
+computable	{'computable': 1}
+computational_complexity	{'computational complexity': 7}
+computational_geometry	{'computational geometry': 2}
+computational_linguistic	{'computational linguistics': 1}
+compute	{'computing': 2}
+computed_tomography	{'computed tomography': 1}
+computer	{'computers': 20}
+computer_aid_design	{'computer aided design': 1}
+computer_science	{'computer science': 17}
+computing	{'computing': 20}
+concatenation	{'concatenation': 1}
+conceptual_framework	{'conceptual framework': 1}
+conceptual_model	{'conceptual model': 5}
+concrete	{'concrete': 2}
+concurrency_control	{'concurrency control': 6}
+conformal_geometry	{'conformal geometry': 1}
+conic_section	{'conic sections': 1}
+connectionism	{'connectionism': 1}
+connectionist	{'connectionist': 2}
+constituency	{'constituency': 1}
+construction	{'construction': 47}
+constructor	{'constructors': 1}
+consumer	{'consumer': 4}
+content_base	{'content based': 4}
+continuation_pass_style	{'continuation passing style': 1}
+continuous_function	{'continuous function': 1}
+convex_hull	{'convex hull': 1}
+conveyor	{'conveyor': 1}
+convolution	{'convolution': 2}
+cooperative	{'cooperative': 3}
+copper	{'copper': 4}
+copyright	{'copyright': 3}
+corba	{'corba': 1}
+cornea	{'cornea': 1}
+cornerstone	{'cornerstone': 1}
+correlation_coefficient	{'correlation coefficient': 4}
+count	{'count': 1}
+covariance	{'covariance': 2}
+cover	{'cover': 4}
+cpu	{'cpu': 6}
+creativity	{'creativity': 2}
+credit_card	{'credit card': 1}
+cross_platform	{'cross platform': 1}
+cross_product	{'cross product': 1}
+cryptographic	{'cryptographic': 5}
+cryptography	{'cryptography': 7}
+cube	{'cube': 11}
+cultural	{'cultural': 4}
+cultural_heritage	{'cultural heritage': 1}
+culture	{'culture': 1}
+curvature	{'curvature': 15}
+cybernetic	{'cybernetics': 2}
+cyberspace	{'cyberspace': 1}
+daily	{'daily': 2}
+dance	{'dance': 4}
+dancer	{'dancer': 9}
+data	{'data': 345}
+data_acquisition	{'data acquisition': 2}
+data_analysis	{'data analysis': 1}
+data_compression	{'data compression': 3}
+data_fusion	{'data fusion': 1}
+data_integration	{'data integration': 12}
+data_management	{'data management': 3}
+data_mining	{'data mining': 10}
+data_model	{'data model': 33}
+data_quality	{'data quality': 45}
+data_set	{'data set': 7}
+data_structure	{'data structures': 24, 'data structure': 8}
+data_warehouse	{'data warehouse': 17}
+database	{'databases': 320, 'database': 439}
+database_design	{'database design': 3}
+database_management	{'database management': 7}
+database_management_system	{'database management systems': 5}
+database_schema	{'database schema': 6}
+database_server	{'database server': 1}
+database_system	{'database systems': 26}
+database_theory	{'database theory': 1}
+datalog	{'datalog': 9}
+datum	{'data': 1013}
+datum_Mining	{'data mining': 1}
+datum_Transmission	{'data transmission': 1}
+datum_acquisition	{'data acquisition': 5}
+datum_analysis	{'data analysis': 3}
+datum_compression	{'data compression': 1}
+datum_fusion	{'data fusion': 4}
+datum_integration	{'data integration': 19}
+datum_link	{'data link': 3}
+datum_link_layer	{'data link layer': 4}
+datum_management	{'data management': 2}
+datum_mining	{'data mining': 85}
+datum_model	{'data modeling': 4}
+datum_modeling	{'data modeling': 11}
+datum_process	{'data processing': 1}
+datum_processing	{'data processing': 1}
+datum_quality	{'data quality': 27}
+datum_security	{'data security': 9}
+datum_set	{'data set': 4}
+datum_structure	{'data structures': 5, 'data structure': 3}
+datum_warehouse	{'data warehouse': 11}
+datum_warehousing	{'data warehousing': 4}
+dbms	{'dbms': 7}
+deadlock	{'deadlock': 3}
+debt	{'debt': 1}
+debugging	{'debugging': 1}
+decision_Problem	{'decision problem': 1}
+decision_support	{'decision support': 3}
+decision_support_system	{'decision support systems': 4}
+decision_theory	{'decision theory': 1}
+decompression	{'decompression': 1}
+deductive	{'deductive': 13}
+defeasible_reasoning	{'defeasible reasoning': 1}
+degree	{'degree': 56}
+democratic	{'democratic': 2}
+density	{'density': 42}
+dependency_theory	{'dependency theory': 1}
+depth_map	{'depth map': 11}
+design	{'design': 170}
+design_engineer	{'design engineer': 1}
+desktop_publishing	{'desktop publishing': 1}
+deterministic_finite_automaton	{'deterministic finite automaton': 1}
+dfd	{'dfds': 2}
+diameter	{'diameter': 5}
+dielectric	{'dielectric': 1}
+differential_equation	{'differential equation': 1}
+differential_geometry	{'differential geometry': 4}
+diffusion	{'diffusion': 23}
+diffusive	{'diffusive': 1}
+digital	{'digital': 49}
+digital_camera	{'digital camera': 3}
+digital_library	{'digital libraries': 9, 'digital library': 9}
+digital_medium	{'digital media': 1}
+digital_radio	{'digital radio': 1}
+digital_signage	{'digital signage': 1}
+digital_signature	{'digital signatures': 2, 'digital signature': 1}
+digitize	{'digitizing': 4}
+dimension	{'dimension': 26}
+dimensional_analysis	{'dimensional analysis': 1}
+direct_acyclic_graph	{'directed acyclic graph': 1}
+direct_graph	{'directed graph': 1}
+director	{'director': 1}
+discrete_wavelet_transform	{'discrete wavelet transform': 1}
+discrimination	{'discrimination': 1}
+disk_storage	{'disk storage': 2}
+diskette	{'diskette': 1}
+distance_Learning	{'distance learning': 1}
+distance_learning	{'distance learning': 2}
+distortion	{'distortion': 37}
+distribute_Database	{'distributed database': 1}
+distribute_database	{'distributed database': 9}
+distribute_memory	{'distributed memory': 1}
+distributed_computing	{'distributed computing': 1}
+dna	{'dna': 1}
+doctor	{'doctors': 1}
+double	{'doubles': 1}
+downtown	{'downtown': 1}
+dragon	{'dragons': 1}
+drama	{'drama': 1}
+drawing	{'drawing': 1}
+dutch	{'dutch': 1}
+dynamic_programming	{'dynamic programming': 6}
+dynamic_range	{'dynamic range': 9}
+dynamical_system	{'dynamical systems': 1}
+e	{'e': 16}
+eCommerce	{'ecommerce': 1}
+e_Government	{'e government': 1}
+e_commerce	{'e commerce': 3}
+economic_growth	{'economic growth': 1}
+economy	{'economy': 1}
+editing	{'editing': 15}
+editor	{'editor': 1}
+education	{'education': 4}
+educational_software	{'educational software': 1}
+eigenvalue	{'eigenvalue': 1}
+eigenvector	{'eigenvector': 4}
+eine_Einfhrung	{'eine einfhrung': 1}
+election	{'election': 1}
+electrical_circuit	{'electrical circuit': 1}
+electronic	{'electronic': 28, 'electronics': 5}
+electronic_commerce	{'electronic commerce': 17}
+elementary	{'elementary': 2}
+email	{'email': 1}
+emissivity	{'emissivity': 1}
+empirical_evidence	{'empirical evidence': 1}
+empirical_research	{'empirical research': 1}
+encryption	{'encryption': 6}
+endoscopic	{'endoscopic': 1}
+energy	{'energy': 14}
+engine	{'engine': 19}
+engineer	{'engineer': 2, 'engineering': 1}
+engineering	{'engineering': 46}
+english	{'english': 2}
+enterprise_Resource_Planning	{'enterprise resource planning': 1}
+enterprise_Resource_planning	{'enterprise resource planning': 1}
+enterprise_integration	{'enterprise integration': 1}
+enterprise_resource_planning	{'enterprise resource planning': 1}
+entropy	{'entropy': 1}
+epidemiological	{'epidemiological': 1}
+epidemiology	{'epidemiology': 1}
+error_detection	{'error detection': 1}
+error_function	{'error function': 2}
+estimator	{'estimator': 1}
+ethical	{'ethical': 1}
+euclidean	{'euclidean': 2}
+european	{'european': 1}
+evolution	{'evolution': 5}
+evolutionary_Algorithms	{'evolutionary algorithms': 1}
+experimental	{'experimental': 58}
+expert_system	{'expert systems': 5}
+explicit_knowledge	{'explicit knowledge': 1}
+extensibility	{'extensibility': 1}
+extensional	{'extensional': 18}
+facade	{'facades': 1}
+face_detection	{'face detection': 1}
+facial_expression	{'facial expression': 1}
+family	{'family': 2}
+fashion	{'fashion': 2}
+fat	{'fat': 1}
+feature_base	{'feature based': 8}
+feature_point	{'feature points': 19}
+feedback	{'feedback': 1}
+fellow	{'fellow': 1}
+fermentation	{'fermentation': 1}
+fiber_optic	{'fiber optics': 4}
+field_theory	{'field theory': 1}
+file_format	{'file format': 3}
+file_system	{'file system': 42, 'file systems': 5}
+film	{'film': 3, 'films': 1}
+financial_service	{'financial services': 1}
+finite_difference	{'finite difference': 1}
+finite_impulse_response	{'finite impulse response': 4}
+firm	{'firm': 2}
+first_order_logic	{'first order logic': 1}
+floppy	{'floppy': 1}
+fly	{'fly': 3}
+fmri	{'fmri': 1}
+focal_length	{'focal length': 3}
+font	{'font': 9}
+forest	{'forest': 2}
+formal_language	{'formal language': 1}
+formal_language_theory	{'formal language theory': 1}
+formal_method	{'formal methods': 1}
+formal_specification	{'formal specification': 1}
+forward	{'forward': 1}
+fr	{'fr': 6}
+frame_problem	{'frame problem': 1}
+frame_rate	{'frame rate': 4}
+free	{'free': 34}
+frequency	{'frequency': 6, 'frequencies': 1}
+frequency_domain	{'frequency domain': 1}
+friendly	{'friendly': 1}
+function	{'function': 101}
+functional_analysis	{'functional analysis': 1}
+fur	{'fur': 1}
+fusion	{'fusion': 24}
+future_system	{'future systems': 1}
+fuzzy_logic	{'fuzzy logic': 3}
+game	{'games': 11}
+gas	{'gas': 1}
+general	{'general': 50}
+genetic	{'genetic': 1}
+genetic_Algorithm	{'genetic algorithm': 1}
+genetic_Algorithms	{'genetic algorithms': 3}
+genetic_algorithm	{'genetic algorithm': 1}
+genome	{'genome': 3}
+geodesic	{'geodesic': 6}
+geographic_information_system	{'geographic information systems': 1}
+geometry	{'geometry': 70}
+ghost	{'ghost': 1}
+gigabit	{'gigabit': 1}
+global_optimization	{'global optimization': 6}
+glyph	{'glyphs': 1}
+goat	{'goat': 1}
+government	{'government': 30}
+gps	{'gps': 1}
+gpu	{'gpus': 2}
+gradient	{'gradient': 18}
+grain_size	{'grain size': 1}
+grammar	{'grammar': 6}
+graph	{'graphs': 5, 'graph': 57}
+graphic	{'graphic': 2}
+graphic_card	{'graphics card': 5, 'graphics cards': 1}
+graphic_hardware	{'graphics hardware': 16}
+graphical	{'graphical': 11}
+graphical_user_interface	{'graphical user interfaces': 1, 'graphical user interface': 1}
+graphs	{'graphs': 6}
+gras_GIS	{'grass gis': 1}
+grass	{'grass': 4}
+grayscale	{'grayscale': 1}
+graze	{'grazing': 1}
+greedy_algorithm	{'greedy algorithm': 1}
+ground_truth	{'ground truth': 15}
+gyroscope	{'gyroscope': 1}
+hair	{'hair': 2}
+hand_hold_camera	{'hand held camera': 4}
+haptic	{'haptic': 16}
+hard_disk_drive	{'hard disk drive': 1}
+hardcore	{'hardcore': 1}
+harmonic	{'harmonic': 10, 'harmonics': 4}
+healthcare	{'healthcare': 1}
+heart	{'heart': 1}
+heat_equation	{'heat equation': 4}
+heuristic	{'heuristic': 3}
+hierarchical_clustering	{'hierarchical clustering': 1}
+high	{'high': 155}
+high_Order_Logic	{'higher order logic': 2}
+high_order_logic	{'higher order logic': 1}
+highway	{'highway': 1}
+histogram	{'histogram': 4}
+history	{'history': 9}
+homeless	{'homeless': 1}
+homotopic	{'homotopic': 1}
+house	{'house': 1}
+html	{'html': 2}
+hull	{'hull': 1}
+human	{'human': 121}
+human_body	{'human body': 10}
+human_eye	{'human eye': 1}
+human_genome	{'human genome': 1}
+humanoid	{'humanoid': 1}
+hybrid	{'hybrid': 15}
+hypergraph	{'hypergraph': 1}
+hyperlink	{'hyperlink': 1}
+hypermedia	{'hypermedia': 10}
+hypertext	{'hypertext': 2}
+hypothesis	{'hypothesis': 6}
+hysteresis	{'hysteresis': 4}
+iceberg	{'iceberg': 1}
+ideology	{'ideology': 1}
+idiom	{'idioms': 1}
+ii	{'ii': 6}
+illuminance	{'illuminance': 144}
+image_Based	{'image based': 1}
+image_Compression	{'image compression': 1}
+image_analysis	{'image analysis': 2}
+image_base	{'image based': 8}
+image_compression	{'image compression': 2}
+image_processing	{'image processing': 7}
+image_registration	{'image registration': 14}
+image_resolution	{'image resolution': 1}
+image_segmentation	{'image segmentation': 5}
+image_sensor	{'image sensor': 9}
+image_sequence	{'image sequences': 8}
+impedance	{'impedance': 1}
+imperial_Rome	{'imperial rome': 1}
+inclination	{'inclination': 1}
+incomplete_information	{'incomplete information': 31}
+independent	{'independent': 14}
+indeterminism	{'indeterminism': 1}
+index_structure	{'index structures': 38}
+indexing_Techniques	{'indexing techniques': 2}
+indexing_technique	{'indexing techniques': 8}
+inductive_Logic_Programming	{'inductive logic programming': 1}
+industrial	{'industrial': 19}
+industry	{'industry': 6}
+inertia	{'inertia': 1}
+infinite_set	{'infinite set': 1}
+infinitesimal	{'infinitesimal': 4}
+inflation	{'inflation': 1}
+information	{'information': 572}
+information_age	{'information age': 1}
+information_extraction	{'information extraction': 26}
+information_processing	{'information processing': 1}
+information_retrieval	{'information retrieval': 6}
+information_security	{'information security': 1}
+information_technology	{'information technology': 1}
+infrared	{'infrared': 4}
+infrastructure	{'infrastructure': 4}
+inheritance	{'inheritance': 18}
+initiative	{'initiative': 1}
+innovation	{'innovation': 1}
+input_/_output	{'input / output': 1}
+input_device	{'input device': 1}
+instructional_design	{'instructional design': 1}
+insurance	{'insurance': 1}
+integer	{'integer': 1}
+integral	{'integral': 1}
+integrate_circuit_design	{'integrated circuit design': 1}
+integrity_Constraints	{'integrity constraints': 2}
+integrity_constraint	{'integrity constraints': 10}
+intelligence	{'intelligence': 1}
+intelligent_system	{'intelligent systems': 1}
+intensifier	{'intensifier': 1}
+interactivity	{'interactivity': 7}
+internet	{'internet': 76}
+internet_access	{'internet access': 1}
+internet_marketing	{'internet marketing': 1}
+internet_service	{'internet service': 1}
+interpolation	{'interpolation': 13}
+intrusion_detection	{'intrusion detection': 1}
+inverse_function	{'inverse function': 1}
+investment	{'investment': 3}
+invocation	{'invocation': 1}
+irish	{'irish': 1}
+irradiance	{'irradiance': 4}
+iso	{'iso': 2}
+isosurface	{'isosurface': 25}
+isotropy	{'isotropy': 1}
+iterative_close	{'iterative closest': 4}
+japanese	{'japanese': 1}
+java	{'java': 1}
+jitter	{'jitter': 1}
+journal	{'journal': 2}
+k_Means_Clustering	{'k means clustering': 1}
+key_frame	{'key frame': 4}
+kinematic	{'kinematic': 3}
+knowledge	{'knowledge': 146}
+knowledge_base	{'knowledge base': 1}
+knowledge_base_system	{'knowledge based systems': 3}
+knowledge_management	{'knowledge management': 4}
+knowledge_representation	{'knowledge representation': 1}
+korean	{'korean': 1}
+label	{'label': 4, 'labels': 1}
+laboratory	{'laboratory': 3}
+lan	{'lans': 4}
+language	{'language': 399}
+laplacian	{'laplacian': 1}
+large_Scale	{'large scale': 1}
+large_scale	{'large scale': 13}
+laser	{'laser': 50}
+laser_beam	{'laser beam': 2}
+laser_rangefinder	{'laser rangefinder': 3}
+latitude	{'latitude': 1}
+lava_flow	{'lava flows': 1}
+law	{'law': 3}
+lead	{'lead': 1}
+leafs	{'leafs': 1}
+lecturer	{'lecturer': 1}
+led	{'led': 1, 'leds': 1}
+lens	{'lens': 1}
+level_Design	{'level design': 1}
+level_set	{'level set': 3}
+library	{'library': 14, 'libraries': 4}
+life	{'life': 8}
+light	{'light': 87}
+lightweight	{'lightweight': 2}
+linear_approximation	{'linear approximation': 1}
+linear_combination	{'linear combination': 2}
+linear_equation	{'linear equation': 1}
+linear_programming	{'linear programming': 2}
+linguist	{'linguists': 1}
+linguistic	{'linguistic': 6, 'linguistics': 1}
+list	{'listed': 1}
+literature	{'literature': 25}
+live	{'live': 9}
+lizard	{'lizard': 1}
+logarithmic	{'logarithmic': 6}
+logic	{'logic': 54}
+logic_Programming	{'logic programming': 1}
+logic_programming	{'logic programming': 29}
+long	{'long': 14}
+lossy	{'lossy': 4}
+low	{'lower': 4}
+low_pass	{'low pass': 1}
+luminance	{'luminance': 16}
+lung	{'lungs': 9, 'lung': 25}
+machine_Learning	{'machine learning': 2}
+machine_learning	{'machine learning': 12}
+machine_translation	{'machine translation': 1}
+macromolecular	{'macromolecular': 1}
+magnetic_Field	{'magnetic field': 1}
+magnetic_field	{'magnetic field': 4}
+magnitude	{'magnitude': 8}
+mail	{'mail': 1}
+mailing_list	{'mailing lists': 1}
+maintainability	{'maintainability': 1}
+major	{'major': 22}
+majority_vote	{'majority vote': 1}
+malicious_Software	{'malicious software': 1}
+malignant	{'malignant': 1}
+management	{'management': 33}
+management_science	{'management science': 1}
+manager	{'manager': 2}
+manifold	{'manifolds': 1, 'manifold': 2}
+manufacturing	{'manufacturing': 3}
+manuscript	{'manuscript': 4}
+marching	{'marching': 1}
+marketing	{'marketing': 2}
+marrow	{'marrow': 1}
+mass	{'mass': 1}
+math	{'math': 4}
+mathematic	{'mathematics': 312}
+mathematical	{'mathematical': 14}
+mathematical_induction	{'mathematical induction': 1}
+mathematical_model	{'mathematical model': 4}
+mathematical_morphology	{'mathematical morphology': 1}
+mathematician	{'mathematicians': 20}
+matter	{'matter': 1}
+maximum_likelihood	{'maximum likelihood': 1}
+maximum_likelihood_estimation	{'maximum likelihood estimation': 1}
+mechanic	{'mechanics': 1}
+medical	{'medical': 23}
+medical_diagnosis	{'medical diagnosis': 2}
+medical_imaging	{'medical imaging': 1}
+medicine	{'medicine': 2}
+medium	{'media': 3}
+megahertz	{'megahertz': 1}
+memory	{'memory': 35}
+mesh_model	{'mesh model': 26}
+message_passing	{'message passing': 2}
+metadata	{'metadata': 40}
+metal	{'metal': 1}
+metalanguage	{'metalanguage': 1}
+metaphor	{'metaphor': 27, 'metaphors': 1}
+metrology	{'metrology': 1}
+microbiology	{'microbiology': 1}
+microcontroller	{'microcontrollers': 1}
+microprocessor	{'microprocessor': 2}
+microscope	{'microscopes': 1}
+millennium	{'millennium': 1}
+mine	{'mining': 3}
+mini	{'mini': 1}
+minimum_description_Length	{'minimum description length': 1}
+mining	{'mining': 98}
+mirror	{'mirror': 1}
+mit	{'mit': 22}
+mix_reality	{'mixed reality': 2}
+mixed_Media	{'mixed media': 1}
+mixed_language	{'mixed language': 1}
+mixed_reality	{'mixed reality': 3}
+mixing	{'mixing': 2}
+mobile	{'mobile': 12}
+mobile_phone	{'mobile phones': 2}
+mobile_robot	{'mobile robot': 1}
+model	{'model': 969}
+model_checking	{'model checking': 3}
+model_selection	{'model selection': 5}
+model_theory	{'model theory': 1}
+modeling_language	{'modeling language': 6}
+modern_compiler	{'modern compiler': 3}
+molecule	{'molecules': 1}
+monocular	{'monocular': 8}
+monograph	{'monograph': 5}
+monoid	{'monoid': 1}
+monolith	{'monolith': 1}
+morphing	{'morphing': 14}
+mosaic	{'mosaic': 6}
+motion_control	{'motion control': 1}
+motion_estimation	{'motion estimation': 19}
+motivation	{'motivation': 2}
+motorcycle	{'motorcycles': 1}
+mouse	{'mouse': 1}
+move_object	{'moving objects': 2}
+moving_object	{'moving objects': 3}
+mpeg	{'mpeg': 1}
+mri	{'mri': 2}
+msc	{'msc': 1}
+multi_agent	{'multi agent': 18}
+multi_camera	{'multi camera': 8}
+multi_resolution	{'multi resolution': 13}
+multi_user	{'multi user': 1}
+multi_view	{'multi view': 9}
+multidimensional_database	{'multidimensional databases': 8}
+multimedia	{'multimedia': 15}
+multiple_Range	{'multiple range': 1}
+multiple_range	{'multiple range': 9}
+multiple_sequence_Alignment	{'multiple sequence alignment': 1}
+multiple_view	{'multiple views': 24, 'multiple view': 15}
+multiplexer	{'multiplexer': 1}
+muscle	{'muscle': 9}
+museum	{'museums': 1}
+music	{'music': 8}
+musical	{'musical': 1}
+mutual_exclusion	{'mutual exclusion': 1}
+mutual_information	{'mutual information': 2}
+narrowband	{'narrowband': 1}
+native	{'native': 1}
+natural_environment	{'natural environment': 1}
+natural_language	{'natural language': 42}
+natural_language_processing	{'natural language processing': 3}
+natural_science	{'natural sciences': 1}
+nature	{'nature': 10}
+navigation	{'navigation': 20}
+negation	{'negation': 2}
+neighborhood	{'neighborhood': 9}
+neighbour	{'neighbours': 1}
+neighbourhood	{'neighbourhood': 1}
+network_interface_controller	{'network interface controller': 1}
+neural_network	{'neural networks': 6, 'neural network': 4}
+news	{'news': 1}
+nice	{'nice': 1}
+nondeterministic	{'nondeterministic': 4}
+number_Theory	{'number theory': 1}
+number_theory	{'number theory': 1}
+numerical_Methods	{'numerical methods': 1}
+numerical_analysis	{'numerical analysis': 1}
+numerical_method	{'numerical methods': 1}
+nutrient	{'nutrients': 1}
+o2	{'o2': 4}
+object_/_relational	{'object / relational': 1}
+object_Database	{'object database': 1}
+object_Oriented	{'object oriented': 28}
+object_Oriented_Programming	{'object oriented programming': 3}
+object_Relational	{'object relational': 3}
+object_database	{'object database': 1}
+object_orient	{'object oriented': 70}
+object_orient_design	{'object oriented design': 1}
+object_orient_programming	{'object oriented programming': 8}
+object_orient_programming_language	{'object oriented programming language': 1}
+object_oriented	{'object oriented': 4}
+object_relational	{'object relational': 16}
+object_role_Modeling	{'object role modeling': 2}
+octree	{'octree': 13}
+oil	{'oil': 10}
+olap	{'olap': 10}
+omnidirectional	{'omnidirectional': 59}
+online_analytical_processing	{'online analytical processing': 1}
+online_transaction_processing	{'online transaction processing': 1}
+ontology	{'ontology': 5, 'ontologies': 7}
+open_source	{'open source': 5}
+open_source_software	{'open source software': 1}
+opengl	{'opengl': 1}
+operate_System	{'operating system': 2}
+operate_system	{'operating system': 5, 'operating systems': 1}
+operating_system	{'operating systems': 3, 'operating system': 2}
+optic	{'optics': 1}
+optical_axi	{'optical axis': 1}
+optical_axis	{'optical axis': 1}
+optical_flow	{'optical flow': 24}
+optical_microscopy	{'optical microscopy': 1}
+optimal_design	{'optimal design': 4}
+optimization_problem	{'optimization problem': 4}
+optoelectronic	{'optoelectronic': 1}
+orbit	{'orbit': 2}
+order	{'order': 110}
+ordination	{'ordination': 1}
+organic	{'organic': 1}
+organization	{'organization': 9}
+orient_database	{'oriented database': 2}
+orthogonality	{'orthogonality': 1}
+outlier	{'outliers': 11, 'outlier': 3}
+owl	{'owl': 1}
+p2p	{'p2p': 2}
+palatal	{'palatal': 1}
+palm	{'palm': 1}
+panorama	{'panorama': 1}
+paper	{'paper': 280}
+paper_currency	{'paper currency': 1}
+paradigm	{'paradigm': 6}
+parallel_Computing	{'parallel computing': 1}
+parallel_computing	{'parallel computing': 1}
+parallel_processing	{'parallel processing': 1}
+parallel_programming	{'parallel programming': 1}
+parametrization	{'parametrization': 1}
+parsing	{'parsing': 1}
+partial_differential_equation	{'partial differential equation': 1}
+particle	{'particle': 2}
+partition	{'partitions': 2, 'partition': 4}
+party	{'party': 1}
+pass	{'pass': 3}
+pc	{'pc': 3}
+peak	{'peak': 1}
+perception	{'perception': 2}
+perceptual	{'perceptual': 4}
+performance_improvement	{'performance improvement': 2}
+period	{'period': 1}
+perturbation	{'perturbation': 3}
+phase_change	{'phase change': 1}
+phd	{'phd': 5}
+philosophy	{'philosophy': 1}
+photography	{'photography': 3}
+photometric	{'photometric': 12}
+photon	{'photon': 1}
+photorealistic	{'photorealistic': 3}
+phrase_structure_grammar	{'phrase structure grammar': 1}
+physical_property	{'physical property': 1}
+physician	{'physicians': 1}
+physics	{'physics': 3}
+piecewise	{'piecewise': 19}
+pilot	{'pilot': 1}
+pinhole	{'pinhole': 1}
+pinhole_camera	{'pinhole camera': 2}
+pixel	{'pixel': 30, 'pixels': 15}
+planet	{'planet': 1}
+plaster	{'plaster': 6}
+poa	{'poa': 1}
+poco	{'poco': 1}
+point_cloud	{'point cloud': 13}
+pole	{'poles': 1}
+polygon	{'polygon': 5, 'polygons': 5}
+polyhedral	{'polyhedral': 1}
+polyhedron	{'polyhedron': 1}
+polynomial	{'polynomial': 74}
+portrait	{'portrait': 1}
+pose_estimation	{'pose estimation': 15}
+post_production	{'post production': 1}
+posterior_probability	{'posterior probability': 1}
+pottery	{'pottery': 1}
+pragmatic	{'pragmatics': 1}
+predicate_logic	{'predicate logic': 1}
+pressure	{'pressure': 1}
+primes	{'primes': 1}
+principal_component_analysis	{'principal component analysis': 4}
+printing	{'printing': 1}
+privacy	{'privacy': 36}
+private	{'private': 2}
+probabilistic_method	{'probabilistic method': 2}
+probability	{'probability': 4, 'probabilities': 4}
+probability_theory	{'probability theory': 1}
+problem_solving	{'problem solving': 1}
+procedural_programming	{'procedural programming': 1}
+process_control	{'process control': 1}
+product	{'products': 13}
+product_design	{'product design': 1}
+production	{'production': 10}
+professional	{'professional': 4}
+professor	{'professor': 5}
+program_transformation	{'program transformation': 1}
+programmer	{'programmer': 5}
+programming	{'programming': 52}
+programming_language	{'programming language': 27, 'programming languages': 5}
+project_management	{'project management': 1}
+projective	{'projective': 27}
+prolog	{'prolog': 11}
+property	{'property': 12}
+protein	{'protein': 6, 'proteins': 17}
+protein_Folding	{'protein folding': 1}
+proteus	{'proteus': 2}
+prototype	{'prototype': 15, 'prototypes': 5}
+psm	{'psm': 1}
+psychological	{'psychological': 2}
+psychology	{'psychology': 1}
+public	{'public': 4}
+public_library	{'public libraries': 1}
+purely_functional	{'purely functional': 1}
+pyramid	{'pyramid': 11}
+qos	{'qos': 2}
+quadratic_function	{'quadratic function': 1}
+quadric	{'quadric': 4}
+quadtree	{'quadtree': 1}
+quality_management	{'quality management': 1}
+quaternion	{'quaternion': 1, 'quaternions': 1}
+query_Processing	{'query processing': 2}
+query_language	{'query language': 13}
+query_optimization	{'query optimization': 8}
+query_processing	{'query processing': 7}
+question_answering	{'question answering': 1}
+r&d	{'r&d': 2}
+race	{'race': 2}
+radar	{'radars': 1, 'radar': 2}
+radial	{'radial': 1}
+radiance	{'radiance': 44}
+radio	{'radio': 2}
+radiometric	{'radiometric': 2}
+radiometry	{'radiometry': 9}
+ram	{'ram': 7}
+random_access	{'random access': 4}
+randomized	{'randomized': 14}
+randomness	{'randomness': 5}
+range	{'range': 451, 'ranges': 2}
+rapid_prototyping	{'rapid prototyping': 1}
+raster	{'raster': 2}
+ray	{'rays': 6}
+ray_tracing	{'ray tracing': 1}
+rdbms	{'rdbms': 1}
+reading	{'reading': 4}
+real_World	{'real world': 1}
+real_time_rendering	{'real time rendering': 1}
+real_world	{'real world': 28}
+reality	{'reality': 12}
+reconstruction	{'reconstruction': 289}
+recording	{'recording': 1}
+recursion	{'recursion': 6}
+recursively_enumerable_set	{'recursively enumerable set': 1}
+reference_frame	{'reference frame': 2}
+reference_manual	{'reference manual': 4}
+reflectance	{'reflectance': 40}
+refraction	{'refraction': 1}
+region	{'region': 33}
+regression	{'regression': 2}
+relational	{'relational': 37}
+relational_algebra	{'relational algebra': 2}
+relational_database	{'relational databases': 4, 'relational database': 8}
+relational_database_management_system	{'relational database management system': 1}
+relational_model	{'relational model': 42}
+relief	{'relief': 1}
+renormalization	{'renormalization': 1}
+repeatability	{'repeatability': 1}
+report	{'report': 4}
+requirement_Engineering	{'requirements engineering': 1}
+research	{'research': 72}
+resource_allocation	{'resource allocation': 1}
+restoration	{'restoration': 2}
+result	{'results': 251}
+reverse_engineering	{'reverse engineering': 1}
+revolution	{'revolution': 8}
+rhythm	{'rhythm': 1}
+rigid_body	{'rigid body': 2}
+risk	{'risk': 2}
+road	{'road': 17}
+robot	{'robots': 18, 'robot': 53}
+robotic_arm	{'robotic arm': 2}
+root	{'root': 1}
+rv	{'rvs': 1}
+safety	{'safety': 1}
+sand	{'sand': 4}
+sap_R/3	{'sap r/3': 1}
+satellite	{'satellites': 1}
+satellite_imagery	{'satellite imagery': 1}
+scaffolding	{'scaffolding': 1}
+scalability	{'scalability': 7}
+scalar_field	{'scalar field': 4}
+scale_model	{'scale model': 1}
+scale_space	{'scale space': 13}
+scalp	{'scalp': 4}
+scan_line	{'scan line': 1}
+scatter	{'scattering': 6}
+scattering	{'scattering': 6}
+science	{'science': 13}
+scientific_journal	{'scientific journals': 1}
+scientific_visualization	{'scientific visualization': 2}
+screen_printing	{'screen printing': 1}
+scripting	{'scripting': 1}
+scripting_language	{'scripting language': 4}
+sculpture	{'sculpture': 1}
+second_edition	{'second edition': 37}
+secondary	{'secondary': 3}
+secure_digital	{'secure digital': 1}
+security	{'security': 28}
+sediment	{'sediment': 1}
+seed	{'seed': 5}
+seine	{'seine': 1}
+self_reference	{'self reference': 1}
+semantic	{'semantics': 36, 'semantic': 50}
+semantic_web	{'semantic web': 5}
+semi_automatic	{'semi automatic': 1}
+semiotic	{'semiotic': 1}
+sensor	{'sensor': 49}
+sequence	{'sequence': 61}
+service_provider	{'service providers': 1}
+short	{'short': 3}
+short_path	{'shortest path': 1}
+signal_processing	{'signal processing': 2}
+silhouette	{'silhouette': 39}
+simply_connect	{'simply connected': 2}
+simulate_annealing	{'simulated annealing': 1}
+simulation	{'simulation': 17}
+simulink	{'simulink': 1}
+single	{'single': 60}
+skeleton	{'skeleton': 1}
+sketch	{'sketch': 2}
+skin	{'skin': 12}
+skull	{'skull': 16}
+slant	{'slant': 9}
+smoothness	{'smoothness': 3}
+snake	{'snake': 1}
+society	{'society': 5}
+software	{'software': 107}
+software_architecture	{'software architecture': 1}
+software_development	{'software development': 2}
+software_engineering	{'software engineering': 2}
+soil	{'soil': 1}
+solder	{'solder': 9}
+solution	{'solution': 48}
+sonar	{'sonar': 4}
+sound	{'sound': 3}
+sounder	{'sounder': 1}
+source_code	{'source code': 5}
+spacetime	{'spacetime': 1}
+spatial_frequency	{'spatial frequency': 1}
+spectrum	{'spectrum': 2}
+specular	{'specular': 21}
+specular_reflection	{'specular reflection': 2}
+speech_processing	{'speech processing': 1}
+speech_recognition	{'speech recognition': 2}
+speech_synthesis	{'speech synthesis': 5}
+sphere	{'sphere': 6}
+spherical_coordinate	{'spherical coordinates': 1}
+spherical_harmonic	{'spherical harmonics': 4, 'spherical harmonic': 2}
+spin	{'spin': 31}
+spirit	{'spirit': 2}
+spl	{'spl': 6}
+sport	{'sports': 1}
+sql	{'sql': 12}
+standard_deviation	{'standard deviation': 2}
+standard_library	{'standard library': 1}
+state	{'state': 28}
+statistic	{'statistics': 10}
+statistical_Methods	{'statistical methods': 1}
+statistical_method	{'statistical methods': 1}
+statistical_model	{'statistical model': 1}
+statistical_power	{'statistical power': 4}
+steady_State	{'steady state': 1}
+steady_state	{'steady state': 1}
+stereo	{'stereo': 243}
+stereo_camera	{'stereo camera': 2}
+stereoscopic	{'stereoscopic': 13}
+stochastic	{'stochastic': 43}
+stochastic_process	{'stochastic processes': 1}
+stratification	{'stratification': 1}
+streak	{'streaking': 1}
+stream	{'stream': 13}
+string	{'strings': 1}
+strip	{'strips': 1}
+structure_light	{'structured light': 3}
+structured_light	{'structured light': 19}
+student	{'student': 3}
+subframe	{'subframe': 1}
+subset	{'subset': 8}
+subsurface_scatter	{'subsurface scattering': 1}
+subtraction	{'subtraction': 5}
+sunlight	{'sunlight': 1}
+supercomputer	{'supercomputer': 1}
+superior	{'superior': 3}
+supply_chain	{'supply chain': 3}
+supply_chain_management	{'supply chain management': 4}
+surface_mount	{'surface mount': 1}
+surface_normal	{'surface normals': 12, 'surface normal': 8}
+surface_reconstruction	{'surface reconstruction': 23}
+surgery	{'surgery': 2}
+surveillance	{'surveillance': 2}
+sybase	{'sybase': 1}
+symbolic_computation	{'symbolic computation': 2}
+symmetry	{'symmetry': 3}
+synchrotron_light	{'synchrotron light': 1}
+synergy	{'synergy': 1}
+syntactic	{'syntactic': 2}
+syntactical	{'syntactical': 1}
+syntax	{'syntax': 17}
+system_Analysis	{'systems analysis': 1}
+system_Thinking	{'systems thinking': 1}
+system_analysis	{'systems analysis': 1}
+tangent	{'tangent': 4}
+target	{'target': 8}
+taxonomy	{'taxonomy': 1}
+teaching_hospital	{'teaching hospital': 1}
+technological_change	{'technological change': 1}
+technology	{'technology': 41}
+telecommunication	{'telecommunication': 5}
+telecommunications	{'telecommunications': 1}
+telephone	{'telephone': 1}
+television	{'television': 1}
+temporal_logic	{'temporal logic': 52}
+tennis	{'tennis': 1}
+tensor	{'tensor': 1}
+ternary	{'ternary': 4}
+terrestrial	{'terrestrial': 1}
+tessellation	{'tessellation': 1}
+tessera	{'tessera': 1}
+test	{'test': 17, 'tests': 9}
+test_case	{'test case': 4}
+testbed	{'testbed': 1}
+tetrahedral	{'tetrahedral': 1}
+textbook	{'textbook': 6}
+texture_mapping	{'texture mapping': 7}
+theodolite	{'theodolite': 1}
+theorem_proving	{'theorem proving': 2}
+theoretical_physic	{'theoretical physics': 1}
+thesaurus	{'thesaurus': 4}
+thesis	{'thesis': 24}
+topography	{'topography': 1}
+topological	{'topological': 14}
+topologically	{'topologically': 1}
+topology	{'topology': 14}
+torii	{'torii': 1}
+torus	{'torus': 1}
+tour	{'tour': 1}
+track	{'track': 5}
+trade	{'trade': 6}
+transfer_function	{'transfer function': 1}
+translation	{'translation': 16}
+translator	{'translator': 1}
+transport	{'transport': 1}
+tree	{'trees': 19, 'tree': 37}
+triangle	{'triangle': 4, 'triangles': 3}
+triangulation	{'triangulation': 5}
+trigonometric_function	{'trigonometric functions': 1}
+tripod	{'tripod': 1}
+tuple	{'tuple': 1}
+tv	{'tv': 2}
+typesetting	{'typesetting': 2}
+typography	{'typography': 1}
+ubiquitous_Computing	{'ubiquitous computing': 2}
+ultrasound	{'ultrasound': 1}
+uml	{'uml': 40}
+undecidable	{'undecidable': 2}
+undergraduate	{'undergraduate': 3}
+unified_Modeling_Language	{'unified modeling language': 1}
+union	{'union': 4}
+universal	{'universal': 19}
+university	{'university': 2, 'universities': 2}
+upper	{'upper': 1}
+urban	{'urban': 15}
+urban_area	{'urban area': 1, 'urban areas': 2}
+urban_planning	{'urban planning': 1}
+usability	{'usability': 13}
+user_interface	{'user interface': 5, 'user interfaces': 8}
+variable	{'variable': 6}
+variance	{'variance': 1}
+variety	{'variety': 17}
+vector	{'vector': 31}
+vector_field	{'vector field': 5, 'vector fields': 4}
+vector_space	{'vector space': 2}
+vegetation	{'vegetation': 1}
+velocity	{'velocity': 1}
+vibration	{'vibration': 1}
+video	{'video': 254}
+video_camera	{'video camera': 4}
+video_processing	{'video processing': 1}
+view_synthesis	{'view synthesis': 38}
+viral	{'viral': 1}
+virtual_Learning_Environment	{'virtual learning environment': 1}
+virtual_World	{'virtual world': 1}
+virtual_environment	{'virtual environments': 11, 'virtual environment': 4}
+virtual_machine	{'virtual machine': 1}
+virtual_memory	{'virtual memory': 27}
+virtual_reality	{'virtual reality': 12}
+virtual_world	{'virtual world': 2, 'virtual worlds': 1}
+virus	{'viruses': 4, 'virus': 36}
+visual_Hull	{'visual hull': 4}
+visual_communication	{'visual communication': 1}
+visual_effect	{'visual effects': 1}
+visual_hull	{'visual hull': 15}
+visual_perception	{'visual perception': 1}
+vocabulary	{'vocabulary': 1}
+volume_rendering	{'volume rendering': 1}
+von_Web_Anwendungen	{'von web anwendungen': 10}
+von_web_Anwendungen	{'von web anwendungen': 1}
+voxel	{'voxel': 27}
+war	{'war': 1}
+warping	{'warping': 2}
+water	{'water': 5}
+watermark	{'watermark': 1}
+watershed	{'watershed': 1}
+wave	{'wave': 2}
+wavelength_division_multiplexing	{'wavelength division multiplexing': 1}
+wavelet	{'wavelet': 26}
+wavelet_transform	{'wavelet transform': 1}
+web_Accessibility	{'web accessibility': 1}
+web_Anwendungen	{'web anwendungen': 1}
+web_Applications	{'web applications': 1}
+web_Based	{'web based': 2}
+web_application	{'web applications': 13}
+web_base	{'web based': 7}
+web_development	{'web development': 1}
+web_search	{'web search': 3}
+web_search_engine	{'web search engine': 1}
+website	{'websites': 1}
+western	{'western': 2}
+western_world	{'western world': 1}
+white_matter	{'white matter': 1}
+window	{'windows': 17}
+wire	{'wire': 5}
+wireless	{'wireless': 3}
+wireless_communication	{'wireless communication': 4}
+workaholic	{'workaholic': 1}
+workflow	{'workflow': 1}
+workstation	{'workstation': 1}
+world_wide_web	{'world wide web': 1}
+wysiwyg	{'wysiwyg': 4}
+xml	{'xml': 63}
+xslt	{'xslt': 1}

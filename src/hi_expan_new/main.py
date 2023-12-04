@@ -1,5 +1,10 @@
 import argparse
+import json
+import sys
 from collections import defaultdict
+
+import numpy as np
+
 from util import getMostProbableNodeIdx
 from dataLoader import loadEidToEntityMap, loadFeaturesAndEidMap, loadWeightByEidAndFeatureMap, \
     loadEntityEmbedding, loadEidDocPairPPMI
@@ -12,19 +17,19 @@ import pickle
 import os
 
 # the maximum size of output taxonomy tree
-level2max_children = {-1:15, 0:20, 1:40, 2:1e9, 3:1e9, 4:1e9, 5:1e9}
+level2max_children = {-1: 15, 0: 20, 1: 40, 2: 1e9, 3: 1e9, 4: 1e9, 5: 1e9}
 # the feature relative weights used for expanding a level x node's children
 level2source_weights = {
-    -1: {"sg":5.0, "tp":0.0, "eb":0.0},
-    0: {"sg":5.0, "tp":0.0, "eb":0.0},
-    1: {"sg":5.0, "tp":0.0, "eb":0.0},
-    2: {"sg":5.0, "tp":0.0, "eb":0.0},
-    3: {"sg":5.0, "tp":0.0, "eb":0.0},
-    4: {"sg":5.0, "tp":0.0, "eb":0.0},
-    5: {"sg":5.0, "tp":0.0, "eb":0.0},
+    -1: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    0: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    1: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    2: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    3: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    4: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
+    5: {"sg": 5.0, "tp": 0.0, "eb": 0.0},
 }
 # the maximum expanded entity number in each iteration under each node
-level2max_expand_eids = {-1: 3, 0:5, 1:5, 2:5, 3:5, 4:5, 5:5}
+level2max_expand_eids = {-1: 3, 0: 5, 1: 5, 2: 5, 3: 5, 4: 5, 5: 5}
 # the global level-wise reference_edges between each two levels
 level2reference_edges = defaultdict(list)
 
@@ -55,24 +60,26 @@ def isSynonym(args, eid1, eid2):
     return False
 
 
-def save_conflict_nodes(eidsWithConflicts, eid2nodes, conflict_nodes_file_path):
+def save_conflict_nodes(eidsWithConflicts, eid2nodes, conflict_nodes_file_path,
+                        eid2ename, eid2patterns, eidAndPattern2strength):
     with open(conflict_nodes_file_path, "w") as fout:
         fout.write("Number of conflict eids = %s\n" % len(eidsWithConflicts))
-        fout.write("="*80+"\n")
+        fout.write("=" * 80 + "\n")
         for eid in eidsWithConflicts:
             fout.write("Deal with conflict nodes with ename = %s, eid = %s\n" % (eid2ename[eid], eid))
             conflictNodes = eid2nodes[eid]
             for conflictNode in conflictNodes:
-                fout.write("    "+str(conflictNode)+"\n")
+                fout.write("    " + str(conflictNode) + "\n")
             mostProbableNodeIdx = getMostProbableNodeIdx(conflictNodes, eid2patterns, eidAndPattern2strength)
-            fout.write("!!!Most probable node:" + str(conflictNodes[mostProbableNodeIdx])+"\n")
-            fout.write("="*80+"\n")
+            fout.write("!!!Most probable node:" + str(conflictNodes[mostProbableNodeIdx]) + "\n")
+            fout.write("=" * 80 + "\n")
 
 
-if __name__ == "__main__":
+def main(args):
     parser = argparse.ArgumentParser(prog='main.py', description='Run HiExpan algorithm on input data')
 
     parser.add_argument('-data', type=str, default="sample_dataset", help='CorpusName')
+    parser.add_argument('-data_path', type=str, default=None, help='Corpus seed file path')
     parser.add_argument('-taxonPrefix', type=str, default="toy", help='Output Taxonomy Prefix')
     # Model Parameters
     parser.add_argument('-max-iter-tree', type=int, default=5,
@@ -83,10 +90,11 @@ if __name__ == "__main__":
                         help='use global reference edges or not, default is not use')
     parser.add_argument('-debug', action='store_true', default=False,
                         help='debug mode or not, default is not debug')
-    parser.add_argument('-num_initial_edge', type=int, default=1, help='number of each niece/nephew nodes for depth expansion')
+    parser.add_argument('-num_initial_edge', type=int, default=1,
+                        help='number of each niece/nephew nodes for depth expansion')
     parser.add_argument('-num_initial_node', type=int, default=3,
                         help='number of each node\'s initial children for depth expansion')
-    args = parser.parse_args()
+    args = parser.parse_args(args)
 
     print("=== Start loading data ...... ===")
     folder = '../../data/' + args.data + '/intermediate/'
@@ -100,12 +108,20 @@ if __name__ == "__main__":
     print("=== Finish loading data ...... ===")
 
     print("=== Start loading seed supervision ...... ===")
-    userInput = load_seeds(args.data)
+    if args.data_path is None:
+        userInput = load_seeds(args.data)
+    else:
+        with open(args.data_path, "r") as f:
+            userInput = json.load(f)
     if len(userInput) == 0:
         print("Terminated due to no user seed. Please specify seed taxonomy in seedLoader.py")
         exit(-1)
 
     stopLevel = max([ele[1] for ele in userInput]) + 1
+    max_nodes_per_level = [mc**i for i, mc in enumerate(level2max_children.values())]
+    max_nodes_total = sum(max_nodes_per_level[:stopLevel])
+    print("Max nodes per level:", max_nodes_per_level)
+    print("Max nodes total:", max_nodes_total)
     synonyms_KB = set([])
     args.synonyms_KB = synonyms_KB
 
@@ -129,12 +145,15 @@ if __name__ == "__main__":
             if ename in ename2treeNode:  # existing node
                 parent_treeNode = ename2treeNode[ename]
                 for children in childrens:
-                    newNode = TreeNode(parent=parent_treeNode, level=parent_treeNode.level + 1, eid=ename2eid[children],
-                                       ename=children, isUserProvided=True, confidence_score=0.0,
-                                       max_children=level2max_children[parent_treeNode.level + 1])
-                    ename2treeNode[children] = newNode
-                    parent_treeNode.addChildren([newNode])
-                    level2reference_edges[parent_treeNode.level].append((parent_treeNode.eid, newNode.eid))
+                    try:
+                        newNode = TreeNode(parent=parent_treeNode, level=parent_treeNode.level + 1, eid=ename2eid[children],
+                                           ename=children, isUserProvided=True, confidence_score=0.0,
+                                           max_children=level2max_children[parent_treeNode.level + 1])
+                        ename2treeNode[children] = newNode
+                        parent_treeNode.addChildren([newNode])
+                        level2reference_edges[parent_treeNode.level].append((parent_treeNode.eid, newNode.eid))
+                    except:
+                        print(f"WARNING: tree node {children} is not in entity2id.txt")
             else:  # not existing node
                 print("[ERROR] disconnected tree node: %s" % node)
     print("=== Finish loading seed supervision ...... ===")
@@ -154,8 +173,9 @@ if __name__ == "__main__":
     while update:
         eid2nodes = {}
         eidsWithConflicts = set()
-        targetNodes = [rootNode] # targetNodes includes all parent nodes to expand
+        targetNodes = [rootNode]  # targetNodes includes all parent nodes to expand
         while len(targetNodes) > 0:
+            print(f"[INFO: Parent nodes to expand]: {len(targetNodes)}")
             # expand childrens under current targetnode
             targetNode = targetNodes[0]
             targetNodes = targetNodes[1:]
@@ -171,6 +191,7 @@ if __name__ == "__main__":
 
             # targetNode is already leaf node, stop expanding
             if targetNode.level >= stopLevel:
+                print("[INFO: Reach maximum depth at node]:", targetNode)
                 continue
 
             # targetNode has enough children, just add children to be consider, stop expanding
@@ -194,23 +215,24 @@ if __name__ == "__main__":
                     seedChildEid = seedChildren[0]
                     seedChildEname = seedChildren[1]
                     confidence_score = (targetNode.confidence_score + math.log(seedChildren[2]))
-                    if seedChildEid != targetNode.eid:
-                        seedOrderedChildren.append(TreeNode(parent=targetNode, level=targetNode.level+1, eid=seedChildEid,
-                                                      ename=seedChildEname, isUserProvided=False,
-                                                      confidence_score=confidence_score,
-                                                      max_children=level2max_children[targetNode.level+1]))
+                    if seedChildEid != targetNode.eid and not np.isnan(confidence_score):
+                        seedOrderedChildren.append(
+                            TreeNode(parent=targetNode, level=targetNode.level + 1, eid=seedChildEid,
+                                     ename=seedChildEname, isUserProvided=False,
+                                     confidence_score=confidence_score,
+                                     max_children=level2max_children[targetNode.level + 1]))
                         level2reference_edges[targetNode.level].append((targetNode.eid, seedChildEid))
                 targetNode.addChildren(seedOrderedChildren)
 
             # Wide expansion: obtain ordered new childrenEids
             seedEidsWithConfidence = [(child.eid, child.confidence_score) for child in targetNode.children]
             negativeSeedEids = targetNode.restrictions
-            negativeSeedEids.add(targetNode.eid) # add parent eid as negative example into SetExpan
+            negativeSeedEids.add(targetNode.eid)  # add parent eid as negative example into SetExpan
             if args.debug:
                 print("[Width Expansion] Expand: {}, restrictions: {}".format(targetNode, negativeSeedEids))
 
             # at least grow one node
-            max_expand_eids = max(len(negativeSeedEids)+1, level2max_expand_eids[targetNode.level])
+            max_expand_eids = max(len(negativeSeedEids) + 1, level2max_expand_eids[targetNode.level])
             newOrderedChildrenEidsWithConfidence = setExpan(seedEidsWithConfidence, negativeSeedEids, eid2patterns,
                                                             pattern2eids, eidAndPattern2strength, eid2types, type2eids,
                                                             eidAndType2strength, eid2ename, eid2embed,
@@ -229,19 +251,20 @@ if __name__ == "__main__":
                         synonym_FLAG = True
                         if args.debug:
                             print("\t\t[Synonym] Find a pair of synonyms: <%s (%s), %s (%s)>" % (
-                            sibling.ename, sibling.eid, eid2ename[newChildEid], newChildEid))
+                                sibling.ename, sibling.eid, eid2ename[newChildEid], newChildEid))
                         break
                 if synonym_FLAG:  # bypass those synonym nodes
                     continue
 
-                newChild = TreeNode(parent=targetNode, level=targetNode.level + 1, eid=newChildEid,
-                                    ename=eid2ename[newChildEid], isUserProvided=False,
-                                    confidence_score=confidence_score,
-                                    max_children=level2max_children[targetNode.level + 1])
+                if not np.isnan(confidence_score):
+                    newChild = TreeNode(parent=targetNode, level=targetNode.level + 1, eid=newChildEid,
+                                        ename=eid2ename[newChildEid], isUserProvided=False,
+                                        confidence_score=confidence_score,
+                                        max_children=level2max_children[targetNode.level + 1])
 
-                if args.debug:
-                    print("        Obtain node with ename=%s, eid=%s" % (eid2ename[newChildEid], newChildEid))
-                newOrderedChildren.append(newChild)
+                    if args.debug:
+                        print("        Obtain node with ename=%s, eid=%s" % (eid2ename[newChildEid], newChildEid))
+                    newOrderedChildren.append(newChild)
             targetNode.addChildren(newOrderedChildren)
 
             # Add its children as in the queue
@@ -254,7 +277,8 @@ if __name__ == "__main__":
 
         rootNode.saveToFile(taxonomy_file_path)
         taxonomy_pickle_path = "../../data/{}/results/{}/taxonomy_iter_{}_preprune.pickle".format(args.data,
-                                                                                             args.taxonPrefix, iters)
+                                                                                                  args.taxonPrefix,
+                                                                                                  iters)
         with open(taxonomy_pickle_path, "wb") as fout:
             pickle.dump(rootNode, fout, protocol=pickle.HIGHEST_PROTOCOL)
 
@@ -264,9 +288,12 @@ if __name__ == "__main__":
             rootNode.printSubtree(0)
             print("[INFO] Number of conflict eids at iteration %s = %s" % (iters, len(eidsWithConflicts)))
             conflict_nodes_file_path = "../../data/{}/results/{}/taxonomy_iter_{}_conflict_nodes.txt".format(args.data,
-                                                                                                 args.taxonPrefix,
-                                                                                                 iters)
-            save_conflict_nodes(eidsWithConflicts, eid2nodes, conflict_nodes_file_path)
+                                                                                                             args.taxonPrefix,
+                                                                                                             iters)
+            save_conflict_nodes(eidsWithConflicts, eid2nodes, conflict_nodes_file_path,
+                                eid2ename=eid2ename,
+                                eid2patterns=eid2patterns,
+                                eidAndPattern2strength=eidAndPattern2strength)
 
         # check conflicts
         nodesToDelete = []
@@ -274,9 +301,9 @@ if __name__ == "__main__":
             conflictNodes = eid2nodes[eid]
             mostProbableNodeIdx = getMostProbableNodeIdx(conflictNodes, eid2patterns, eidAndPattern2strength)
             for i in range(len(conflictNodes)):
-              if i == mostProbableNodeIdx:
-                continue
-              nodesToDelete.append(conflictNodes[i])
+                if i == mostProbableNodeIdx:
+                    continue
+                nodesToDelete.append(conflictNodes[i])
 
         for node in nodesToDelete:
             node.parent.cutFromChild(node)
@@ -304,3 +331,8 @@ if __name__ == "__main__":
     with open(taxonomy_pickle_path, "wb") as fout:
         pickle.dump(rootNode, fout, protocol=pickle.HIGHEST_PROTOCOL)
     rootNode.saveToFile(taxonomy_file_path)
+    return rootNode
+
+
+if __name__ == "__main__":
+    main(args=sys.argv)

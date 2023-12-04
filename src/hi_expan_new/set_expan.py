@@ -18,7 +18,7 @@ TOP_K_TYPE = 50
 # TOP_K_EID is the number of candidate entities that we considered to calculate mrr score during each ranking pass.
 TOP_K_EID = 30
 # MAX_ITER_SET is the maximum number of expansion iterations, in HiExpan, it is set to 1
-MAX_ITER_SET = 5
+MAX_ITER_SET = 1
 # SAMPLES is the ensemble number, in HiExpan, it is set to 1
 SAMPLES = 1
 # THRES_MRR is the threshold that determines whether a new entity will be included in the set or not
@@ -86,8 +86,8 @@ def sim_sib(eid1, eid2, eid2patterns, pattern2eids, eidAndPattern2strength, eid2
     redundantSkipgrams = set()
     for i in skipgram_features:
         size = len(pattern2eids[i])
-    if size < FLAGS_SG_POPULARITY_LOWER or size > FLAGS_SG_POPULARITY_UPPER:
-        redundantSkipgrams.add(i)
+        if size < FLAGS_SG_POPULARITY_LOWER or size > FLAGS_SG_POPULARITY_UPPER:
+            redundantSkipgrams.add(i)
     for sg in redundantSkipgrams:
         del skipgram_features[sg]
 

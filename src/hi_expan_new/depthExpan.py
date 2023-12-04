@@ -65,9 +65,17 @@ def find_target_embedding_using_edges(reference_edges, target_id, eid2embed, emb
     """
     offset = np.zeros([1, embed_dim])
     for edge in reference_edges:
-        offset += (eid2embed[edge[0]] - eid2embed[edge[1]])
+        try:
+            offset += (eid2embed[edge[0]] - eid2embed[edge[1]])
+        except:
+            pass
+    if len(reference_edges) <= 0:
+        return np.zeros([1, embed_dim])
     offset /= (len(reference_edges))
-    target_embed = eid2embed[target_id] - offset
+    try:
+        target_embed = eid2embed[target_id] - offset
+    except:
+        return np.zeros([1, embed_dim])
     return target_embed
 
 

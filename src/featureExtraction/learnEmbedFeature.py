@@ -91,7 +91,7 @@ def trim_rule(word, count, min_count):
         return gensim.utils.RULE_DEFAULT
 
 
-def extract_entity_embed_and_save(model, output_file):
+def extract_entity_embed_and_save(model, output_file, other_entities=None):
     def match_rule(word):
         if re.match(r"^entity\d+$", word):
             return True
@@ -99,10 +99,10 @@ def extract_entity_embed_and_save(model, output_file):
             return False
 
     model_size = model.vector_size
-    vocab_size = len([word for word in model.wv.vocab if match_rule(word)])
+    vocab_size = len([word for word in model.wv.key_to_index if match_rule(word)])
     print("Saving embedding: model_size=%s,vocab_size=%s" % (model_size, vocab_size))
     with open(output_file, 'w') as f:
-        for word in model.wv.vocab:
+        for word in model.wv.key_to_index:
             if match_rule(word):
                 vector_string = " ".join([str(ele) for ele in list(model.wv[word])])
                 f.write("{} {}\n".format(word[6:], vector_string))
@@ -127,8 +127,8 @@ if __name__ == "__main__":
     Pass through the corpus 5 iterations and set local context window length = 5, negative sample size = 12.
     Other related setting please refer to: https://radimrehurek.com/gensim/models/word2vec.html
     """
-    model = Word2Vec(sentences, size=100, sg=1, hs=0, negative=12, window=5, min_count=5, workers=num_thread,
-                     alpha=0.025, min_alpha=0.025 * 0.0001, sample=1e-3, iter=5, trim_rule=trim_rule)
+    model = Word2Vec(sentences, vector_size=100, sg=1, hs=0, negative=12, window=5, min_count=5, workers=num_thread,
+                     alpha=0.025, min_alpha=0.025 * 0.0001, sample=1e-3, epochs=5, trim_rule=trim_rule)
     extract_entity_embed_and_save(model, saveFilePath)
 
 

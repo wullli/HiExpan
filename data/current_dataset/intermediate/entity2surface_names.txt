@@ -1,0 +1,1808 @@
+34 fat Quark	{}
+5 Grain Flakes	{}
+6 Grain Grits	{}
+Acacia	{'acacia': 1}
+Acacia Honey	{}
+Agar	{'agar': 2}
+Agar Agar	{}
+Agave	{'agave': 1}
+Agave syrup	{}
+Aids	{'aids': 1}
+Ajvar	{'ajvar': 2}
+Ajvar Falafel	{}
+Alcoholic beverages	{}
+Allium	{'allium': 1}
+Almond	{'almond': 10}
+Almond cookies	{}
+Almond drink	{}
+Almond liqueur	{}
+Almond mush	{}
+Amaranth	{'amaranth': 1}
+Amaretti	{}
+Anglique	{}
+Animal	{'animal': 1}
+Animal fats	{}
+Anise	{'anise': 2}
+Anise Liqueur	{}
+Aonori	{}
+Appenzeller	{}
+Appenzeller Siedwurst	{}
+Apple	{'apple': 7}
+Apple Spritzer	{}
+Apple cider vinegar	{}
+Apple wine	{}
+Apple_cider	{'apple cider': 1}
+Applesauce	{}
+Apricot	{'apricot': 4}
+Apricot Brandy	{}
+Apricot Mustard	{}
+Apricot jam	{}
+Aronia Berry Powder	{}
+Artichoke bottom	{}
+Arugula Sprout	{}
+Asiago	{'asiago': 1}
+Asian	{'asian': 1}
+Asian Pasta	{}
+Asparagus	{'asparagus': 3}
+Asparagus bean	{}
+Avocado	{'avocado': 1}
+BBQ Coffee Cocoa Rub	{}
+Baby Potato	{}
+Baby corn	{}
+Bagel	{'bagel': 2}
+Bagel dough	{}
+Baguette	{'baguette': 1}
+Baking Decorations	{}
+Baking Marzipan	{}
+Baking Soda	{}
+Baking acids	{}
+Baking mix	{}
+Baking powder	{}
+Baking_Soda	{'baking soda': 1}
+Baking_powder	{'baking powder': 1}
+Balsamic Cream	{}
+Balsamic Vinegar Pearls	{}
+Balsamic Vinegar With Fig Flavor	{}
+Balsamic vinegar	{}
+Balsamic_Vinegar	{'balsamic vinegar': 2}
+Balsamic_vinegar	{'balsamic vinegar': 2}
+Bamboo Shoot	{}
+Bamboo_Shoot	{'bamboo shoot': 1}
+Banana	{'banana': 3}
+Banana Mango Quark	{}
+Banana flour	{}
+Barbecue Sauce	{}
+Barbecue_Sauce	{'barbecue sauce': 1}
+Basic	{'basic': 1}
+Basic Sauces	{}
+Batavia	{'batavia': 1}
+Batavia lettuce	{}
+Bay_Leaf	{'bay leaf': 1}
+Bean	{'bean': 1}
+Bear Cheese Happily	{}
+Beaver	{'beaver': 1}
+Beef	{'beef': 13}
+Beef Ribeye	{}
+Beef bouillon cubes	{}
+Beef cheeks	{}
+Beef escalopes	{}
+Beef liver	{}
+Beef marrow bones	{}
+Beef rump	{}
+Beef sausage	{}
+Beef sirloin	{}
+Beef sirloin steak	{}
+Beef stew	{}
+Beer	{'beer': 1}
+Beer Apple Wine	{}
+Beer sausage	{}
+Beetroot	{'beetroot': 1}
+Beetroot juice	{}
+Beetroot salad	{}
+Beetroot sprouts	{}
+Bell Bernerli	{}
+Bell Chiporosa	{}
+Bell Pepper Chips	{}
+Bell_Pepper	{'bell pepper': 1}
+Bell_Peppers	{'bell peppers': 1}
+Bell_pepper	{'bell pepper': 1}
+Beluga	{'beluga': 1}
+Beluga Lentil	{}
+Berries	{}
+Berry Juice	{}
+Betty Bossi Baking Flour	{}
+Betty Bossi Chocolate Shavings	{}
+Betty Bossi Lets Cook Market Vegetables	{}
+Betty Bossi Risotto Milanese	{}
+Betty Bossi Vanilla Paste	{}
+Biscuit	{'biscuit': 2}
+Bitter liqueur	{}
+Black	{'black': 7}
+Black Mustard Seed	{}
+Black Nut	{}
+Black Olive	{}
+Black Pepper	{}
+Black Sesame	{}
+Black Truffle in Oil	{}
+Black Trumpet	{}
+Black Venere Rice	{}
+Black_Tea	{'black tea': 1}
+Blackberry	{'blackberry': 4}
+Blackberry Jam	{}
+Blackberry Jelly	{}
+Blackberry Sorbet	{}
+Blackcurrant	{'blackcurrant': 1}
+Blackcurrant Jelly	{}
+Blackcurrant syrup	{}
+Blanc battu	{}
+Blini	{}
+Bloderchs	{}
+Blood	{'blood': 1}
+Blood Orange Juice	{}
+Blood Orange Yogurt Ice Cream	{}
+Blood orange	{}
+Blood sausage	{}
+Blood_Orange	{'blood orange': 1}
+Blue	{'blue': 2}
+Blue Chips	{}
+Blue Curaao	{}
+Blue Grape	{}
+Blue cheese	{}
+Blue mussel	{}
+Blue_chip	{'blue chips': 1}
+Blueberry	{'blueberry': 3}
+Blueberry jam	{}
+Bndner Rteli	{}
+Bndnerfleisch	{}
+Boiled Potatoes	{}
+Boiled wine	{}
+Bolognese	{'bolognese': 1}
+Bolognese Sauce	{}
+Bone	{'bone': 1}
+Bonito	{'bonito': 1}
+Bonito Flakes	{}
+Bouillon	{'bouillon': 1}
+Braided flour	{}
+Branchli	{}
+Brandy	{'brandy': 2}
+Bratwurst	{'bratwurst': 1}
+Bread	{'bread': 6}
+Bread Baked Goods	{}
+Bread roll	{}
+Bread spreads	{}
+Bread_roll	{'bread roll': 1}
+Breakfast flakes	{}
+Breast	{'breast': 1}
+Bresaola	{'bresaola': 1}
+Brie	{'brie': 1}
+Brioche	{'brioche': 1}
+Brli	{}
+Broad Beans	{}
+Broad bean	{}
+Broth	{'broth': 1}
+Broth Powder Cubes	{}
+Broths	{}
+Brown Mushroom	{}
+Brown rock sugar	{}
+Brownie	{}
+Brownie Baking Mix	{}
+Brussels sprouts	{}
+Buckwheat flour	{}
+Buckwheat wholemeal flour	{}
+Buffalo	{'buffalo': 1}
+Buffalo Mozzarella	{}
+Bulgur	{'bulgur': 1}
+Buttenmost	{}
+Butter	{'butter': 7}
+Butter Mailnderli Dough	{}
+Butter Margarine	{}
+Butter cookies	{}
+Buttermilk	{'buttermilk': 2}
+Butternut Squash	{}
+Button flour	{}
+Cabbage	{'cabbage': 1}
+Cacao	{'cacao': 1}
+Cacao Nibs	{}
+Cachaa	{}
+Cailler Branches Crmant	{}
+Cailler Cuisine Chocolate Powder	{}
+Cailler Cuisine Milk	{}
+Cailler Cuisine Noir 64	{}
+Cailler Frigor Milk Squares	{}
+Cake	{'cake': 4}
+Cakes	{}
+Calvados	{'calvados': 1}
+Camembert	{'camembert': 1}
+Candied Cherry	{}
+Candied Citrus Peel	{}
+Candied Fruits	{}
+Candied Ginger	{}
+Candied Nuts	{}
+Candied Orange Slice	{}
+Candied Pineapple	{}
+Candied peel	{}
+Candied sugar	{}
+Canned Borlotti Beans	{}
+Canned Vegetables	{}
+Canned White Soisson Beans	{}
+Canned adzuki beans	{}
+Canned chickpeas	{}
+Canned compote pears	{}
+Canned fruit	{}
+Canned mushrooms marinated in oil	{}
+Canned pearl onions	{}
+Canned soybean	{}
+Cantucci	{}
+Caramel	{'caramel': 6}
+Caramel Cookies	{}
+Caramel Liqueur	{}
+Caramel Popcorn	{}
+Caramel Spread	{}
+Caraway	{'caraway': 1}
+Caraway powder	{}
+Cardamom	{'cardamom': 1}
+Cardamom pod	{}
+Cardamom powder	{}
+Carob	{'carob': 1}
+Carob gum	{}
+Carrot	{'carrot': 2}
+Carrot juice	{}
+Carrots	{'carrots': 1}
+Cashew	{'cashew': 3}
+Cashew Drink	{}
+Cashew Mues	{}
+Cashew Nut	{}
+Cashew_Nut	{'cashew nut': 2}
+Catalogna	{}
+Caul	{'caul': 1}
+Caul fat	{}
+Cauliflower	{'cauliflower': 2}
+Cauliflower rice	{}
+Caviar	{'caviar': 1}
+Cayenne Pepper	{}
+Cayenne_Pepper	{'cayenne pepper': 1}
+Celery stalk leaf	{}
+Cereal	{}
+Champagne	{'champagne': 2}
+Champagne Demi Sec	{}
+Chard	{'chard': 1}
+Cheese	{'cheese': 5}
+Cheesecake mix	{}
+Cherry	{'cherry': 6}
+Cherry Jam	{}
+Cherry Tomato	{}
+Chicken	{'chicken': 4}
+Chicken leg	{}
+Chicken liver	{}
+Chicken meat	{}
+Chickpea	{'chickpea': 1}
+Chickpea flour	{}
+Chicory	{'chicory': 1}
+Childrens Schoko Bons	{}
+Chili	{'chili': 5}
+Chili Oil	{}
+Chili Raclette Cheese	{}
+Chili Veal Sausage	{}
+Chili paste	{}
+Chili peppers	{}
+Chili_sauce	{'chili sauce': 1}
+China	{'china': 1}
+Chinese cabbage	{}
+Chips	{}
+Chocolate	{'chocolate': 8}
+Chocolate Biscuit	{}
+Chocolate Chip Cookie	{}
+Chocolate Drops	{}
+Chocolate covered coffee bean	{}
+Chocolate decoration	{}
+Chocolate discs with peppermint cream filling	{}
+Chocolate sprinkles	{}
+Chocolate waffles	{}
+Chocolate_Chip_Cookie	{'chocolate chip cookie': 1}
+Chocolates	{}
+Chorizo	{'chorizo': 1}
+Ciabatta	{}
+Cicorino Rosso	{}
+Cicorino verde	{}
+Cima di rapa	{}
+Cinnamon	{'cinnamon': 2}
+Cinnamon sugar	{}
+Citric Acid	{}
+Citric_Acid	{'citric acid': 1}
+Citron	{'citron': 1}
+Citron Lemon	{}
+Citrus	{'citrus': 1}
+Citrus fruit peels	{}
+Citrus fruits	{}
+Citrus_fruit	{'citrus fruit': 1, 'citrus fruits': 1}
+Clam	{'clam': 1}
+Clear Gloss Jelly	{}
+Clementine	{'clementine': 2}
+Clementine Juice	{}
+Clove	{'clove': 1}
+Coarse grained salt	{}
+Coarse oat flakes	{}
+Cocktail	{'cocktail': 1}
+Cocktail Cherry	{}
+Coconut	{'coconut': 9}
+Coconut Calamansi Syrup	{}
+Coconut Thyme	{}
+Coconut Yogurt	{}
+Coconut blossom sugar	{}
+Coconut chip	{}
+Coconut cream	{}
+Coconut flour	{}
+Coconut liqueur	{}
+Coconut oil	{}
+Coconut_cream	{'coconut cream': 1}
+Coconut_oil	{'coconut oil': 1}
+Cod	{'cod': 1}
+Cod Similar	{}
+Cod fillet	{}
+Coffee	{'coffee': 2}
+Coffee Liqueur	{}
+Coffee cream	{}
+Cola drink	{}
+Cold cuts	{}
+Colored Hard Candy	{}
+Colored Marzipan	{}
+Colored Modeling Marzipan	{}
+Colored Pasta	{}
+Condensed milk	{}
+Confectionery	{'confectionery': 1}
+Confectionery powder	{}
+Confi Vite	{}
+Cooked Giant Shrimp	{}
+Cooked Ham	{}
+Cooked Rice	{}
+Cooked Yellow Lentil	{}
+Cooked beetroot	{}
+Cooked vegetables	{}
+Cookies	{}
+Cooking	{'cooking': 2}
+Cooking Baking Aids	{}
+Cooking chocolate	{}
+Coop Jam Sugar	{}
+Coquelet	{}
+Coriander	{'coriander': 1}
+Coriander seeds	{}
+Corn	{'corn': 3}
+Corn Germ Oil	{}
+Corn Tortilla Wrap	{}
+Corn fed Chicken Breast	{}
+Corn wafer	{}
+Cornelian cherry	{}
+Cornichon	{}
+Cornmeal	{'cornmeal': 2}
+Cottage cheese	{}
+Cotton Candy	{}
+Cotton_candy	{'cotton candy': 1}
+Couscous	{'couscous': 1}
+Couverture Drops	{}
+Cracker	{}
+Cranberry	{'cranberry': 3}
+Cream	{'cream': 6}
+Cream Cheese	{}
+Cream Cheese With Pepper	{}
+Cream holder	{}
+Cream_Cheese	{'cream cheese': 5}
+Crema	{'crema': 1}
+Crema di Pomodori	{}
+Creole Rice	{}
+Cress	{}
+Crispbread	{}
+Crispbreads	{}
+Crme frache with herbs	{}
+Crodino	{}
+Croissant	{'croissant': 1}
+Cruciferous	{}
+Crunchy muesli	{}
+Crustaceans	{'crustaceans': 1}
+Crusty wreath	{}
+Cumin	{'cumin': 1}
+Cumin powder	{}
+Cumin seeds	{}
+Curd	{'curd': 3}
+Curly endive	{}
+Currant	{'currant': 1}
+Curry	{'curry': 4}
+Curry Tofu	{}
+Curry_Powder	{'curry powder': 1}
+Cutlet	{'cutlet': 1}
+Cuttlefish Ink	{}
+Cynar	{}
+Dairy	{'dairy': 2}
+Dairy Powder	{}
+Dairy Products Dairy Substitute Products	{}
+Dairy_Products	{'dairy products': 1}
+Dandelion	{}
+Dark Almond Butter	{}
+Dark Beer	{}
+Dark Bread	{}
+Dark Cake Biscuit Base	{}
+Dark Cake Glaze	{}
+Dark Chocolate	{}
+Dark chocolate with caramel and salt	{}
+Dashi	{'dashi': 1}
+Date Sweetness	{}
+Date syrup	{}
+Deep felt Borlotti Bean	{}
+Deep frozen chestnut	{}
+Deep frozen hake	{}
+Deep frozen peas	{}
+Deep frozen rose hips	{}
+Deep frozen rowanberry	{}
+Delicatessen	{'delicatessen': 1}
+Delicatessen Paprika	{}
+Dessert	{'dessert': 1}
+Dessert Bdeli	{}
+Desserts	{}
+Dextrose	{'dextrose': 1}
+Dijon	{'dijon': 1}
+Dijon Mustard	{}
+Dlicorn Minced	{}
+Dlicorn Sausage	{}
+Dlicorn Schnitzel	{}
+Dlicorn Sliced	{}
+Double Cream of Gruyre and Meringues Ice Cream	{}
+Double cream	{}
+Double cream soft cheese with blue mold	{}
+Dough	{'dough': 4}
+Dried Apple	{}
+Dried Basil	{}
+Dried Bay Leaf	{}
+Dried Blueberry	{}
+Dried Borlotti Beans	{}
+Dried Cherry	{}
+Dried Cranberry	{}
+Dried Green Lentils	{}
+Dried Herbs	{}
+Dried Lemon Verbena	{}
+Dried Mango	{}
+Dried Morel	{}
+Dried Mu Err Mushroom	{}
+Dried Oregano	{}
+Dried Papaya	{}
+Dried Pineapple	{}
+Dried Red Lentils	{}
+Dried Rosemary	{}
+Dried Shiitake Mushroom	{}
+Dried Soybean	{}
+Dried Tamarind	{}
+Dried Tomato	{}
+Dried Vegetables	{}
+Dried Yellow Lentils	{}
+Dried apricot	{}
+Dried bean	{}
+Dried coconut meat	{}
+Dried fig	{}
+Dried fruits	{}
+Dried pear	{}
+Dried porcini mushroom	{}
+Dry Pasta	{}
+Dry Sherry	{}
+Dry Sparkling Wine	{}
+Dry White Wine	{}
+Dry yeast	{}
+Duck	{'duck': 2}
+Duck breast	{}
+Duck meat	{}
+Dukkah	{}
+Durum Wheat Semolina	{}
+Durum_Wheat	{'durum wheat': 1}
+Dwarf Pumpkin	{}
+Early potato	{}
+Edamame	{'edamame': 1}
+Edible Flower Mix	{}
+Edible paper	{}
+Egg	{'egg': 4}
+Egg mushroom	{}
+Egg yolk	{}
+Eggs	{}
+Einback	{}
+Elderflower Syrup	{}
+Emmental	{'emmental': 1}
+Emmi Gala Cheese	{}
+Epifin Wheat Starch	{}
+Erythritol	{'erythritol': 1}
+Espelette Pepper Powder	{}
+Falafel	{'falafel': 2}
+Farmers bacon	{}
+Farmers flour	{}
+Farmers sausage	{}
+Farmhouse bread	{}
+Fat free beef bouillon powder	{}
+Fat free vegetable broth	{}
+Fennel	{'fennel': 1}
+Fenugreek	{'fenugreek': 1}
+Fermented Seasonings	{}
+Feta	{'feta': 1}
+Feta Cheese	{}
+Feta_Cheese	{'feta cheese': 1}
+Fibrex Sugar Beet Fiber	{}
+Fig	{}
+Fig Mustard	{}
+Fillings	{}
+Fior di Latte Ice Cream	{}
+Firm cooking potato	{}
+Fish	{'fish': 2}
+Fish Seafood	{}
+Flammkuchen dough	{}
+Flatbreads	{}
+Flatfish	{'flatfish': 1}
+Flavored cheese varieties	{}
+Flavors	{}
+Flaxseed Oil	{}
+Fleur de Sel	{}
+Flour	{'flour': 3}
+Floury Potato	{}
+Floury boiled potatoes	{}
+Flowers	{'flowers': 1}
+Flowers Blossoms	{}
+Fondants Icing	{}
+Fondue	{'fondue': 1}
+Fondue Cheese Mix Moiti Moiti	{}
+Fontina	{}
+Food	{}
+Food coloring	{}
+Forest	{'forest': 1}
+Forest Honey	{}
+Four grain cereal wafer	{}
+Fresh Coriander	{}
+Fresh Lemon Thyme	{}
+Fresh Marjoram	{}
+Fresh Orange Thyme	{}
+Fresh Oregano	{}
+Fresh Thai Basil	{}
+Fresh Thyme	{}
+Fresh chervil	{}
+Fresh chives	{}
+Fresh cut garlic	{}
+Fresh herbs	{}
+Fresh parsley	{}
+Fresh pasta	{}
+Freshwater	{'freshwater': 1}
+Frozen Aa Puree	{}
+Frozen China Mix	{}
+Frozen Cranberry	{}
+Frozen Green Bean	{}
+Frozen berry mix	{}
+Frozen blueberry	{}
+Frozen cauliflower	{}
+Frozen chicken wing	{}
+Frozen plum	{}
+Frozen vegetable mix	{}
+Fruit	{'fruit': 7}
+Fruit Compotes Pastes	{}
+Fruit Powder	{}
+Fruit bread	{}
+Fruit concentrates	{}
+Fruit gum	{}
+Fruit juice	{}
+Fruit liqueur	{}
+Fruit mix	{}
+Fruit salad	{}
+Fruit vegetables	{}
+Fruit vinegar	{}
+Fruit_juice	{'fruit juice': 1}
+Frutti di Mare	{}
+Frying cream	{}
+Galbani Mignons Bel Paese	{}
+Game	{'game': 1}
+Garam Masala	{}
+Garam_Masala	{'garam masala': 1}
+Garlic	{'garlic': 5}
+Garlic Powder	{}
+Garlic clove	{}
+Garlic flakes	{}
+Gelatin	{'gelatin': 1}
+Gelfix 21	{}
+Gelfix 31	{}
+Giant shrimp	{}
+Gilt head bream	{}
+Ginger	{'ginger': 6}
+Ginger Ale	{}
+Ginger Orange Lemonade	{}
+Ginger Powder	{}
+Ginger_Ale	{'ginger ale': 1}
+Gingerbread	{'gingerbread': 1}
+Gingerbread Dough	{}
+Gitzi Soft Cheese	{}
+Gitzikse	{}
+Gitzischlegel	{}
+Glarner Veal Sausage	{}
+Glass	{'glass': 1}
+Glass noodle	{}
+Gluten	{'gluten': 1}
+Gluten free Baguette	{}
+Gluten free Ciabatta	{}
+Gluten free Gnocchi	{}
+Gluten free Speculoos	{}
+Gluten free bouillon	{}
+Gluten free bread	{}
+Gluten free breadcrumbs	{}
+Gluten free cake dough	{}
+Gluten free chocolate cookies	{}
+Gluten free corn breadcrumbs	{}
+Gluten free flour	{}
+Gluten free ladyfingers	{}
+Gluten free lasagna sheet	{}
+Gluten free multigrain bread	{}
+Gluten free oatmeal	{}
+Gluten free oatmeal cookies	{}
+Gluten free pasta	{}
+Gluten free soy sauce	{}
+Gluten free tortilla wrap	{}
+Gluten free whole grain oat flakes	{}
+Gluten free whole grain oat flour	{}
+Gluten_free	{'gluten free': 16}
+Gnocchi	{'gnocchi': 1}
+Goat meat	{}
+Goat meat eating	{}
+Goat_meat	{'goat meat': 2}
+Gold	{'gold': 1}
+Gold Powder	{}
+Goose	{}
+Goose liver	{}
+Goose meat	{}
+Gorgonzola	{'gorgonzola': 1}
+Gourmet	{'gourmet': 1}
+Gourmet Salad	{}
+Grain	{'grain': 2}
+Grape	{'grape': 4}
+Grapefruit	{'grapefruit': 1}
+Grapefruit juice	{}
+Grapefruit peel	{}
+Grapefruit_juice	{'grapefruit juice': 1}
+Grappa	{'grappa': 1}
+Graved Salmon	{}
+Greek	{'greek': 1}
+Greek Yogurt Natural	{}
+Green	{'green': 7}
+Green Asparagus	{}
+Green Bean Kernel	{}
+Green Bionda	{}
+Green Curry Paste	{}
+Green Peperoncino	{}
+Green Pepper	{}
+Green kernel grits	{}
+Green_Bean	{'green bean': 1}
+Green_bean	{'green bean': 1}
+Green_tea	{'green tea': 1}
+Grenadine	{'grenadine': 1}
+Grenadine Syrup	{}
+Grilled sausages	{}
+Grillsmoke Hickory Liquid Smoke	{}
+Grissini	{}
+Grits	{'grits': 1}
+Ground Almond	{}
+Ground Hazelnut	{}
+Ground Meat	{}
+Ground Nuts	{}
+Ground Spices	{}
+Ground Star Anise	{}
+Ground Turmeric	{}
+Ground Vegetables	{}
+Ground chicken	{}
+Ground_Meat	{'ground meat': 1}
+Gruyre	{}
+Gschwellti	{}
+Guetzli	{}
+Guinea	{'guinea': 3}
+Guinea fowl	{}
+Guinea fowl breast	{}
+Guinea fowl meat	{}
+Halloumi	{'halloumi': 1}
+Hamburger	{'hamburger': 1}
+Hamburger bun	{}
+Hard Caramel	{}
+Hard boiled egg	{}
+Hard candies	{}
+Hard cheese	{}
+Hawaii	{'hawaii': 1}
+Hawaii Salt	{}
+Hazelnut	{'hazelnut': 6}
+Hazelnut Cake Glaze	{}
+Hazelnut Macaroon	{}
+Hazelnut Spread	{}
+Hazelnut ice cream	{}
+Hazelnut praline	{}
+Herb	{'herb': 7}
+Herb Cantadou	{}
+Herb Cream Cheese	{}
+Herb Salt	{}
+Herb Tomatoes	{}
+Herb butter	{}
+Herb vinegar	{}
+Herbal tea blend	{}
+Herbes de Provence	{}
+Herbs	{'herbs': 1}
+Herbs Spices	{}
+Hickory	{'hickory': 1}
+Honey	{'honey': 5}
+Honey Mustard	{}
+Hops	{'hops': 1}
+Horseradish mustard	{}
+Hot Mustard	{}
+Ice Cream Cone	{}
+Ice Cream Sorbet	{}
+Ice cream	{}
+Ice cubes	{}
+Ice_Cream	{'ice cream': 4}
+Ice_Cream_Cone	{'ice cream cone': 1}
+Iceberg	{'iceberg': 1}
+Iceberg lettuce	{}
+Iced tea concentrate	{}
+In Oil	{}
+Instant Coffee Powder	{}
+Instant Powders	{}
+Instant Tea Powder	{}
+Instant_coffee	{'instant coffee': 1}
+Italian	{'italian': 1}
+Jackfruit	{'jackfruit': 2}
+Jackfruit in BBQ Marinade	{}
+Jam	{}
+Jams Jellies	{}
+Jasmine_Rice	{'jasmine rice': 1}
+Jerusalem artichoke	{}
+John Dory	{}
+John_Dory	{'john dory': 1}
+Juice	{'juice': 8}
+Kaffir Lime Leaf	{}
+Kaffir_Lime	{'kaffir lime': 1}
+Kalette	{}
+Karma	{'karma': 7}
+Karma Coconut Chips Ginger	{}
+Karma Jocos nature	{}
+Karma Mini Vegetable Falafel	{}
+Karma Oat Drink Nature	{}
+Karma Power Topping	{}
+Karma Sweet Potato for Fries	{}
+Kasseler	{}
+Kefir	{'kefir': 1}
+Kernel Nut Mix	{}
+Kernel roll	{}
+Ketchup	{'ketchup': 2}
+Kimchi	{'kimchi': 1}
+Kinder Surprise Egg	{}
+King	{'king': 1}
+King Oyster Mushroom	{}
+Kingfish	{}
+Kiwi	{}
+Knorr Bouillon Tpfli Beef	{}
+Knorr Curry Sauce	{}
+Kohlrabi	{'kohlrabi': 2}
+Kohlrabi leaf	{}
+Kombu	{'kombu': 1}
+LEtivaz	{}
+Lamb loin	{}
+Lamb meat	{}
+Lamb mince	{}
+Lamb rump	{}
+Lambs lettuce	{}
+Lasagne	{'lasagne': 1}
+Lasagne Sheet	{}
+Latte	{'latte': 1}
+Lavender twig	{}
+Lckerli Basler	{}
+Le Parfait Spread with Liver	{}
+Leaf	{'leaf': 1}
+Leafy vegetables	{}
+Lean ground beef	{}
+Lean veal mince	{}
+Leavening agent	{}
+Leavening_agent	{'leavening agent': 1}
+Leek	{'leek': 1}
+Legumes	{'legumes': 1}
+Lemon	{'lemon': 12}
+Lemon Balm Syrup	{}
+Lemon Curd	{}
+Lemon Jam	{}
+Lemon Pepper	{}
+Lemon White Balsamic Cream	{}
+Lemon peel	{}
+Lemon sorbet	{}
+Lemon syrup	{}
+Lemon vinegar	{}
+Lemonade	{'lemonade': 2}
+Lentil	{'lentil': 4}
+Lentil Chips	{}
+Licorice	{'licorice': 1}
+Licorice Powder	{}
+Liebig	{'liebig': 1}
+Liebig Meat Extract	{}
+Light	{'light': 4}
+Light Cake Glaze	{}
+Light Mayonnaise	{}
+Light Sultana	{}
+Lime	{}
+Lime peel	{}
+Limousin	{'limousin': 1}
+Limousin Sirloin Steak	{}
+Liqueur	{'liqueur': 5}
+Liqueur wine	{}
+Liquid	{'liquid': 1}
+Liquid Sweetener	{}
+Liver	{'liver': 2}
+Liver pates	{}
+Liverwurst	{'liverwurst': 1}
+Lollo Rosso	{}
+Loose Orange Blossom Tea	{}
+Loose green tea with peppermint	{}
+Low fat curd cheese	{}
+Low fat spreadable processed cheese	{}
+Lucerne	{'lucerne': 1}
+Lucerne Cream Cheese	{}
+Lychee	{'lychee': 1}
+Lyoner	{}
+Mackerel	{'mackerel': 2}
+Madras	{'madras': 1}
+Madras Curry Powder	{}
+Maizena Express Brown	{}
+Maizena Express Light	{}
+Manchego	{'manchego': 1}
+Mandarin	{'mandarin': 2}
+Mandarin Black Tea	{}
+Mango	{'mango': 3}
+Maple syrup	{}
+Maple_syrup	{'maple syrup': 1}
+Margarine	{'margarine': 2}
+Marinated chicken meat	{}
+Marinated meat	{}
+Marjoram	{'marjoram': 1}
+Marsala	{'marsala': 1}
+Marsala Wine	{}
+Marshmallow	{'marshmallow': 1}
+Marzipan	{'marzipan': 5}
+Marzipan Carrots	{}
+Masgonzola	{}
+Matcha	{'matcha': 1}
+Matcha Green Tea Powder	{}
+Mayonnaise	{'mayonnaise': 2}
+McCormick Italian Herb Grinder	{}
+McCormick Piri Piri	{}
+McCormick Salad Mix Italian	{}
+Meat	{'meat': 4}
+Meat Meat Substitute Products	{}
+Meat Pastes Pies	{}
+Medium hot mustard	{}
+Melon	{'melon': 2}
+Melon Juice	{}
+Merguez	{}
+Meringue	{'meringue': 1}
+Meringue with hazelnuts	{}
+Merqun	{}
+Merqun Spice Mix	{}
+Mild curry powder	{}
+Milk	{'milk': 1}
+Milk drink	{}
+Milk powder	{}
+Milkwater	{}
+Millet	{'millet': 1}
+Millet flakes	{}
+Minced_Meat	{'minced meat': 1}
+Mineral water with carbonation	{}
+Mineral_water	{'mineral water': 1}
+Mini	{'mini': 2}
+Mini Cherry Sticks	{}
+Mirabelle	{}
+Mirin	{'mirin': 1}
+Mixed Bell Peppers	{}
+Mixed Mushrooms	{}
+Mixed Sprouts	{}
+Mixed Summer Vegetables	{}
+Mixed Vegetables	{}
+Mixed Winter Vegetables	{}
+Mixed minced meat	{}
+Molasses	{'molasses': 1}
+Mollusks	{}
+Monks	{'monks': 1}
+Monks Beard	{}
+Monosodium glutamate	{}
+Monosodium_glutamate	{'monosodium glutamate': 1}
+Morel	{}
+Mother in laws tongues	{}
+Mountain	{'mountain': 1}
+Mountain cheese	{}
+Mozzarella	{'mozzarella': 3}
+Mozzarella Stick	{}
+Muesli mix	{}
+Muffin Baking Mix	{}
+Mulled Wine	{}
+Multigrain bread	{}
+Multigrain flour	{}
+Mung Bean Sprouts	{}
+Mung_Bean	{'mung bean': 1}
+Munster	{'munster': 1}
+Munster cheese	{}
+Mushroom	{'mushroom': 9}
+Mushroom bouillon	{}
+Mushrooms	{'mushrooms': 2}
+Mustard	{}
+Mustard Powder	{}
+Mustard fruit	{}
+Mustard seeds	{}
+Mustard sprout	{}
+Mustard_seed	{'mustard seed': 1}
+Napoli	{'napoli': 1}
+Naturafarm Pork Sausages	{}
+Natural yogurt	{}
+Nature	{'nature': 2}
+Nettle leaves	{}
+Neuchtel Sausages	{}
+Ngeli	{}
+Noir	{'noir': 1}
+Non alcoholic beer	{}
+Non alcoholic beer apple wine	{}
+Non alcoholic beverages	{}
+Non alcoholic sparkling wine	{}
+Nonpareils	{}
+Noodle	{'noodle': 2}
+Noodles	{'noodles': 1}
+Nordic sour milk	{}
+Nut Butter	{}
+Nut Seed Mixes	{}
+Nut bars	{}
+Nut cheese	{}
+Nutmeg	{'nutmeg': 1}
+Nuts	{}
+Nuts Seeds	{}
+Oat	{'oat': 4}
+Oat nuts	{}
+Oatmeal	{'oatmeal': 2}
+Oatmeal cookies	{}
+Offal	{'offal': 1}
+Oil	{'oil': 4}
+Oils Fats	{}
+Okonomiyaki	{'okonomiyaki': 1}
+Okonomiyaki Sauce	{}
+Olive	{'olive': 2}
+Olive Bread	{}
+Olive oil	{}
+Olive_oil	{'olive oil': 1}
+Onion	{'onion': 2}
+Onion Powder	{}
+Onion sprout	{}
+Orange	{}
+Orange Blossom Water	{}
+Orange Passion Fruit Juice	{}
+Orange Pepper	{}
+Orange juice	{}
+Orange liqueur	{}
+Orange peel	{}
+Orange syrup	{}
+Orange_Juice	{'orange juice': 1}
+Orange_juice	{'orange juice': 1}
+Oregano	{'oregano': 2}
+Oreo	{'oreo': 1}
+Oreo Cookies	{}
+Organic	{'organic': 1}
+Ostrich	{'ostrich': 2}
+Ostrich fillet	{}
+Ostrich meat	{}
+Other Oily Saltwater Fish	{}
+Other Processed Foods	{}
+Other White fleshed Freshwater Fish	{}
+Other White fleshed Saltwater Fish	{}
+Other baked goods	{}
+Other baking aids	{}
+Other fruits	{}
+Other nuts	{}
+Other snacks	{}
+Oven Fries	{}
+Oven roast in slices	{}
+Oyster	{'oyster': 2}
+Oyster Mushroom	{}
+Oyster Sauce	{}
+Oyster_Sauce	{'oyster sauce': 1}
+Pagnol bread	{}
+Pak	{'pak': 1}
+Pak Choi	{}
+Palatinate carrots	{}
+Pale Beer	{}
+Pancetta	{'pancetta': 1}
+Paneer	{'paneer': 1}
+Panettone	{'panettone': 1}
+Pangasius	{}
+Papaya	{'papaya': 2}
+Paprika	{'paprika': 1}
+Parma	{'parma': 1}
+Parma ham	{}
+Parmesan	{}
+Parsnip	{'parsnip': 1}
+Passion Fruit Curd	{}
+Passion_Fruit	{'passion fruit': 2}
+Pasta	{'pasta': 8}
+Pasta and noodles	{}
+Pasta dough	{}
+Pastetli	{}
+Pattypan	{}
+Pea	{'pea': 2}
+Pea protein powder	{}
+Pea sprouts	{}
+Peach	{'peach': 5}
+Peach Juice	{}
+Peach nectar	{}
+Peach syrup	{}
+Peak	{'peak': 1}
+Peanut	{'peanut': 3}
+Peanut butter	{}
+Peanut_butter	{'peanut butter': 1}
+Pear	{'pear': 4}
+Pear Bread Spice	{}
+Pear Weggen Filling	{}
+Pear syrup	{}
+Pearl	{'pearl': 1}
+Pearl barley	{}
+Pearl sugar	{}
+Pearl_barley	{'pearl barley': 1}
+Pecan	{'pecan': 1}
+Pecan Nut	{}
+Pecorino	{'pecorino': 1}
+Peel	{'peel': 1}
+Pepper	{'pepper': 5}
+Pepper Bouquet	{}
+Peppermint	{'peppermint': 1}
+Peppermint syrup	{}
+Peretti Tomato	{}
+Persimmon	{'persimmon': 1}
+Pesto	{'pesto': 1}
+Pestos	{}
+Philadelphia	{'philadelphia': 1}
+Philadelphia Yogurt	{}
+Phyllo dough	{}
+Physalis	{'physalis': 1}
+Pickled Ginger	{}
+Pickled Green Peppercorn	{}
+Pickled Pepper	{}
+Pickled Pink Peppercorn	{}
+Pickled herring	{}
+Pickled_herring	{'pickled herring': 1}
+Pickles	{}
+Pigs	{'pigs': 1}
+Pigs feet	{}
+Pimentos	{}
+Pineapple	{'pineapple': 2}
+Pink	{'pink': 1}
+Pistachio	{'pistachio': 1}
+Pistachio ice cream	{}
+Pitahaya	{}
+Pizza	{'pizza': 1}
+Pizza dough	{}
+Plain quark	{}
+Planed cheese	{}
+Plant	{'plant': 2}
+Plant Based Oils	{}
+Plant based meat alternatives	{}
+Plant based milk product alternatives	{}
+Plum	{'plum': 4}
+Plum Brandy	{}
+Plum jam	{}
+Plum yogurt	{}
+Pointed cabbage	{}
+Pointed pepper	{}
+Polenta	{'polenta': 1}
+Pom Pom Mushroom	{}
+Pom_Pom	{'pom pom': 1}
+Pomegranate	{'pomegranate': 1}
+Pomelo	{'pomelo': 2}
+Pomelo Juice	{}
+Popcorn	{'popcorn': 3}
+Poppy seed powder	{}
+Pork	{'pork': 4}
+Pork chop	{}
+Pork escalopes	{}
+Pork knuckle	{}
+Pork minced meat	{}
+Pork neck	{}
+Pork ribs	{}
+Pork roast balls	{}
+Pork shoulder	{}
+Pork stew	{}
+Port wine	{}
+Port_wine	{'port wine': 1}
+Potato	{'potato': 2}
+Potato flour	{}
+Potato starch	{}
+Potato_starch	{'potato starch': 1}
+Potatoes	{'potatoes': 1}
+Poultry	{'poultry': 1}
+Poultry stock	{}
+Prepared Fish Seafood	{}
+Prepared ingredients	{}
+Prepared pastry	{}
+Pretzel	{'pretzel': 3}
+Pretzel Peak	{}
+Pretzel rolls	{}
+Processed Nuts Seeds	{}
+Processed cheese	{}
+Processed meat products	{}
+Products	{'products': 1}
+Products From Fish Seafood	{}
+Prosciutto	{'prosciutto': 1}
+Prosciutto Cheese Tortellini	{}
+Protein	{}
+Protein Legume Mix	{}
+Protein bread	{}
+Provence	{'provence': 1}
+Puffed Amaranth	{}
+Pumpernickel	{'pumpernickel': 1}
+Pumpkin	{'pumpkin': 1}
+QimiQ	{}
+Quark	{'quark': 1}
+Quarks	{'quarks': 1}
+Quince	{'quince': 3}
+Quince jelly	{}
+Quince juice	{}
+Quinoa	{'quinoa': 1}
+Quinoa Flake	{}
+Rabbit	{'rabbit': 3}
+Rabbit fillet	{}
+Rabbit leg	{}
+Rabbit meat	{}
+Raclette cheese	{}
+Rapeseed oil	{}
+Ras El Hanout	{}
+Raspberry	{'raspberry': 7}
+Raspberry Buttermilk	{}
+Raspberry Crumble	{}
+Raspberry Jam	{}
+Raspberry Spirit	{}
+Raspberry jelly	{}
+Raspberry syrup	{}
+Raspberry vinegar	{}
+Ratatouille	{'ratatouille': 1}
+Ready to cook vegetables	{}
+Red	{'red': 7}
+Red Cornetti	{}
+Red Curry Paste	{}
+Red Curry Sauce	{}
+Red Lentil Pasta	{}
+Red Mullet	{}
+Red Pesto	{}
+Red Snapper	{}
+Red Wine Vinegar	{}
+Red cabbage	{}
+Red currant jam	{}
+Red leaf lettuce	{}
+Red skinned Apple	{}
+Red wine	{}
+Red_Mullet	{'red mullet': 1}
+Red_Snapper	{'red snapper': 1}
+Red_Wine	{'red wine': 1}
+Reduced fat cream cheese	{}
+Rhubarb	{'rhubarb': 2}
+Rhubarb syrup	{}
+Ribelmais	{}
+Rice	{'rice': 6}
+Rice Mixture	{}
+Rice noodle	{}
+Rice paper	{}
+Rice vinegar	{}
+Rice_paper	{'rice paper': 1}
+Rice_vinegar	{'rice vinegar': 1}
+Ricotta	{'ricotta': 1}
+Rimuss	{}
+Risotto	{'risotto': 1}
+Rivella Green	{}
+Roast beef	{}
+Roast pork	{}
+Roast pork in slices	{}
+Roast_beef	{'roast beef': 1}
+Roasted Almond	{}
+Roll	{}
+Rolled grain	{}
+Rondini Zucchino	{}
+Root	{'root': 1}
+Root vegetables	{}
+Roquefort	{'roquefort': 1}
+Ros sparkling wine	{}
+Ros wine	{}
+Rose	{'rose': 1}
+Rose paprika	{}
+Rose water	{}
+Rose_water	{'rose water': 1}
+Rosehip Jam	{}
+Ruchmehl	{}
+Rum	{'rum': 2}
+Rum Flavor	{}
+Rye	{'rye': 1}
+Rye flour	{}
+Rye meal	{}
+Rye wholemeal flour	{}
+Sabl	{}
+Saffron	{'saffron': 1}
+Salad	{'salad': 2}
+Salad mix with red beans	{}
+Salametti	{}
+Salami	{'salami': 1}
+Salmon	{'salmon': 4}
+Salmon Similar	{}
+Salmon Trout	{}
+Salmon roe	{}
+Salsa	{'salsa': 1}
+Salsa Napoli	{}
+Salsiccia	{}
+Salt	{'salt': 2}
+Salt Pepper	{}
+Salt pretzels	{}
+Salted Almond	{}
+Salted Butter	{}
+Salted Cashew Nut	{}
+Salted Cashew Peanut Mix With Honey	{}
+Salted Peanut	{}
+Salted Popcorn	{}
+Salted butter caramel cream	{}
+Salts	{}
+Saltwater	{}
+Sambal	{'sambal': 1}
+Sambal Oelek	{}
+Saturn	{'saturn': 1}
+Saturn Peach	{}
+Sauce	{'sauce': 5}
+Sauces	{'sauces': 1}
+Saucisson	{}
+Sausage	{'sausage': 2}
+Sausage with Cabbage	{}
+Sausages	{'sausages': 1}
+Sauser	{}
+Schabziger	{}
+Schnapps	{'schnapps': 1}
+Schnitzel	{'schnitzel': 1}
+Schr Mix B	{}
+Schupfnudel	{}
+Sea Buckthorn Juice	{}
+Sea Buckthorn Pulp	{}
+Seafood	{'seafood': 3}
+Seafood Canned	{}
+Seasoning	{}
+Seaweed	{'seaweed': 1}
+Sec	{'sec': 1}
+Seed	{'seed': 1}
+Seedless Grape	{}
+Seeds	{}
+Sel	{'sel': 1}
+Semi hard cheese	{}
+Semi white flour	{}
+Semolina	{'semolina': 2}
+Semolina Similar	{}
+Sesame	{'sesame': 2}
+Sesame Bagel	{}
+Sesame oil	{}
+Sesame_oil	{'sesame oil': 1}
+Shellfish broth	{}
+Sherry	{'sherry': 2}
+Sherry Vinegar	{}
+Shiitake	{'shiitake': 1}
+Shortcrust pastry	{}
+Shortcrust_pastry	{'shortcrust pastry': 1}
+Shrimp	{'shrimp': 1}
+Skimmed Milk Powder	{}
+Skyr	{'skyr': 1}
+Sliced ham bacon	{}
+Sliced vegan cheese	{}
+Small Burrata	{}
+Small veal cutlet	{}
+Smarties	{'smarties': 1}
+Smoked Garlic Clove	{}
+Smoked Mackerel	{}
+Smoked Trout	{}
+Smoked duck breast	{}
+Smoked frying bacon	{}
+Smoked ham	{}
+Smoked pear	{}
+Snack cucumber	{}
+Snacks	{}
+Snickers	{}
+Soba	{'soba': 1}
+Soba Noodle	{}
+Soft Caramel	{}
+Soft Drink Concentrates	{}
+Soft Drinks	{}
+Soft Waffle	{}
+Soft candies	{}
+Soft cheese	{}
+Sole	{}
+Sorbet	{'sorbet': 2}
+Sorrel	{'sorrel': 1}
+Sot ly laisse	{}
+Soups	{}
+Sour Apple	{}
+Sour Candy	{}
+Sour Cherry	{}
+Sour cherry juice	{}
+Sour dairy products	{}
+Sour gummy candy	{}
+Sour half cream	{}
+Sourdough	{'sourdough': 1}
+Sourdough starter	{}
+Soy Drink Natural	{}
+Soy Vanilla Ice Cream	{}
+Soy cream	{}
+Soy sauce	{}
+Soy_sauce	{'soy sauce': 2}
+Soybean	{'soybean': 2}
+Soybean Wholemeal	{}
+Soyflake	{}
+Spaghetti Squash	{}
+Sparkling wine	{}
+Sparkling_Wine	{'sparkling wine': 1}
+Sparkling_wine	{'sparkling wine': 1}
+Special St Gallen Sausage	{}
+Spelt Cake Dough	{}
+Spelt flakes	{}
+Spelt grain	{}
+Spice	{'spice': 4}
+Spice mix	{}
+Spice pastes	{}
+Spiced Nuts	{}
+Spices	{'spices': 3}
+Spicy Ketchup	{}
+Spirit	{'spirit': 1}
+Spirits	{}
+Spitzbuben Hops	{}
+Spoon	{'spoon': 1}
+Spoon biscuit	{}
+Spreadable processed cheese	{}
+Spreadable sausage	{}
+Spreads Jams	{}
+Spring Roll Sauce	{}
+Spring onion	{}
+Spring_Roll	{'spring roll': 1}
+Sprouts Seedlings	{}
+Squash	{'squash': 2}
+Squid	{'squid': 1}
+St_Gallen	{'st gallen': 1}
+Star anise	{}
+Star_Anise	{'star anise': 1}
+Star_anise	{'star anise': 1}
+Starch	{'starch': 2}
+Starfruit	{}
+Steak	{'steak': 2}
+Stem vegetables	{}
+Stew	{'stew': 1}
+Sticky rice	{}
+Stilton	{'stilton': 1}
+Stone fruits	{}
+Strawberry	{'strawberry': 2}
+Strawberry Rhubarb Jam	{}
+Strawberry jelly	{}
+Stuffed Pasta	{}
+Substitute	{'substitute': 2}
+Sugar	{'sugar': 4}
+Sugar Alternatives	{}
+Sugar Glaze	{}
+Sugar_Beet	{'sugar beet': 1}
+Sugared Puffed Wheat	{}
+Sugarloaf	{'sugarloaf': 1}
+Summer truffle	{}
+Sunflower Mince Nature	{}
+Sunflower oil	{}
+Sunflower_oil	{'sunflower oil': 1}
+Swedish rolls	{}
+Sweet Chili Sauce	{}
+Sweet Red Wine	{}
+Sweet Soy Sauce	{}
+Sweet and Sour Sauce	{}
+Sweet baked goods	{}
+Sweet potato	{}
+Sweet wine	{}
+Sweet_Potato	{'sweet potato': 1}
+Sweetbreads	{}
+Sweetened condensed milk	{}
+Syrup	{'syrup': 4}
+Szechuan	{'szechuan': 1}
+Szechuan Pepper	{}
+T Bone Steak	{}
+Tahina	{}
+Taleggio	{}
+Tamarind	{'tamarind': 1}
+Tamarind paste	{}
+Tandoori Paste	{}
+Tapenade	{}
+Tarragon	{'tarragon': 1}
+Tarragon vinegar	{}
+Tasmanian	{'tasmanian': 1}
+Tasmanian Pepper	{}
+Tea	{'tea': 1}
+Tea Coffee	{}
+Teff	{'teff': 1}
+Teff flour	{}
+Tempeh	{'tempeh': 1}
+Tequila	{'tequila': 1}
+Teriyaki	{'teriyaki': 1}
+Teriyaki Sauce	{}
+Thai	{'thai': 6}
+Thai 7 Spices	{}
+Thai Jasmine Rice	{}
+Thai Kitchen Wok Oil	{}
+Thai Mango	{}
+Thai Vegetable Mix	{}
+Thickening agent	{}
+Thickening_agent	{'thickening agent': 1}
+Thyme	{'thyme': 4}
+Ticino	{'ticino': 2}
+Ticino bread	{}
+Ticino roast	{}
+Toblerone	{'toblerone': 1}
+Toffifee	{}
+Tofu	{'tofu': 2}
+Tomato	{'tomato': 7}
+Tomato Sauce	{}
+Tomato Tapenade	{}
+Tomato puree	{}
+Tomato_Sauce	{'tomato sauce': 1}
+Tomatoes	{'tomatoes': 1}
+Tomme	{}
+Topping as desired	{}
+Torrone	{}
+Tortellini	{'tortellini': 1}
+Tortilla	{'tortilla': 2}
+Tortilla Chips	{}
+Tortilla wrap	{}
+Tortilla_chip	{'tortilla chips': 1}
+Trail Mix	{}
+Trail_mix	{'trail mix': 1}
+Tropical fruits	{}
+Trout	{'trout': 2}
+Truffle	{'truffle': 2}
+Truffle Brie	{}
+Trumpet	{'trumpet': 1}
+Tsampa	{'tsampa': 1}
+Tubers	{'tubers': 1}
+Tuna in salt water from the can	{}
+Turbot	{'turbot': 1}
+Turkey	{'turkey': 3}
+Turkey Ham	{}
+Turkey breast	{}
+Turkey escalopes	{}
+Turkey meat	{}
+Turmeric	{'turmeric': 1}
+Tzatziki	{'tzatziki': 1}
+UHT Milk	{}
+Udon	{'udon': 1}
+Udon Noodles	{}
+Unsweetened Coconut Drink	{}
+Vacherin Fribourgeois	{}
+Vacherin Mont DOr	{}
+Vanilla	{'vanilla': 8}
+Vanilla Flan	{}
+Vanilla Paste	{}
+Vanilla Pudding Powder	{}
+Vanilla Yogurt	{}
+Vanilla cream powder for cooking	{}
+Vanilla ice cream	{}
+Veal	{'veal': 3}
+Veal Adrio	{}
+Veal Pork minced meat	{}
+Veal breast	{}
+Veal broth	{}
+Veal cutlets	{}
+Veal fillet medallion	{}
+Veal liver	{}
+Veal roast	{}
+Veal spare rib	{}
+Veal tongue	{}
+Vegan	{'vegan': 6}
+Vegan Cream Cheese Nature	{}
+Vegan Honey	{}
+Vegan Minced Meat	{}
+Vegan Natural Yogurt	{}
+Vegan Organic Joaty Karma Oat Yogurt	{}
+Veganaise	{}
+Vegetable	{'vegetable': 2}
+Vegetable bouillon	{}
+Vegetable mix	{}
+Vegetable oil	{}
+Vegetable onion	{}
+Vegetables	{'vegetables': 1}
+Venison	{'venison': 5}
+Venison Back	{}
+Venison Entrecote	{}
+Venison Ribeye	{}
+Venison leg	{}
+Venison minced meat	{}
+Venison patties	{}
+Verbena	{'verbena': 2}
+Verbena Tea	{}
+Vermicelli	{'vermicelli': 1}
+Vermouth	{'vermouth': 1}
+Vienna sausages	{}
+Vinegar	{'vinegar': 1}
+Vinegars	{}
+Vintners bread	{}
+Vodka	{'vodka': 1}
+Wakame	{'wakame': 1}
+Walnut	{'walnut': 3}
+Walnut ice cream	{}
+Walnut oil	{}
+Wasabi	{'wasabi': 3}
+Wasabi Powder	{}
+Wasabi paste	{}
+Wasabi root	{}
+Water	{'water': 2}
+Water Ice	{}
+Water_Ice	{'water ice': 1}
+Watermelon	{'watermelon': 1}
+Wheat	{'wheat': 2}
+Wheat Gluten	{}
+Wheat beer	{}
+Wheat dough	{}
+Whisky	{'whisky': 1}
+White	{'white': 12}
+White Almond Butter	{}
+White Asparagus	{}
+White Balsamic Vinegar	{}
+White Cake Icing	{}
+White Cornmeal	{}
+White Grape	{}
+White Mushroom	{}
+White Pepper	{}
+White Toblerone	{}
+White Wine Vinegar	{}
+White bread	{}
+White cabbage	{}
+White grape juice	{}
+White wine	{}
+White_Wine	{'white wine': 2}
+Whiting	{}
+Whole Grain Oat Flour	{}
+Whole Grain Rusk	{}
+Whole Grain Spaghetti	{}
+Whole Grain Toast Bread	{}
+Whole Spices	{}
+Whole grain cookies	{}
+Whole grain pie dough	{}
+Whole grain rice flour	{}
+Whole grain tortilla wrap	{}
+Whole milk	{}
+Whole_Grain	{'whole grain': 3}
+Whole_grain	{'whole grain': 1}
+Wholemeal	{}
+Wholemeal flour	{}
+Wild Boar Cutlet	{}
+Wild Boar Entrecote	{}
+Wild Boar Stew	{}
+Wild broth	{}
+Wild strawberry	{}
+Wild_Boar	{'wild boar': 3}
+Willisauer Ringli	{}
+Wine	{'wine': 1}
+Winzerkse	{}
+Wirz	{}
+Wok	{'wok': 2}
+Wok Noodle	{}
+Worcestershire Sauce	{}
+Worcestershire_sauce	{'worcestershire sauce': 1}
+Yeast dough	{}
+Yellow Bell Pepper	{}
+Yellow Mustard Seed	{}
+Yellow Tomato	{}
+Yellow millet	{}
+Yellow pea	{}
+YoQua Nature Emmi	{}
+Yogi	{'yogi': 1}
+Yogi Tea	{}
+Yogurt	{'yogurt': 7}
+Yogurts Quarks	{}
+Yolo	{'yolo': 1}
+Yolo Creamy Vegan Butter	{}
+Young Swiss chard	{}
+Young salad	{}
+Yuzu	{'yuzu': 2}
+Yuzu Juice	{}
+Yuzu Kosho	{}
+Zaatar Spice Mix	{}
+Zucchetti	{}
+aid	{'aids': 1}
+alcoholic	{'alcoholic': 3}
+alcoholic_beverage	{'alcoholic beverages': 2}
+apple	{'apple': 1}
+apricot	{'apricot': 1}
+artichoke	{'artichoke': 1}
+bacon	{'bacon': 2}
+bean	{'bean': 3}
+beef	{'beef': 1}
+beer	{'beer': 5}
+beetroot	{'beetroot': 3}
+biscuit	{'biscuit': 1}
+black_pepper	{'black pepper': 1}
+blackcurrant	{'blackcurrant': 1}
+blood_orange	{'blood orange': 1}
+blood_sausage	{'blood sausage': 1}
+blue	{'blue': 1}
+blue_cheese	{'blue cheese': 1}
+blue_mussel	{'blue mussel': 1}
+blueberry	{'blueberry': 1}
+boil_egg	{'boiled egg': 1}
+bone	{'bones': 1}
+bouillon	{'bouillon': 5}
+bread	{'bread': 10}
+bream	{'bream': 1}
+breast	{'breast': 5}
+brie	{'brie': 1}
+broth	{'broth': 4}
+buckwheat	{'buckwheat': 2}
+butter	{'butter': 3}
+cabbage	{'cabbage': 3}
+cake	{'cake': 2}
+candy	{'candy': 2}
+caramel	{'caramel': 2}
+carbonation	{'carbonation': 1}
+cardamom	{'cardamom': 2}
+carrot	{'carrots': 1}
+cauliflower	{'cauliflower': 1}
+celery	{'celery': 1}
+cereal	{'cereal': 2}
+chard	{'chard': 1}
+cheese	{'cheese': 12}
+cheesecake	{'cheesecake': 1}
+cherry	{'cherry': 3}
+chervil	{'chervil': 1}
+chestnut	{'chestnut': 1}
+chicken	{'chicken': 3}
+chickpea	{'chickpeas': 1}
+chinese_cabbage	{'chinese cabbage': 1}
+chive	{'chives': 1}
+chocolate	{'chocolate': 3}
+clove	{'clove': 1}
+coconut	{'coconut': 1}
+cod	{'cod': 1}
+coffee	{'coffee': 2}
+coffee_bean	{'coffee bean': 1}
+condense_milk	{'condensed milk': 1}
+confectionery	{'confectionery': 1}
+cooking	{'cooking': 2}
+corn	{'corn': 4}
+cottage_cheese	{'cottage cheese': 1}
+cream	{'cream': 8}
+cream_cheese	{'cream cheese': 1}
+cucumber	{'cucumber': 1}
+curd	{'curd': 1}
+currant	{'currant': 1}
+curry_powder	{'curry powder': 1}
+cutlet	{'cutlet': 1}
+cuttlefish	{'cuttlefish': 1}
+dairy_product	{'dairy products': 1}
+dough	{'dough': 8}
+duck	{'duck': 1}
+egg	{'eggs': 1}
+fat	{'fat': 7}
+firm	{'firm': 1}
+fish	{'fish': 4}
+flan	{'flan': 1}
+flour	{'flour': 16}
+flower	{'flower': 1}
+food	{'food': 1}
+free	{'free': 2}
+fruit	{'fruits': 5, 'fruit': 5}
+fry	{'fries': 2}
+garlic	{'garlic': 1}
+grain	{'grain': 3}
+grape	{'grape': 1}
+green	{'green': 1}
+green_tea	{'green tea': 1}
+ground_beef	{'ground beef': 1}
+hake	{'hake': 1}
+hard_candy	{'hard candy': 1}
+hazelnut	{'hazelnuts': 1}
+herb	{'herbs': 3}
+herbal_tea	{'herbal tea': 1}
+honey	{'honey': 1}
+horseradish	{'horseradish': 1}
+ice	{'ice': 1}
+ice_cream	{'ice cream': 6}
+iced_tea	{'iced tea': 1}
+ink	{'ink': 1}
+italian	{'italian': 1}
+juice	{'juice': 5}
+kiwi	{'kiwi': 1}
+leaf	{'leaf': 3}
+legume	{'legume': 1}
+lemon	{'lemon': 1}
+lentil	{'lentils': 3}
+lettuce	{'lettuce': 2}
+liqueur	{'liqueur': 5}
+liquid	{'liquid': 1}
+liver	{'liver': 4}
+marrow	{'marrow': 1}
+meat	{'meat': 12}
+milk	{'milk': 9}
+millet	{'millet': 1}
+mold	{'mold': 1}
+muesli	{'muesli': 1}
+mulled_Wine	{'mulled wine': 1}
+mush	{'mush': 1}
+mushroom	{'mushroom': 2, 'mushrooms': 1}
+mustard_seed	{'mustard seed': 1}
+nature	{'nature': 3}
+nectar	{'nectar': 1}
+noodle	{'noodle': 2, 'noodles': 1}
+oat	{'oat': 3}
+oatmeal	{'oatmeal': 2}
+oil	{'oil': 4}
+onion	{'onion': 2, 'onions': 1}
+paper	{'paper': 1}
+paprika	{'paprika': 1}
+parsley	{'parsley': 1}
+pasta	{'pasta': 2}
+pastry	{'pastry': 1}
+pea	{'pea': 2}
+pear	{'pear': 2}
+pearl	{'pearl': 1}
+peel	{'peel': 3}
+pepper	{'pepper': 7}
+peppermint	{'peppermint': 1}
+plum	{'plum': 1}
+poppy_seed	{'poppy seed': 1}
+pork	{'pork': 9}
+potato	{'potato': 3}
+praline	{'praline': 1}
+pretzel	{'pretzels': 1}
+process_cheese	{'processed cheese': 3}
+product	{'products': 3}
+protein	{'protein': 4}
+quark	{'quark': 2}
+rapa	{'rapa': 1}
+rapeseed_oil	{'rapeseed oil': 1}
+red	{'red': 3}
+red_cabbage	{'red cabbage': 1}
+red_wine	{'red wine': 2}
+rhubarb	{'rhubarb': 1}
+rice	{'rice': 1}
+rice_flour	{'rice flour': 1}
+rock	{'rock': 1}
+root	{'root': 1}
+rose	{'rose': 1}
+rusk	{'rusk': 1}
+rye	{'rye': 2}
+salad	{'salad': 2}
+salmon	{'salmon': 1}
+salt	{'salt': 6}
+sauce	{'sauce': 1}
+sausage	{'sausage': 6, 'sausages': 2}
+seafood	{'seafood': 1}
+seasoning	{'seasoning': 1}
+shellfish	{'shellfish': 1}
+shrimp	{'shrimp': 1}
+snicker	{'snickers': 1}
+soft_drink	{'soft drinks': 1, 'soft drink': 1}
+sorbet	{'sorbet': 1}
+soup	{'soups': 1}
+soy_sauce	{'soy sauce': 1}
+soybean	{'soybean': 2}
+sparkle_wine	{'sparkling wine': 2}
+spice	{'spice': 1, 'spices': 1}
+steak	{'steak': 1}
+stew	{'stew': 1}
+sticky_rice	{'sticky rice': 1}
+stock	{'stock': 1}
+sugar	{'sugar': 5}
+swedish	{'swedish': 1}
+sweet_potato	{'sweet potato': 1}
+swiss	{'swiss': 1}
+syrup	{'syrup': 11}
+tamarind	{'tamarind': 1}
+tea	{'tea': 4}
+tongue	{'tongue': 1}
+tortilla	{'tortilla': 2}
+tropical	{'tropical': 1}
+truffle	{'truffle': 1}
+tuna	{'tuna': 1}
+veal	{'veal': 11}
+vegan	{'vegan': 1}
+vegetable	{'vegetables': 13, 'vegetable': 5}
+vegetable_oil	{'vegetable oil': 1}
+vinegar	{'vinegar': 9}
+waffle	{'waffle': 1}
+water	{'water': 1}
+wheat	{'wheat': 2}
+wheat_beer	{'wheat beer': 1}
+white	{'white': 3}
+white_bread	{'white bread': 1}
+white_wine	{'white wine': 1}
+whole_grain	{'whole grain': 6}
+wine	{'wine': 8}
+yeast	{'yeast': 2}
+yogurt	{'yogurt': 2}
+yolk	{'yolk': 1}

@@ -1,0 +1,1283 @@
+<phrase> 0 </phrase> 4
+<phrase> 16 17 </phrase> 18
+<phrase> 9 3 </phrase> <phrase> 13 </phrase>
+<phrase> 2 </phrase> 5
+1 <phrase> 3 </phrase>
+<phrase> 11 </phrase> <phrase> 12 14 </phrase> 15
+<phrase> 8 </phrase> <phrase> 10 </phrase>
+6 <phrase> 7 </phrase>
+19 <phrase> 20 </phrase>
+<phrase> 22 24 </phrase>
+<phrase> 21 </phrase> <phrase> 23 </phrase>
+<phrase> 25 </phrase>
+<phrase> 27 </phrase>
+<phrase> 26 </phrase>
+<phrase> 33 </phrase> <phrase> 34 35 </phrase>
+<phrase> 29 </phrase> <phrase> 31 </phrase>
+<phrase> 28 </phrase>
+<phrase> 30 </phrase> <phrase> 32 </phrase>
+36 37 <phrase> 38 </phrase>
+<phrase> 42 </phrase> <phrase> 43 </phrase>
+<phrase> 39 41 </phrase>
+40
+44
+45 <phrase> 46 </phrase>
+<phrase> 47 </phrase>
+<phrase> 49 </phrase> <phrase> 34 35 </phrase>
+<phrase> 48 </phrase>
+<phrase> 9 39 </phrase>
+<phrase> 247 62 </phrase>
+50 <phrase> 52 </phrase>
+<phrase> 51 </phrase> 53
+<phrase> 54 </phrase> 15
+56 <phrase> 59 </phrase> <phrase> 60 </phrase>
+55
+58 61 <phrase> 62 </phrase>
+57
+<phrase> 65 </phrase> <phrase> 67 </phrase> 69 <phrase> 70 </phrase> <phrase> 71 </phrase> <phrase> 72 </phrase>
+<phrase> 10 </phrase> <phrase> 64 </phrase>
+63
+66 <phrase> 68 </phrase>
+45 <phrase> 73 </phrase> <phrase> 59 </phrase>
+74 <phrase> 75 </phrase>
+76 77
+<phrase> 78 5 </phrase>
+<phrase> 26 </phrase> 80
+<phrase> 79 </phrase> 81
+<phrase> 9 </phrase> <phrase> 82 13 </phrase>
+<phrase> 83 </phrase> <phrase> 84 59 </phrase>
+85 86
+61 77
+<phrase> 87 </phrase> 15
+88 80
+<phrase> 89 </phrase> 15
+<phrase> 90 </phrase> <phrase> 91 </phrase>
+95
+266 268
+<phrase> 92 </phrase> <phrase> 93 </phrase>
+<phrase> 157 </phrase> <phrase> 157 </phrase>
+94 96
+97 98 99
+<phrase> 101 </phrase> 103 <phrase> 105 </phrase> 106 108
+<phrase> 50 102 </phrase> <phrase> 104 </phrase>
+<phrase> 100 </phrase> <phrase> 26 </phrase>
+107
+<phrase> 109 </phrase>
+1 <phrase> 110 3 </phrase>
+<phrase> 112 </phrase> 115
+111 <phrase> 113 </phrase>
+<phrase> 114 </phrase> <phrase> 14 </phrase>
+<phrase> 79 </phrase> <phrase> 117 </phrase>
+<phrase> 116 </phrase>
+<phrase> 118 59 </phrase>
+119 120
+121
+122 124 127
+<phrase> 123 </phrase> 125 128
+<phrase> 101 </phrase> 103 <phrase> 59 </phrase> 108
+<phrase> 126 </phrase>
+<phrase> 83 </phrase> 129
+132 <phrase> 56 62 </phrase>
+131 <phrase> 65 </phrase> <phrase> 62 </phrase>
+<phrase> 130 </phrase>
+<phrase> 101 </phrase> 103 119
+<phrase> 133 134 </phrase>
+5 136
+<phrase> 135 137 </phrase>
+<phrase> 138 </phrase> <phrase> 140 </phrase>
+139
+<phrase> 141 </phrase>
+148 <phrase> 64 </phrase>
+58 <phrase> 9 </phrase> <phrase> 28 </phrase>
+143 <phrase> 71 </phrase> 144
+<phrase> 142 </phrase>
+<phrase> 145 </phrase> 147
+<phrase> 146 </phrase>
+<phrase> 79 </phrase>
+<phrase> 149 </phrase> <phrase> 152 </phrase>
+150 <phrase> 75 </phrase>
+151 <phrase> 153 </phrase>
+<phrase> 16 17 </phrase> <phrase> 158 160 </phrase> <phrase> 71 </phrase> <phrase> 28 </phrase>
+<phrase> 154 </phrase>
+<phrase> 155 </phrase> <phrase> 3 </phrase>
+156 <phrase> 105 </phrase> 15
+<phrase> 161 </phrase> 162 <phrase> 163 </phrase>
+<phrase> 159 </phrase>
+165 <phrase> 166 </phrase> <phrase> 167 </phrase>
+164
+<phrase> 168 </phrase> 81
+170 <phrase> 171 </phrase>
+19 172 <phrase> 173 </phrase>
+<phrase> 169 </phrase>
+<phrase> 174 </phrase> 175
+<phrase> 176 </phrase> 177
+<phrase> 92 </phrase>
+1 178 181 <phrase> 24 </phrase>
+45 <phrase> 12 </phrase> <phrase> 183 </phrase>
+179 <phrase> 182 </phrase>
+180 <phrase> 46 </phrase>
+184 <phrase> 161 </phrase>
+187 <phrase> 118 92 </phrase>
+<phrase> 185 </phrase>
+<phrase> 188 </phrase> 189
+<phrase> 186 </phrase>
+<phrase> 92 </phrase> 192
+190 <phrase> 39 </phrase>
+191 <phrase> 3 </phrase>
+193 199
+<phrase> 194 </phrase>
+<phrase> 195 </phrase>
+<phrase> 196 201 </phrase>
+66 198 <phrase> 200 </phrase>
+<phrase> 197 </phrase> <phrase> 14 </phrase>
+<phrase> 202 </phrase> <phrase> 205 </phrase>
+203
+<phrase> 204 </phrase>
+<phrase> 206 </phrase>
+<phrase> 207 </phrase> 208
+97 98 <phrase> 211 </phrase>
+66 <phrase> 209 </phrase>
+198 <phrase> 185 </phrase>
+19 <phrase> 212 </phrase>
+<phrase> 210 </phrase> 213
+<phrase> 214 </phrase>
+<phrase> 78 </phrase> 216
+215
+<phrase> 198 38 </phrase>
+<phrase> 35 62 </phrase>
+<phrase> 217 </phrase> 218
+<phrase> 219 </phrase> <phrase> 185 </phrase>
+220 <phrase> 79 </phrase>
+<phrase> 222 </phrase> <phrase> 223 </phrase>
+<phrase> 221 </phrase>
+<phrase> 113 </phrase> <phrase> 210 </phrase> 213
+122 56 225
+226 <phrase> 227 </phrase> <phrase> 35 62 </phrase>
+<phrase> 1 135 </phrase>
+<phrase> 224 </phrase>
+80 96
+<phrase> 228 </phrase> <phrase> 229 </phrase>
+190 <phrase> 140 </phrase> 162 <phrase> 174 </phrase> 178 <phrase> 10 </phrase>
+230 <phrase> 231 </phrase>
+<phrase> 232 </phrase> 234
+<phrase> 235 </phrase> <phrase> 75 </phrase>
+<phrase> 233 </phrase> <phrase> 236 </phrase>
+<phrase> 92 </phrase> 237
+198 248 <phrase> 250 </phrase>
+<phrase> 110 238 </phrase>
+<phrase> 158 160 </phrase> <phrase> 212 28 </phrase>
+<phrase> 110 </phrase> <phrase> 292 </phrase> <phrase> 223 </phrase>
+239
+<phrase> 240 </phrase> <phrase> 35 </phrase>
+241 243 <phrase> 245 </phrase>
+242 <phrase> 244 </phrase>
+<phrase> 246 </phrase> 115
+<phrase> 240 </phrase> <phrase> 322 </phrase>
+249 251 15
+257
+252 253 254
+76 <phrase> 267 </phrase>
+<phrase> 255 </phrase> <phrase> 185 </phrase>
+<phrase> 70 </phrase> 256 258
+259 261 <phrase> 105 </phrase>
+<phrase> 260 </phrase> <phrase> 221 </phrase>
+<phrase> 262 </phrase> <phrase> 264 </phrase> 265
+263 <phrase> 123 </phrase> <phrase> 161 </phrase>
+269 272 273 <phrase> 28 </phrase>
+311 <phrase> 312 </phrase>
+270
+<phrase> 271 212 </phrase>
+<phrase> 275 </phrase> <phrase> 276 </phrase>
+<phrase> 274 </phrase> <phrase> 91 </phrase>
+98 <phrase> 277 </phrase> 280
+<phrase> 278 </phrase> <phrase> 13 </phrase>
+279
+<phrase> 281 </phrase> 283
+282 284
+<phrase> 29 </phrase> 115
+5 <phrase> 62 </phrase>
+<phrase> 285 </phrase>
+45 <phrase> 155 </phrase>
+286 <phrase> 287 </phrase>
+193 <phrase> 59 </phrase>
+<phrase> 289 </phrase> <phrase> 59 </phrase>
+<phrase> 288 </phrase>
+<phrase> 291 </phrase>
+290
+<phrase> 91 </phrase>
+45 293
+<phrase> 92 </phrase> <phrase> 294 </phrase> <phrase> 295 </phrase>
+45 <phrase> 296 292 </phrase>
+181 <phrase> 46 </phrase> <phrase> 38 </phrase>
+45 <phrase> 298 </phrase> 300 <phrase> 134 </phrase>
+<phrase> 113 </phrase> 297
+45 <phrase> 246 </phrase>
+<phrase> 299 </phrase> 301
+<phrase> 302 </phrase> 304
+<phrase> 303 </phrase> <phrase> 305 </phrase>
+<phrase> 338 </phrase> 300 <phrase> 10 </phrase> <phrase> 250 </phrase> 570 571 573
+<phrase> 79 </phrase> 216
+<phrase> 306 </phrase>
+<phrase> 307 308 </phrase>
+<phrase> 309 </phrase> <phrase> 276 </phrase>
+<phrase> 313 21 </phrase>
+<phrase> 310 </phrase>
+<phrase> 113 </phrase> 314 <phrase> 277 </phrase> <phrase> 167 </phrase>
+<phrase> 313 </phrase>
+<phrase> 255 </phrase> <phrase> 13 </phrase>
+<phrase> 315 </phrase> 15 317
+<phrase> 316 </phrase>
+<phrase> 141 319 </phrase>
+318
+<phrase> 291 </phrase> <phrase> 320 </phrase>
+<phrase> 333 334 </phrase>
+<phrase> 7 </phrase>
+321 <phrase> 322 </phrase>
+<phrase> 325 141 </phrase> <phrase> 326 </phrase>
+<phrase> 324 64 </phrase>
+323
+327 144
+328 329
+330 <phrase> 78 </phrase> <phrase> 313 </phrase> 332 162 <phrase> 26 </phrase>
+45 <phrase> 152 </phrase>
+<phrase> 331 </phrase> 96
+<phrase> 349 </phrase> <phrase> 28 </phrase>
+143 569 <phrase> 10 </phrase>
+<phrase> 335 </phrase> <phrase> 13 </phrase>
+337 <phrase> 39 </phrase>
+<phrase> 336 </phrase> <phrase> 153 </phrase>
+<phrase> 339 </phrase> <phrase> 185 </phrase>
+<phrase> 141 </phrase> 332
+<phrase> 340 141 </phrase> 342
+341
+<phrase> 343 </phrase> <phrase> 39 </phrase>
+98 <phrase> 344 </phrase>
+<phrase> 210 345 </phrase>
+346 <phrase> 135 </phrase>
+<phrase> 16 17 </phrase> <phrase> 210 </phrase> 213
+<phrase> 7 </phrase> <phrase> 348 </phrase>
+<phrase> 347 </phrase> <phrase> 91 </phrase>
+<phrase> 351 </phrase> <phrase> 353 </phrase> 332
+<phrase> 352 </phrase> <phrase> 138 </phrase> <phrase> 135 </phrase>
+<phrase> 109 </phrase> 144
+<phrase> 350 </phrase>
+<phrase> 260 </phrase>
+<phrase> 212 13 </phrase>
+<phrase> 354 </phrase> 15
+165 357 <phrase> 359 </phrase>
+355 <phrase> 356 </phrase>
+5 <phrase> 358 </phrase> 360
+<phrase> 73 </phrase> 361
+<phrase> 33 </phrase> <phrase> 35 </phrase> 15 365 <phrase> 138 </phrase>
+362 <phrase> 160 </phrase>
+66 <phrase> 200 </phrase>
+<phrase> 363 </phrase> <phrase> 319 </phrase>
+<phrase> 364 </phrase> <phrase> 28 </phrase>
+<phrase> 298 </phrase> 366
+131 368 <phrase> 359 </phrase>
+367 <phrase> 369 </phrase> 370
+177 <phrase> 28 </phrase>
+<phrase> 112 </phrase> 372
+<phrase> 371 </phrase> 332
+373 <phrase> 375 </phrase>
+374 <phrase> 12 </phrase>
+254 <phrase> 32 </phrase>
+<phrase> 376 </phrase>
+<phrase> 3 </phrase>
+<phrase> 377 </phrase> <phrase> 185 </phrase>
+<phrase> 73 134 </phrase>
+<phrase> 289 </phrase> <phrase> 167 </phrase>
+<phrase> 35 62 </phrase> 162 <phrase> 64 </phrase>
+259 378 379
+<phrase> 12 </phrase> 381
+<phrase> 382 </phrase> 383
+<phrase> 380 </phrase>
+<phrase> 354 </phrase> <phrase> 384 </phrase>
+<phrase> 9 </phrase> <phrase> 387 </phrase>
+386
+385
+<phrase> 16 17 </phrase> <phrase> 389 </phrase> 81
+<phrase> 16 17 </phrase> 390
+<phrase> 388 </phrase> 392
+<phrase> 391 </phrase>
+<phrase> 9 </phrase> <phrase> 336 </phrase>
+<phrase> 393 </phrase>
+150 <phrase> 394 3 </phrase>
+395 <phrase> 134 </phrase>
+118 <phrase> 397 398 </phrase>
+<phrase> 335 </phrase> <phrase> 21 </phrase>
+<phrase> 396 </phrase> <phrase> 62 </phrase>
+<phrase> 70 </phrase> <phrase> 71 </phrase> 216 <phrase> 401 </phrase>
+399 <phrase> 46 </phrase>
+45 107
+400
+402 <phrase> 403 </phrase>
+180 328
+404 <phrase> 405 </phrase>
+406 131
+407 <phrase> 408 </phrase> <phrase> 409 </phrase>
+410 <phrase> 33 </phrase> <phrase> 34 35 </phrase>
+<phrase> 82 13 </phrase> 162 107 416
+411
+412 <phrase> 413 105 </phrase>
+97 98 414
+<phrase> 123 </phrase> 392
+<phrase> 415 </phrase> 417
+<phrase> 418 </phrase> <phrase> 35 62 </phrase>
+<phrase> 255 </phrase> <phrase> 376 </phrase>
+419 420 421
+<phrase> 21 </phrase> 81
+50 <phrase> 315 </phrase>
+76 <phrase> 174 </phrase>
+<phrase> 424 </phrase> <phrase> 205 </phrase> <phrase> 425 </phrase>
+<phrase> 423 </phrase> <phrase> 185 </phrase>
+422
+<phrase> 16 17 </phrase> <phrase> 426 </phrase>
+<phrase> 113 </phrase> 428 <phrase> 134 </phrase>
+<phrase> 427 </phrase>
+330 <phrase> 429 </phrase>
+431 <phrase> 432 </phrase> <phrase> 433 </phrase>
+<phrase> 430 </phrase>
+<phrase> 141 </phrase> <phrase> 171 </phrase>
+<phrase> 12 153 </phrase> 436
+<phrase> 437 </phrase> 300 438 439
+<phrase> 434 435 </phrase>
+<phrase> 110 3 </phrase> <phrase> 13 </phrase>
+<phrase> 440 </phrase> <phrase> 62 </phrase> 442
+<phrase> 141 38 </phrase>
+<phrase> 112 </phrase> <phrase> 441 </phrase>
+443 <phrase> 264 </phrase> <phrase> 91 </phrase>
+<phrase> 444 </phrase>
+<phrase> 140 </phrase> 446
+193 447
+<phrase> 445 </phrase>
+<phrase> 448 </phrase> 177 <phrase> 28 </phrase>
+<phrase> 394 3 </phrase>
+<phrase> 450 250 </phrase>
+<phrase> 174 </phrase> 81
+449
+451
+<phrase> 452 </phrase>
+453
+98 <phrase> 456 </phrase>
+<phrase> 454 </phrase> 162 <phrase> 457 </phrase>
+455 402 <phrase> 274 </phrase>
+80 329
+<phrase> 65 </phrase> 458 <phrase> 72 </phrase>
+66 <phrase> 460 </phrase>
+<phrase> 459 </phrase>
+<phrase> 410 24 </phrase>
+<phrase> 83 </phrase> 147
+330 <phrase> 78 5 </phrase>
+<phrase> 461 </phrase>
+<phrase> 413 105 </phrase>
+462 <phrase> 348 </phrase>
+463 <phrase> 233 </phrase> <phrase> 24 </phrase>
+269 272 <phrase> 465 </phrase> 467
+464 <phrase> 59 </phrase>
+<phrase> 343 134 </phrase>
+<phrase> 466 </phrase> <phrase> 468 </phrase>
+311 <phrase> 469 </phrase> <phrase> 470 </phrase>
+170 179 <phrase> 171 </phrase>
+<phrase> 469 </phrase> <phrase> 470 </phrase>
+472 420 <phrase> 473 </phrase> <phrase> 34 35 </phrase>
+<phrase> 471 </phrase>
+<phrase> 214 </phrase> <phrase> 475 </phrase>
+<phrase> 141 </phrase> 476 477
+<phrase> 474 </phrase>
+<phrase> 221 </phrase> 265
+98 251 332
+<phrase> 478 </phrase>
+479
+<phrase> 70 </phrase> <phrase> 73 </phrase> 345 <phrase> 307 </phrase>
+<phrase> 39 </phrase> 124 127
+<phrase> 456 </phrase>
+<phrase> 480 185 </phrase>
+<phrase> 481 </phrase> <phrase> 331 </phrase>
+<phrase> 340 152 </phrase>
+<phrase> 255 </phrase> <phrase> 483 </phrase>
+98 485 366
+482 <phrase> 484 </phrase>
+431 <phrase> 319 </phrase>
+486 <phrase> 39 </phrase>
+45 <phrase> 275 </phrase> <phrase> 197 </phrase>
+487
+<phrase> 488 </phrase> 491 <phrase> 65 </phrase> <phrase> 21 </phrase>
+<phrase> 490 250 </phrase> 162 <phrase> 493 </phrase>
+<phrase> 489 </phrase>
+492 <phrase> 494 </phrase>
+<phrase> 155 </phrase>
+<phrase> 495 </phrase>
+497 <phrase> 39 </phrase>
+496
+<phrase> 498 </phrase> <phrase> 38 </phrase>
+<phrase> 70 </phrase> <phrase> 1 135 </phrase> 365 <phrase> 501 </phrase>
+499
+500
+<phrase> 39 </phrase>
+502 503
+504 <phrase> 319 </phrase> 332 <phrase> 507 </phrase>
+<phrase> 505 506 </phrase>
+<phrase> 322 </phrase>
+<phrase> 508 </phrase> <phrase> 13 </phrase>
+510
+<phrase> 509 </phrase>
+<phrase> 16 17 </phrase> <phrase> 28 </phrase>
+97 98 <phrase> 513 </phrase>
+511 512
+406 84
+329
+<phrase> 145 </phrase> <phrase> 59 </phrase>
+<phrase> 388 </phrase> <phrase> 39 </phrase>
+<phrase> 415 </phrase> 515
+<phrase> 514 161 </phrase>
+516 273 332
+517 <phrase> 39 </phrase>
+122 518
+<phrase> 519 41 </phrase> <phrase> 24 </phrase>
+<phrase> 83 </phrase> 192
+180 <phrase> 307 </phrase>
+<phrase> 89 </phrase> 144
+<phrase> 415 </phrase>
+345
+45 <phrase> 171 </phrase>
+165 <phrase> 377 </phrase>
+<phrase> 133 </phrase> <phrase> 520 </phrase>
+<phrase> 202 </phrase> 521 <phrase> 523 </phrase> <phrase> 134 </phrase>
+<phrase> 34 35 </phrase>
+524 <phrase> 371 </phrase> 332
+522
+<phrase> 525 62 </phrase>
+<phrase> 526 </phrase> 528
+<phrase> 527 </phrase>
+<phrase> 50 102 </phrase> <phrase> 93 </phrase>
+<phrase> 529 </phrase>
+530
+<phrase> 532 14 </phrase> 535
+531 <phrase> 274 </phrase> <phrase> 137 </phrase>
+<phrase> 534 536 </phrase>
+533
+<phrase> 10 </phrase>
+45 172 <phrase> 183 </phrase>
+<phrase> 537 </phrase> <phrase> 221 </phrase>
+<phrase> 470 </phrase> 407
+<phrase> 339 </phrase>
+538 <phrase> 227 </phrase> 132 <phrase> 56 62 </phrase>
+<phrase> 539 </phrase>
+<phrase> 540 24 </phrase>
+541 542
+190 <phrase> 264 </phrase> <phrase> 229 </phrase> 544
+543
+<phrase> 155 545 </phrase> <phrase> 13 </phrase>
+<phrase> 207 </phrase> 15
+180 <phrase> 546 </phrase>
+<phrase> 2 64 </phrase>
+36 37 547
+97 98 <phrase> 450 </phrase> 550
+<phrase> 548 </phrase> <phrase> 62 </phrase>
+406 <phrase> 549 </phrase>
+<phrase> 140 </phrase> 552
+<phrase> 551 </phrase> <phrase> 26 </phrase>
+<phrase> 212 </phrase> <phrase> 305 </phrase>
+190 <phrase> 231 </phrase>
+<phrase> 110 3 </phrase>
+66 <phrase> 554 </phrase>
+<phrase> 553 </phrase> <phrase> 24 </phrase>
+150 <phrase> 9 3 </phrase>
+150 <phrase> 90 </phrase>
+<phrase> 274 231 </phrase>
+<phrase> 555 </phrase> <phrase> 223 </phrase>
+<phrase> 75 </phrase>
+<phrase> 557 558 </phrase>
+556
+559 561 562
+<phrase> 560 </phrase> 15
+<phrase> 344 </phrase>
+563 <phrase> 28 </phrase>
+<phrase> 564 </phrase> <phrase> 565 </phrase> <phrase> 32 </phrase>
+567 <phrase> 196 201 </phrase>
+568 <phrase> 415 </phrase> <phrase> 572 </phrase>
+566
+<phrase> 158 160 </phrase> <phrase> 581 </phrase>
+1 <phrase> 410 24 </phrase>
+<phrase> 433 </phrase>
+<phrase> 576 </phrase>
+<phrase> 448 </phrase> 574
+<phrase> 110 </phrase> <phrase> 27 </phrase> 115
+<phrase> 575 </phrase> <phrase> 185 </phrase>
+45 <phrase> 546 </phrase>
+<phrase> 577 </phrase>
+172 <phrase> 109 </phrase>
+<phrase> 110 </phrase> 579 <phrase> 155 </phrase>
+<phrase> 578 </phrase>
+<phrase> 319 </phrase> 332 162 <phrase> 110 </phrase> 582
+436 41
+111 <phrase> 135 </phrase>
+580
+<phrase> 105 </phrase>
+<phrase> 275 </phrase> <phrase> 441 </phrase>
+<phrase> 33 </phrase> 284
+583 584
+<phrase> 585 </phrase>
+586 447 <phrase> 401 </phrase>
+588 <phrase> 589 </phrase>
+587
+45 <phrase> 153 </phrase>
+590 <phrase> 160 </phrase> <phrase> 592 </phrase> 297
+<phrase> 591 </phrase>
+198 <phrase> 325 141 </phrase> <phrase> 38 </phrase>
+<phrase> 227 </phrase> <phrase> 17 </phrase> <phrase> 92 </phrase> <phrase> 426 </phrase> 15
+<phrase> 16 17 </phrase> <phrase> 593 </phrase>
+<phrase> 331 </phrase>
+<phrase> 25 </phrase> 594
+<phrase> 595 </phrase> <phrase> 227 </phrase>
+<phrase> 289 </phrase> 368
+<phrase> 275 </phrase>
+407 <phrase> 176 </phrase>
+436 5 332
+517 <phrase> 28 </phrase>
+<phrase> 171 </phrase>
+<phrase> 21 </phrase> 597 <phrase> 91 </phrase>
+<phrase> 596 </phrase> 368
+330 <phrase> 313 </phrase>
+<phrase> 598 332 </phrase>
+<phrase> 141 </phrase> <phrase> 13 </phrase>
+254 <phrase> 599 </phrase> <phrase> 221 </phrase>
+<phrase> 212 </phrase>
+190 <phrase> 140 </phrase>
+<phrase> 16 17 </phrase> <phrase> 410 24 </phrase>
+1 <phrase> 600 24 </phrase>
+601 <phrase> 425 </phrase>
+602
+<phrase> 60 </phrase> 570 <phrase> 469 </phrase> <phrase> 470 </phrase>
+603
+66 <phrase> 275 </phrase> <phrase> 200 </phrase>
+604
+<phrase> 605 </phrase>
+<phrase> 606 </phrase>
+607
+608
+<phrase> 610 153 </phrase> 536
+<phrase> 609 </phrase> 611
+<phrase> 612 </phrase>
+<phrase> 614 </phrase> <phrase> 59 </phrase> 616
+504 615 615
+<phrase> 613 </phrase>
+<phrase> 20 </phrase> 536
+617 <phrase> 135 </phrase>
+<phrase> 397 398 </phrase>
+410 216 458
+<phrase> 618 </phrase> <phrase> 91 </phrase>
+<phrase> 71 </phrase> 328
+<phrase> 39 </phrase> 619
+187 <phrase> 123 </phrase> 447
+<phrase> 600 </phrase> <phrase> 123 </phrase> <phrase> 161 </phrase>
+328
+<phrase> 620 </phrase> 536
+621 181 <phrase> 105 </phrase>
+622
+<phrase> 623 </phrase> <phrase> 64 </phrase>
+<phrase> 625 240 </phrase> 15
+<phrase> 624 </phrase>
+407 <phrase> 474 </phrase> 464 300 <phrase> 134 </phrase>
+<phrase> 626 </phrase>
+<phrase> 456 </phrase> <phrase> 212 </phrase>
+<phrase> 627 </phrase> 628
+<phrase> 113 </phrase>
+273 332
+82 <phrase> 35 </phrase>
+<phrase> 629 </phrase> <phrase> 72 </phrase>
+122 328
+66 <phrase> 630 </phrase>
+<phrase> 565 </phrase> <phrase> 32 </phrase>
+<phrase> 344 </phrase> 115
+<phrase> 298 24 </phrase>
+<phrase> 586 134 </phrase>
+180 <phrase> 221 </phrase>
+<phrase> 565 24 </phrase>
+<phrase> 632 </phrase> 633
+<phrase> 631 </phrase>
+634 <phrase> 636 </phrase>
+635
+118 <phrase> 637 </phrase>
+<phrase> 638 </phrase> <phrase> 72 </phrase> 458
+45 639
+641 <phrase> 171 </phrase>
+<phrase> 640 </phrase>
+<phrase> 9 </phrase> <phrase> 264 </phrase> 642
+<phrase> 645 </phrase> <phrase> 24 </phrase>
+644 <phrase> 647 </phrase>
+<phrase> 643 </phrase> 646
+150 <phrase> 508 </phrase>
+<phrase> 288 </phrase> <phrase> 38 </phrase>
+<phrase> 79 </phrase> <phrase> 322 </phrase>
+<phrase> 12 </phrase> 648
+172 <phrase> 80 358 </phrase>
+649 300 651 652
+180 <phrase> 340 </phrase> <phrase> 276 </phrase>
+<phrase> 9 </phrase> <phrase> 64 </phrase>
+<phrase> 335 </phrase> 650
+<phrase> 9 </phrase> <phrase> 163 </phrase>
+<phrase> 525 </phrase>
+653 <phrase> 123 </phrase> <phrase> 104 </phrase>
+170 656 <phrase> 171 </phrase>
+<phrase> 155 </phrase> 655
+<phrase> 141 </phrase> <phrase> 322 </phrase>
+654 657 <phrase> 30 </phrase>
+252 253 <phrase> 262 </phrase>
+660 <phrase> 662 664 </phrase> <phrase> 161 </phrase>
+658
+<phrase> 659 </phrase> <phrase> 24 </phrase>
+<phrase> 354 </phrase> 284
+<phrase> 32 </phrase>
+<phrase> 661 663 </phrase> <phrase> 292 </phrase>
+<phrase> 666 </phrase> <phrase> 62 </phrase> 332 668 668
+665 <phrase> 105 </phrase>
+<phrase> 667 </phrase> <phrase> 669 </phrase>
+45 670 582
+672 <phrase> 221 674 </phrase> 675
+<phrase> 671 299 </phrase>
+<phrase> 110 </phrase> <phrase> 673 </phrase>
+<phrase> 676 </phrase> <phrase> 34 35 </phrase>
+<phrase> 16 17 </phrase> <phrase> 39 </phrase>
+<phrase> 105 </phrase> 15
+<phrase> 123 </phrase>
+<phrase> 246 </phrase>
+<phrase> 677 </phrase>
+<phrase> 678 </phrase>
+<phrase> 389 </phrase>
+<phrase> 481 134 </phrase>
+680 <phrase> 681 </phrase>
+19 682 <phrase> 683 </phrase>
+679
+684 685 162 <phrase> 686 </phrase>
+45 <phrase> 110 </phrase> <phrase> 183 </phrase>
+687 <phrase> 62 </phrase>
+<phrase> 9 </phrase> <phrase> 79 </phrase> <phrase> 21 </phrase>
+<phrase> 415 </phrase> 688
+273 689
+<phrase> 690 </phrase> 691
+<phrase> 692 </phrase>
+<phrase> 255 </phrase>
+97 693 670 <phrase> 153 </phrase>
+357 <phrase> 35 </phrase>
+<phrase> 158 160 </phrase> 695 <phrase> 91 </phrase>
+122 <phrase> 9 </phrase> 697 500 <phrase> 469 </phrase>
+<phrase> 694 </phrase> 284
+165 <phrase> 89 </phrase> <phrase> 696 </phrase>
+122 <phrase> 9 </phrase> 697 <phrase> 699 </phrase> <phrase> 469 </phrase>
+<phrase> 236 </phrase>
+<phrase> 698 </phrase>
+<phrase> 437 </phrase>
+66 <phrase> 701 </phrase>
+<phrase> 700 </phrase>
+<phrase> 146 </phrase> <phrase> 292 </phrase>
+139 <phrase> 371 </phrase> 332
+122 273 <phrase> 702 </phrase>
+<phrase> 703 </phrase> 80
+<phrase> 262 </phrase> 704
+<phrase> 73 </phrase> 248 <phrase> 221 </phrase>
+118 <phrase> 277 </phrase>
+61 <phrase> 242 30 </phrase>
+<phrase> 705 </phrase> <phrase> 275 </phrase>
+<phrase> 46 </phrase> 115
+<phrase> 29 </phrase>
+45 <phrase> 205 </phrase>
+<phrase> 273 15 </phrase>
+<phrase> 706 </phrase>
+<phrase> 35 </phrase>
+<phrase> 707 </phrase> <phrase> 709 </phrase>
+<phrase> 708 </phrase> 329
+407 670 582
+712 713
+711 <phrase> 501 </phrase>
+<phrase> 710 </phrase>
+<phrase> 20 </phrase> <phrase> 38 </phrase>
+80
+<phrase> 250 34 </phrase>
+<phrase> 714 </phrase> <phrase> 38 </phrase>
+170 <phrase> 474 </phrase>
+<phrase> 2 </phrase> <phrase> 133 </phrase>
+715 720
+<phrase> 716 </phrase> <phrase> 38 </phrase>
+170 <phrase> 84 59 </phrase>
+717
+718 <phrase> 572 </phrase>
+<phrase> 207 </phrase>
+181 <phrase> 719 60 </phrase>
+<phrase> 275 </phrase> <phrase> 185 </phrase>
+721
+407 <phrase> 171 </phrase>
+172 <phrase> 712 64 </phrase>
+463 <phrase> 426 </phrase> 722 <phrase> 92 </phrase>
+723
+682 <phrase> 683 </phrase>
+118 <phrase> 79 </phrase>
+<phrase> 110 163 </phrase>
+180 198 727
+118 <phrase> 725 </phrase>
+<phrase> 275 </phrase> <phrase> 9 </phrase> 82 <phrase> 35 </phrase>
+<phrase> 724 </phrase>
+193 726
+<phrase> 326 </phrase>
+728 729 730
+<phrase> 92 </phrase> <phrase> 426 </phrase> 317
+<phrase> 731 </phrase> <phrase> 62 </phrase> <phrase> 734 </phrase>
+<phrase> 78 </phrase> 732
+<phrase> 733 </phrase>
+735
+<phrase> 415 </phrase> <phrase> 84 59 </phrase>
+<phrase> 736 </phrase>
+<phrase> 738 134 </phrase>
+181 737 <phrase> 35 </phrase>
+<phrase> 494 </phrase>
+<phrase> 73 35 </phrase>
+739
+740 <phrase> 35 </phrase> 76 <phrase> 62 </phrase> 162 <phrase> 0 </phrase> <phrase> 741 </phrase>
+107 80
+443 144
+<phrase> 275 </phrase> <phrase> 64 </phrase>
+76 <phrase> 62 </phrase>
+346 242 <phrase> 244 </phrase>
+<phrase> 16 17 </phrase> 517 <phrase> 39 </phrase>
+198
+742
+743 744
+<phrase> 746 </phrase> <phrase> 3 </phrase>
+<phrase> 214 </phrase> 745
+<phrase> 46 </phrase> <phrase> 298 </phrase>
+<phrase> 339 </phrase> <phrase> 747 </phrase>
+<phrase> 70 </phrase> <phrase> 748 </phrase> <phrase> 481 </phrase> <phrase> 320 </phrase>
+<phrase> 110 749 </phrase>
+<phrase> 498 </phrase>
+625 751
+750
+<phrase> 92 </phrase> 199
+<phrase> 752 </phrase> 5
+<phrase> 753 754 </phrase>
+504 <phrase> 507 </phrase> <phrase> 335 </phrase> 755
+<phrase> 756 </phrase> 273 332
+<phrase> 275 </phrase> <phrase> 13 </phrase>
+758 759 760 <phrase> 171 </phrase>
+<phrase> 10 </phrase> <phrase> 757 </phrase>
+<phrase> 275 </phrase> 115
+392 <phrase> 415 </phrase> 300 762
+567 <phrase> 196 </phrase> <phrase> 231 </phrase>
+761 <phrase> 763 </phrase>
+<phrase> 592 </phrase>
+764 766 372
+<phrase> 520 </phrase> <phrase> 91 </phrase>
+765 <phrase> 62 </phrase> 767
+<phrase> 13 </phrase>
+<phrase> 224 </phrase> <phrase> 2 14 </phrase>
+56 328 329
+<phrase> 768 </phrase>
+769 <phrase> 227 </phrase> <phrase> 425 </phrase>
+770 771 <phrase> 773 </phrase>
+800
+132 <phrase> 161 </phrase>
+<phrase> 772 </phrase>
+<phrase> 774 </phrase>
+<phrase> 255 </phrase> 776
+775 <phrase> 28 </phrase>
+<phrase> 202 </phrase> 777 <phrase> 637 </phrase>
+779 <phrase> 64 </phrase> 15
+778
+<phrase> 686 </phrase> <phrase> 637 </phrase>
+311 780
+<phrase> 56 62 </phrase>
+740 <phrase> 35 </phrase>
+<phrase> 392 92 </phrase>
+781 <phrase> 160 </phrase> <phrase> 782 </phrase>
+148 <phrase> 163 </phrase>
+<phrase> 277 </phrase> 147
+783 784
+172 <phrase> 298 </phrase>
+<phrase> 785 </phrase> <phrase> 46 </phrase>
+<phrase> 786 </phrase>
+<phrase> 384 </phrase> <phrase> 171 </phrase>
+787
+<phrase> 59 </phrase> <phrase> 59 </phrase> <phrase> 788 </phrase> <phrase> 60 </phrase>
+355 <phrase> 796 </phrase> 332
+177
+45 789
+790
+<phrase> 600 </phrase> 791
+<phrase> 34 </phrase> 317
+<phrase> 514 </phrase> <phrase> 198 38 </phrase>
+<phrase> 166 </phrase> <phrase> 59 </phrase>
+792 793
+<phrase> 794 </phrase>
+<phrase> 232 </phrase> 234 <phrase> 59 </phrase>
+165 <phrase> 613 </phrase>
+<phrase> 795 </phrase> 237 <phrase> 797 </phrase>
+180 <phrase> 276 </phrase>
+<phrase> 25 </phrase> <phrase> 798 </phrase>
+<phrase> 709 </phrase>
+<phrase> 799 </phrase>
+<phrase> 123 </phrase> 801
+<phrase> 20 </phrase> <phrase> 319 </phrase>
+45 <phrase> 799 </phrase>
+330 <phrase> 79 </phrase>
+715 803
+802 <phrase> 91 </phrase>
+<phrase> 307 </phrase> 198 <phrase> 154 </phrase>
+<phrase> 712 64 </phrase> 345
+804 198 248 <phrase> 14 </phrase>
+61 <phrase> 62 </phrase>
+<phrase> 83 </phrase> 805
+<phrase> 110 </phrase> <phrase> 233 </phrase> <phrase> 24 </phrase>
+191 <phrase> 394 3 </phrase>
+<phrase> 0 345 </phrase>
+<phrase> 16 17 </phrase> <phrase> 140 </phrase> 81
+<phrase> 481 </phrase> 332
+<phrase> 578 806 </phrase>
+<phrase> 719 </phrase> 15
+<phrase> 708 </phrase> 15
+<phrase> 377 </phrase> 808 809
+<phrase> 807 </phrase>
+<phrase> 16 17 </phrase> <phrase> 264 </phrase> <phrase> 91 </phrase>
+367 <phrase> 12 </phrase> 370
+<phrase> 600 </phrase> <phrase> 134 </phrase>
+45 <phrase> 810 </phrase> <phrase> 32 </phrase>
+190 <phrase> 264 </phrase> 265
+<phrase> 811 </phrase> <phrase> 233 15 </phrase>
+<phrase> 174 </phrase> <phrase> 322 </phrase>
+<phrase> 481 </phrase> <phrase> 426 </phrase>
+625 <phrase> 14 </phrase> 15
+812 771 <phrase> 813 </phrase>
+<phrase> 322 </phrase> <phrase> 3 </phrase>
+<phrase> 163 </phrase>
+<phrase> 2 </phrase> <phrase> 182 </phrase> 300 <phrase> 134 </phrase>
+<phrase> 83 </phrase> 817
+814 816
+<phrase> 815 </phrase> 80
+165 368
+<phrase> 818 </phrase>
+80 <phrase> 141 </phrase>
+458 <phrase> 72 </phrase>
+<phrase> 274 </phrase> <phrase> 16 </phrase>
+<phrase> 819 </phrase> <phrase> 64 </phrase>
+<phrase> 92 </phrase> <phrase> 161 </phrase>
+<phrase> 351 </phrase>
+181 821 <phrase> 334 </phrase>
+820
+823 824
+822
+<phrase> 825 </phrase>
+407 <phrase> 826 </phrase>
+<phrase> 32 </phrase> <phrase> 426 </phrase>
+<phrase> 73 </phrase> <phrase> 200 </phrase>
+<phrase> 65 </phrase> <phrase> 84 59 </phrase>
+827
+<phrase> 12 </phrase> <phrase> 336 </phrase>
+<phrase> 828 </phrase>
+<phrase> 589 </phrase>
+98 <phrase> 700 </phrase>
+<phrase> 174 </phrase>
+<phrase> 16 17 </phrase> <phrase> 75 </phrase>
+<phrase> 829 </phrase> 830
+831
+<phrase> 832 </phrase>
+833 <phrase> 152 </phrase>
+<phrase> 65 </phrase> <phrase> 35 62 </phrase> <phrase> 401 </phrase>
+158 <phrase> 637 </phrase>
+834 115
+407 <phrase> 9 </phrase> 835 582
+<phrase> 277 </phrase> <phrase> 59 </phrase>
+<phrase> 837 </phrase> 15
+<phrase> 836 </phrase>
+367 <phrase> 64 </phrase>
+<phrase> 307 </phrase>
+838
+840 446
+<phrase> 839 </phrase>
+567 <phrase> 196 </phrase> <phrase> 394 3 </phrase>
+538 <phrase> 227 </phrase> <phrase> 326 </phrase> <phrase> 62 </phrase>
+841 216
+<phrase> 424 </phrase> <phrase> 28 </phrase>
+842 843 844 845
+<phrase> 16 17 </phrase> 847 383
+<phrase> 846 </phrase> <phrase> 305 </phrase>
+181 <phrase> 46 </phrase>
+<phrase> 12 </phrase> <phrase> 233 </phrase> 284
+<phrase> 848 </phrase> <phrase> 572 </phrase>
+443 <phrase> 160 </phrase>
+<phrase> 600 </phrase> 284
+<phrase> 0 </phrase> <phrase> 494 </phrase>
+849 <phrase> 223 </phrase>
+<phrase> 49 </phrase>
+<phrase> 255 </phrase> 372
+<phrase> 49 </phrase> <phrase> 134 </phrase>
+258 850 851
+<phrase> 389 </phrase> 81
+852 <phrase> 62 </phrase>
+<phrase> 853 854 </phrase>
+<phrase> 786 </phrase> 830
+<phrase> 298 </phrase> 856
+<phrase> 855 </phrase>
+<phrase> 123 </phrase> 830 857
+<phrase> 858 </phrase> 859
+<phrase> 16 17 </phrase> <phrase> 158 160 </phrase> <phrase> 71 </phrase> 144
+407 <phrase> 141 </phrase>
+<phrase> 860 </phrase> 420 861
+<phrase> 92 </phrase> 237 <phrase> 797 </phrase>
+464 <phrase> 277 </phrase> <phrase> 59 </phrase>
+<phrase> 371 </phrase> 477
+<phrase> 289 </phrase> 688
+<phrase> 277 </phrase> <phrase> 627 </phrase>
+184 <phrase> 359 </phrase>
+407 <phrase> 537 </phrase> <phrase> 862 </phrase>
+<phrase> 158 160 </phrase> 81
+<phrase> 331 </phrase> 15
+<phrase> 221 </phrase> 108
+<phrase> 863 </phrase>
+45 <phrase> 686 </phrase>
+<phrase> 864 14 </phrase> 867
+865 866
+122 <phrase> 152 </phrase>
+<phrase> 173 </phrase> 345
+868 <phrase> 160 </phrase> 144
+<phrase> 415 </phrase> 392 870
+<phrase> 498 </phrase> 372
+<phrase> 174 </phrase> <phrase> 429 </phrase>
+<phrase> 869 </phrase>
+386 <phrase> 627 </phrase>
+<phrase> 871 3 </phrase>
+<phrase> 262 </phrase> <phrase> 116 </phrase>
+269 272 <phrase> 140 </phrase> 874
+<phrase> 123 </phrase> <phrase> 872 </phrase>
+<phrase> 873 59 </phrase>
+516
+45 <phrase> 298 </phrase>
+875 <phrase> 233 15 </phrase>
+<phrase> 231 </phrase> <phrase> 155 </phrase> <phrase> 3 </phrase>
+<phrase> 876 </phrase> 332
+80 15
+877
+<phrase> 212 </phrase> 878
+<phrase> 30 </phrase> <phrase> 879 </phrase>
+<phrase> 92 </phrase> <phrase> 627 </phrase>
+170 <phrase> 712 791 </phrase>
+<phrase> 593 </phrase>
+<phrase> 880 </phrase> 144
+881 88 80
+<phrase> 30 </phrase>
+<phrase> 719 60 </phrase> <phrase> 719 </phrase> <phrase> 788 </phrase> <phrase> 60 </phrase>
+<phrase> 52 </phrase> 372
+<phrase> 882 312 </phrase>
+<phrase> 575 </phrase> 372
+<phrase> 748 </phrase> <phrase> 46 </phrase> 883
+<phrase> 140 361 885 </phrase>
+884
+<phrase> 202 </phrase> <phrase> 481 </phrase> 332
+886
+<phrase> 54 </phrase>
+<phrase> 75 </phrase> 178 <phrase> 669 </phrase>
+19 <phrase> 171 </phrase>
+<phrase> 415 </phrase> 887
+259 888 <phrase> 105 </phrase> 889
+184 <phrase> 28 </phrase>
+<phrase> 275 </phrase> 890 <phrase> 185 </phrase>
+<phrase> 141 </phrase> 53
+<phrase> 632 </phrase> <phrase> 1057 </phrase>
+<phrase> 310 </phrase> <phrase> 38 </phrase>
+536 891
+892 76 <phrase> 62 </phrase>
+6 <phrase> 75 </phrase>
+<phrase> 893 893 </phrase> <phrase> 32 </phrase>
+61 <phrase> 174 </phrase>
+823 <phrase> 185 </phrase>
+<phrase> 894 </phrase>
+<phrase> 632 </phrase> <phrase> 34 35 </phrase>
+98 <phrase> 895 </phrase> 332
+<phrase> 52 </phrase>
+<phrase> 123 </phrase> <phrase> 627 </phrase>
+856
+198 <phrase> 64 </phrase>
+<phrase> 896 </phrase>
+<phrase> 415 </phrase> <phrase> 93 </phrase>
+<phrase> 897 </phrase>
+567 <phrase> 196 </phrase> <phrase> 231 </phrase> <phrase> 155 </phrase> <phrase> 3 </phrase>
+269 272 898 760 900 <phrase> 171 </phrase>
+<phrase> 429 </phrase>
+<phrase> 335 </phrase> <phrase> 35 62 </phrase>
+118 <phrase> 171 </phrase>
+45 899 <phrase> 32 </phrase>
+<phrase> 901 358 </phrase> 15
+<phrase> 29 </phrase> 80
+902
+903 <phrase> 763 </phrase>
+<phrase> 714 </phrase>
+519 <phrase> 331 </phrase>
+904 <phrase> 171 </phrase>
+<phrase> 52 </phrase> <phrase> 698 </phrase> 115
+<phrase> 138 </phrase> 273 <phrase> 702 </phrase>
+<phrase> 140 </phrase> <phrase> 229 </phrase>
+905 <phrase> 906 </phrase> <phrase> 909 </phrase> 910
+<phrase> 514 198 </phrase> <phrase> 72 </phrase> <phrase> 34 35 </phrase>
+<phrase> 92 </phrase> 907
+908 <phrase> 911 </phrase> <phrase> 797 </phrase>
+<phrase> 14 </phrase> <phrase> 240 </phrase>
+<phrase> 912 </phrase>
+<phrase> 913 274 </phrase> <phrase> 526 </phrase>
+330 <phrase> 21 </phrase> <phrase> 174 </phrase> <phrase> 35 </phrase>
+66 <phrase> 202 </phrase> 293
+<phrase> 914 915 </phrase>
+<phrase> 829 </phrase> <phrase> 59 </phrase>
+<phrase> 916 3 </phrase>
+81
+<phrase> 209 </phrase> 329
+<phrase> 227 </phrase> <phrase> 17 </phrase> <phrase> 481 </phrase> <phrase> 315 </phrase>
+917 115 <phrase> 221 </phrase>
+45 <phrase> 377 </phrase>
+<phrase> 918 </phrase> 919
+<phrase> 920 </phrase> <phrase> 921 </phrase>
+<phrase> 398 </phrase>
+<phrase> 33 </phrase> <phrase> 923 </phrase>
+<phrase> 73 </phrase> <phrase> 28 </phrase>
+<phrase> 166 </phrase> <phrase> 167 </phrase>
+922 924
+<phrase> 2 </phrase> <phrase> 343 </phrase>
+925
+<phrase> 351 </phrase> <phrase> 39 </phrase>
+<phrase> 632 </phrase> 175
+<phrase> 527 </phrase> 926 <phrase> 927 </phrase>
+118 328
+<phrase> 64 </phrase> 1060
+<phrase> 716 </phrase>
+19 368
+<phrase> 424 </phrase>
+<phrase> 873 59 </phrase> 929
+930 420 <phrase> 931 </phrase>
+<phrase> 928 </phrase>
+5 <phrase> 21 </phrase>
+<phrase> 932 </phrase>
+<phrase> 112 </phrase>
+<phrase> 9 </phrase> <phrase> 32 </phrase>
+<phrase> 50 102 </phrase> 805
+933
+<phrase> 2 </phrase> <phrase> 934 </phrase>
+<phrase> 0 935 </phrase>
+<phrase> 572 </phrase>
+<phrase> 16 17 </phrase> 936
+<phrase> 140 </phrase> <phrase> 939 </phrase>
+<phrase> 937 </phrase>
+938
+<phrase> 110 </phrase> <phrase> 173 </phrase> <phrase> 75 </phrase>
+<phrase> 73 </phrase> 942 <phrase> 185 </phrase>
+941 <phrase> 214 </phrase>
+<phrase> 940 </phrase>
+<phrase> 255 </phrase> 115
+<phrase> 943 </phrase> <phrase> 944 </phrase>
+<phrase> 158 160 </phrase> <phrase> 71 </phrase> <phrase> 28 </phrase>
+<phrase> 232 </phrase> 234 <phrase> 167 </phrase>
+<phrase> 70 </phrase> 945 <phrase> 401 </phrase>
+<phrase> 12 </phrase> <phrase> 64 </phrase>
+<phrase> 946 </phrase>
+<phrase> 141 </phrase> 15
+<phrase> 16 17 </phrase> <phrase> 113 </phrase> 18
+<phrase> 110 </phrase> <phrase> 233 </phrase> 284
+<phrase> 450 </phrase> <phrase> 43 </phrase>
+<phrase> 698 </phrase> <phrase> 185 </phrase>
+273 950
+947 <phrase> 298 </phrase>
+948 <phrase> 401 </phrase> 952
+<phrase> 202 </phrase> <phrase> 953 212 </phrase>
+<phrase> 949 </phrase> 951
+<phrase> 955 </phrase> 957 <phrase> 292 </phrase>
+956
+<phrase> 954 </phrase>
+41
+<phrase> 34 35 </phrase> <phrase> 441 </phrase>
+151 582
+<phrase> 958 </phrase> <phrase> 959 </phrase>
+653 960
+<phrase> 92 </phrase> 688
+<phrase> 82 13 </phrase> 961
+639
+<phrase> 962 </phrase>
+<phrase> 963 754 </phrase>
+<phrase> 140 </phrase> 964 162 <phrase> 219 </phrase> <phrase> 35 </phrase> 809
+<phrase> 514 198 </phrase>
+<phrase> 123 </phrase> <phrase> 167 </phrase>
+<phrase> 82 13 </phrase>
+<phrase> 909 </phrase> 965
+<phrase> 537 966 </phrase>
+<phrase> 65 </phrase> <phrase> 26 </phrase>
+804 <phrase> 12 14 </phrase> 162 <phrase> 219 </phrase>
+170 536
+386 <phrase> 59 </phrase>
+<phrase> 967 </phrase>
+<phrase> 387 </phrase>
+<phrase> 0 62 </phrase>
+<phrase> 12 </phrase> 436 <phrase> 782 </phrase>
+<phrase> 212 356 </phrase>
+<phrase> 140 </phrase> <phrase> 969 </phrase> <phrase> 240 153 </phrase>
+968
+971 <phrase> 91 </phrase>
+970
+242 <phrase> 3 </phrase>
+<phrase> 137 </phrase>
+<phrase> 600 </phrase> 852 <phrase> 62 </phrase>
+<phrase> 73 </phrase> <phrase> 72 </phrase>
+972 <phrase> 73 </phrase> 216
+<phrase> 9 3 </phrase>
+<phrase> 786 </phrase> 528
+973
+<phrase> 2 </phrase> <phrase> 80 358 </phrase>
+<phrase> 33 </phrase> 974 15
+<phrase> 273 976 </phrase>
+975
+<phrase> 145 </phrase> 830
+269 272 <phrase> 33 </phrase> 284
+66 <phrase> 686 </phrase>
+<phrase> 977 </phrase> <phrase> 185 </phrase>
+<phrase> 978 </phrase> <phrase> 173 </phrase>
+979
+<phrase> 980 </phrase>
+98 <phrase> 481 </phrase> 332
+981 982
+<phrase> 335 </phrase> <phrase> 10 </phrase>
+<phrase> 415 </phrase> 983
+66 984 <phrase> 89 </phrase>
+198 <phrase> 322 </phrase>
+985
+330 <phrase> 21 </phrase>
+986
+<phrase> 987 </phrase>
+6 988 <phrase> 7 </phrase>
+<phrase> 9 </phrase> <phrase> 494 </phrase> <phrase> 38 </phrase>
+989 642
+1017 <phrase> 572 </phrase>
+<phrase> 339 </phrase> <phrase> 38 </phrase>
+<phrase> 990 163 </phrase>
+991
+<phrase> 620 </phrase> <phrase> 351 </phrase> 15
+<phrase> 135 </phrase> <phrase> 28 </phrase>
+<phrase> 59 </phrase> 477 993
+<phrase> 140 </phrase> 992
+994
+66 <phrase> 75 </phrase>
+740 <phrase> 35 </phrase> 996 968 178 999 <phrase> 34 35 </phrase>
+<phrase> 2 </phrase> 995 <phrase> 212 </phrase>
+663 <phrase> 276 </phrase>
+<phrase> 377 </phrase>
+997 998
+<phrase> 403 </phrase>
+<phrase> 609 </phrase> <phrase> 38 </phrase>
+115
+273 <phrase> 7 </phrase>
+1000
+259 261 <phrase> 1001 </phrase> 1002
+<phrase> 158 160 </phrase> 903
+<phrase> 186 </phrase> 416
+266 816
+45 1003 1004 <phrase> 32 </phrase>
+367 <phrase> 307 </phrase>
+45 <phrase> 176 </phrase>
+619 743
+1005 332 1006
+<phrase> 647 </phrase> 332
+45 <phrase> 29 </phrase>
+406 <phrase> 161 </phrase>
+259 261 <phrase> 140 </phrase> 15
+172 <phrase> 620 </phrase>
+1008 1009 1011
+1007
+407 1010 582
+98 <phrase> 246 </phrase>
+<phrase> 141 </phrase> <phrase> 39 </phrase>
+<phrase> 309 38 </phrase>
+<phrase> 33 </phrase> <phrase> 72 </phrase>
+<phrase> 9 </phrase> <phrase> 494 </phrase>
+1013 <phrase> 212 </phrase>
+<phrase> 1061 </phrase> 120
+1012
+6 <phrase> 61 334 </phrase>
+<phrase> 1014 </phrase>
+1015 <phrase> 185 </phrase>
+<phrase> 1016 </phrase> <phrase> 28 </phrase>
+1018 1019 175 162 <phrase> 627 </phrase>
+1020 328
+<phrase> 307 </phrase> 15
+118 <phrase> 632 </phrase>
+<phrase> 110 </phrase> 1021
+45 <phrase> 630 </phrase>
+<phrase> 182 </phrase> <phrase> 529 </phrase>
+1022
+<phrase> 1023 </phrase>
+438 <phrase> 240 </phrase> 1024 1025
+<phrase> 158 160 </phrase> <phrase> 210 </phrase> 213
+<phrase> 448 </phrase> <phrase> 28 </phrase>
+<phrase> 398 </phrase> <phrase> 322 </phrase>
+<phrase> 335 </phrase> <phrase> 1026 </phrase>
+<phrase> 1027 </phrase> 1028
+251 <phrase> 38 </phrase>
+<phrase> 176 </phrase>
+<phrase> 9 </phrase> <phrase> 1029 </phrase>
+181 <phrase> 155 </phrase>
+1030
+<phrase> 76 1031 </phrase>
+<phrase> 632 </phrase> <phrase> 264 </phrase> 265
+1032
+392 <phrase> 415 </phrase>
+711 392 300 762
+<phrase> 250 </phrase>
+<phrase> 1033 </phrase>
+<phrase> 344 </phrase> <phrase> 72 </phrase>
+<phrase> 1034 </phrase>
+792 1035 1036
+<phrase> 16 17 </phrase> 164
+<phrase> 76 216 </phrase> 1038
+<phrase> 141 </phrase> 1038
+<phrase> 367 1039 </phrase>
+1040 1041
+952 1042 <phrase> 62 </phrase>
+122 1044 500 <phrase> 469 </phrase>
+410 <phrase> 35 </phrase>
+1 124 127
+1043
+45 <phrase> 694 </phrase>
+<phrase> 415 </phrase> 1045
+<phrase> 214 </phrase> 528
+712 1046
+<phrase> 75 </phrase> <phrase> 91 </phrase>
+158 <phrase> 105 </phrase>
+181 <phrase> 334 </phrase>
+190 <phrase> 79 </phrase> <phrase> 21 </phrase>
+45 <phrase> 700 </phrase>
+<phrase> 89 </phrase>
+<phrase> 123 </phrase> 1047
+<phrase> 523 </phrase> <phrase> 305 </phrase>
+<phrase> 1048 </phrase> <phrase> 315 </phrase>
+<phrase> 16 17 </phrase> <phrase> 389 </phrase>
+1049
+<phrase> 123 </phrase> <phrase> 415 </phrase> <phrase> 84 59 </phrase>
+<phrase> 364 </phrase> 177 <phrase> 28 </phrase>
+<phrase> 16 17 </phrase> <phrase> 1051 </phrase>
+1050
+<phrase> 123 </phrase> <phrase> 315 </phrase>
+865
+<phrase> 34 35 1052 </phrase>
+165 <phrase> 475 </phrase>
+<phrase> 620 </phrase>
+<phrase> 1054 </phrase>
+<phrase> 1053 </phrase> 594
+518
+<phrase> 275 </phrase> <phrase> 326 </phrase>
+<phrase> 709 </phrase> 1055
+<phrase> 35 </phrase> 1056
+<phrase> 377 </phrase> <phrase> 39 </phrase> <phrase> 371 </phrase>
+<phrase> 105 </phrase> 216
+663
+98 <phrase> 12 153 </phrase>
+198 <phrase> 276 </phrase>
+<phrase> 231 </phrase> <phrase> 161 </phrase>
+<phrase> 344 </phrase> <phrase> 31 </phrase>
+<phrase> 89 </phrase> <phrase> 696 </phrase>
+<phrase> 158 160 </phrase> 1059 <phrase> 39 </phrase>
+<phrase> 1058 </phrase> <phrase> 339 </phrase>
+180 <phrase> 152 </phrase>
+<phrase> 73 </phrase> <phrase> 322 </phrase>
+<phrase> 23 </phrase>

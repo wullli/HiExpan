@@ -52,6 +52,14 @@ def main(corpusName):
             sentence = json.loads(line)
             lemma_list = sentence["lemma"]
             ems_new = []
+
+            # Added by wullli, since we have entities in seed tax that are not extracted by AutoPhrase
+            original_entity = " ".join(sentence["tokens"]).strip()
+            if original_entity not in entity2id:  # a new "entity"
+                entity2id[original_entity] = cnt
+                cnt += 1
+                entity2surface_names[original_entity] = defaultdict(int)
+
             for mention in sentence["entityMentions"]:
                 entity = mention["text"].lower()
                 if entity == "":  # this can happen because AutoPhrase returns <phrase></phrase>
